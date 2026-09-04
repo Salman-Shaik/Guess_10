@@ -58,7 +58,7 @@ export function SetupPage({ onStart }: SetupPageProps) {
 
   return <div className="gi10-app setup-screen">
     <header className="gi10-header">
-      <div><span className="eyebrow">The smart questions game</span><h1 className="gi10-title">Mystery Card Night</h1></div>
+      <div><span className="eyebrow">The smart questions game</span><h1 className="gi10-title">Deca-Question Guesser</h1></div>
       <div className="setup-nav" role="tablist" aria-label="Game information">
         <button className={view === 'setup' ? 'is-active' : ''} onClick={() => setView('setup')}>Set up game</button>
         <button className={view === 'rules' ? 'is-active' : ''} onClick={() => setView('rules')}>How to play</button>

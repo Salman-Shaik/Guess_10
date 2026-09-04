@@ -3,9 +3,9 @@ import App from './App';
 
 beforeEach(() => localStorage.clear());
 
-test('renders Mystery Card Night header', () => {
+test('renders Deca-Question Guesser header', () => {
   render(<App />);
-  const headerElement = screen.getByText(/Mystery Card Night/i);
+  const headerElement = screen.getByText(/Deca-Question Guesser/i);
   expect(headerElement).toBeInTheDocument();
 });
 

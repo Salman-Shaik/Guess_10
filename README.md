@@ -1,4 +1,4 @@
-# Mystery Card Night
+# Deca-Question Guesser
 
 A same-device mystery-card party game for teams and individual players. Ask smart questions, reveal clues, and solve each card before your opponents.
 

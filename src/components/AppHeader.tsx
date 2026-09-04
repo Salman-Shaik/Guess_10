@@ -1,7 +1,7 @@
 export function AppHeader() {
   return (
     <header className="gi10-header">
-      <h1 className="gi10-title">Mystery Card Night</h1>
+      <h1 className="gi10-title">Deca-Question Guesser</h1>
       <div className="gi10-sub">Two-Team Trivia • Multi-Category Ready</div>
     </header>
   );

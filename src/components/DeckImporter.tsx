@@ -16,7 +16,7 @@ function isDeck(value: unknown): value is Deck {
 }
 
 function buildPrompt(topic: string) {
-  return `Create a factually accurate Mystery Card Night game deck about "${topic || '[YOUR CATEGORY]'}".
+  return `Create a factually accurate Deca-Question Guesser game deck about "${topic || '[YOUR CATEGORY]'}".
 
 Return ONLY valid JSON. Do not use Markdown or add commentary. Create 100 unique cards, ordered from easy to hard. Every card must follow this exact structure:
 
