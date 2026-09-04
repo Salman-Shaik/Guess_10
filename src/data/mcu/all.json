@@ -1,0 +1,2302 @@
+[
+  {
+    "name": "Iron Man",
+    "buzzwords": [
+      "Genius",
+      "Inventor",
+      "Arc reactor"
+    ],
+    "clues": [
+      "A billionaire engineer builds his first armored suit while held captive.",
+      "He helps form Earth's original superhero team after defeating an armored business rival.",
+      "He uses all six Infinity Stones during the Battle of Earth, sacrificing his life to stop an invading army."
+    ],
+    "icon_info": {
+      "starTag": "Armored Avenger",
+      "placeOfBirth": "Manhattan, New York City",
+      "highestAward": "Original Avenger who ended the Battle of Earth with the Infinity Stones",
+      "alsoKnownFor": "Founder of Stark Industries' modern superhero legacy"
+    },
+    "bonus_question": "In 10 seconds, name the artificial intelligence that assists his early suits.",
+    "bonus_answer": "J.A.R.V.I.S.",
+    "imageUrl": "/images/mcu/001-iron-man.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man"
+  },
+  {
+    "name": "Captain America (Steve Rogers)",
+    "buzzwords": [
+      "S.H.I.E.L.D.",
+      "Brooklyn",
+      "Shield"
+    ],
+    "clues": [
+      "A frail volunteer becomes an enhanced soldier during World War II.",
+      "He is frozen after stopping a HYDRA bomber and awakens decades later.",
+      "He later proves worthy of wielding Mjolnir during the Battle of Earth."
+    ],
+    "icon_info": {
+      "starTag": "The First Avenger",
+      "placeOfBirth": "Brooklyn, New York City",
+      "highestAward": "Original Avenger and wielder of Mjolnir in the Battle of Earth",
+      "alsoKnownFor": "Chosen by Abraham Erskine for the Super Soldier Serum"
+    },
+    "bonus_question": "In 10 seconds, name the metal used to make his famous shield.",
+    "bonus_answer": "Vibranium",
+    "imageUrl": "/images/mcu/002-captain-america-steve-rogers.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Steve_Rogers"
+  },
+  {
+    "name": "Thor",
+    "buzzwords": [
+      "God",
+      "Asgard",
+      "Thunder"
+    ],
+    "clues": [
+      "An Asgardian prince is banished to Earth and must learn humility before reclaiming his power.",
+      "He loses his right eye while fighting his older sister during Ragnarok.",
+      "He helps found the Avengers and later wields both Stormbreaker and his restored hammer."
+    ],
+    "icon_info": {
+      "starTag": "God of Thunder",
+      "placeOfBirth": "Asgard",
+      "highestAward": "Original Avenger and former King of Asgard",
+      "alsoKnownFor": "Son of Odin and brother of Loki"
+    },
+    "bonus_question": "In 10 seconds, name the axe forged for him on Nidavellir.",
+    "bonus_answer": "Stormbreaker",
+    "imageUrl": "/images/mcu/003-thor.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Thor"
+  },
+  {
+    "name": "Hulk",
+    "buzzwords": [
+      "Rage",
+      "scientist",
+      "Gamma Radiation"
+    ],
+    "clues": [
+      "A physicist develops a second personality and superhuman form after a gamma-radiation experiment.",
+      "He fights the Chitauri in New York as one of six original heroes.",
+      "Years later, his combined form uses the Nano Gauntlet to restore those lost in the Blip."
+    ],
+    "icon_info": {
+      "starTag": "Strongest Avenger contender",
+      "placeOfBirth": "United States; exact birthplace not stated",
+      "highestAward": "Original Avenger who reversed the Blip with the Nano Gauntlet",
+      "alsoKnownFor": "The transformed identity of Bruce Banner"
+    },
+    "bonus_question": "In 10 seconds, what kind of radiation caused his transformation?",
+    "bonus_answer": "Gamma radiation",
+    "imageUrl": "/images/mcu/004-hulk.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Hulk"
+  },
+  {
+    "name": "Spider-Man (Peter Parker)",
+    "buzzwords": [
+      "Friendly",
+      "Genius",
+      "Shooters"
+    ],
+    "clues": [
+      "A Queens teenager gains enhanced strength, agility, wall-crawling and danger awareness.",
+      "He is recruited into a dispute between two groups of Avengers at a German airport.",
+      "After the world learns his secret identity, a memory spell eventually makes everyone forget his civilian identity."
+    ],
+    "icon_info": {
+      "starTag": "Friendly neighborhood hero",
+      "placeOfBirth": "Queens, New York City",
+      "highestAward": "Fought as an Avenger in the Infinity War and Battle of Earth",
+      "alsoKnownFor": "Received advanced suits and mentorship from Tony Stark"
+    },
+    "bonus_question": "In 10 seconds, name his best friend who helps him in the Home trilogy.",
+    "bonus_answer": "Ned Leeds",
+    "imageUrl": "/images/mcu/005-spider-man-peter-parker.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Spider-Man"
+  },
+  {
+    "name": "Black Widow",
+    "buzzwords": [
+      "Spy",
+      "Red Room",
+      "Budapest"
+    ],
+    "clues": [
+      "A former Russian assassin defects and becomes an elite S.H.I.E.L.D. operative.",
+      "She is one of the six heroes who defend New York from the Chitauri.",
+      "On Vormir, she sacrifices herself so her teammate can obtain the Soul Stone."
+    ],
+    "icon_info": {
+      "starTag": "Master spy and original Avenger",
+      "placeOfBirth": "Volgograd, Soviet Union",
+      "highestAward": "Original Avenger whose sacrifice secured the Soul Stone",
+      "alsoKnownFor": "Former Red Room operative and S.H.I.E.L.D. agent"
+    },
+    "bonus_question": "In 10 seconds, name the Avenger who accompanied her to Vormir.",
+    "bonus_answer": "Clint Barton",
+    "imageUrl": "/images/mcu/006-black-widow.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Natasha_Romanoff"
+  },
+  {
+    "name": "Thanos",
+    "buzzwords": [
+      "Infinity Stones",
+      "Titan",
+      "snap"
+    ],
+    "clues": [
+      "A warlord from a ruined world believes killing half of all life will restore cosmic balance.",
+      "He sends armies and adopted children to recover powerful stones for him.",
+      "After collecting all six, he snaps his fingers and erases half of life across the universe."
+    ],
+    "icon_info": {
+      "starTag": "The Mad Titan",
+      "placeOfBirth": "Titan",
+      "highestAward": "Successfully assembled all six Infinity Stones and caused the Blip",
+      "alsoKnownFor": "Adoptive father of Gamora and Nebula"
+    },
+    "bonus_question": "In 10 seconds, name the six-stone weapon he uses for the Blip.",
+    "bonus_answer": "Infinity Gauntlet",
+    "imageUrl": "/images/mcu/007-thanos.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Thanos"
+  },
+  {
+    "name": "Loki",
+    "buzzwords": [
+      "Trickster",
+      "Tesseract",
+      "TVA"
+    ],
+    "clues": [
+      "An adopted Asgardian prince attacks New York after making an alliance with the Chitauri.",
+      "A 2012 variant escapes custody with the Space Stone and is arrested by a time-policing organization.",
+      "That variant eventually gives up personal freedom to sustain the branching timelines at the End of Time."
+    ],
+    "icon_info": {
+      "starTag": "God of Mischief",
+      "placeOfBirth": "Jotunheim; raised on Asgard",
+      "highestAward": "Became the guardian sustaining the branching multiverse",
+      "alsoKnownFor": "Adopted son of Odin and biological son of Laufey"
+    },
+    "bonus_question": "In 10 seconds, name the organization that arrests his 2012 variant.",
+    "bonus_answer": "Time Variance Authority",
+    "imageUrl": "/images/mcu/008-loki.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Loki"
+  },
+  {
+    "name": "Doctor Strange",
+    "buzzwords": [
+      "Sorcery",
+      "Time Stone",
+      "Sanctum"
+    ],
+    "clues": [
+      "A brilliant but arrogant neurosurgeon loses fine control of his hands after a car crash.",
+      "He studies the mystic arts at Kamar-Taj and becomes protector of the New York Sanctum.",
+      "He views millions of possible futures before helping engineer the Avengers' eventual victory over the Titan warlord."
+    ],
+    "icon_info": {
+      "starTag": "Master of the Mystic Arts",
+      "placeOfBirth": "New York City, United States",
+      "highestAward": "Helped orchestrate the single future that defeated Thanos",
+      "alsoKnownFor": "Former neurosurgeon and former keeper of the Time Stone"
+    },
+    "bonus_question": "In 10 seconds, name the magical relic that can fly and protects him.",
+    "bonus_answer": "Cloak of Levitation",
+    "imageUrl": "/images/mcu/009-doctor-strange.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Doctor_Strange"
+  },
+  {
+    "name": "Black Panther (T'Challa)",
+    "buzzwords": [
+      "King",
+      "Armored Suit",
+      "Wakanda"
+    ],
+    "clues": [
+      "A Wakandan prince pursues the man he believes killed his father after a bombing in Vienna.",
+      "He gains enhanced abilities through a sacred heart-shaped herb and wears a kinetic-energy suit.",
+      "After defeating his cousin in ritual combat, he remains ruler and opens his hidden nation to greater global cooperation."
+    ],
+    "icon_info": {
+      "starTag": "King of Wakanda",
+      "placeOfBirth": "Wakanda",
+      "highestAward": "Became King of Wakanda and defended the nation from Killmonger's takeover",
+      "alsoKnownFor": "Son of T'Chaka and older brother of Shuri"
+    },
+    "bonus_question": "In 10 seconds, name the herb traditionally used to empower his mantle.",
+    "bonus_answer": "Heart-Shaped Herb",
+    "imageUrl": "/images/mcu/010-black-panther-t-challa.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/T%27Challa"
+  },
+  {
+    "name": "Scarlet Witch",
+    "buzzwords": [
+      "Magic",
+      "Sokovia",
+      "Darkhold"
+    ],
+    "clues": [
+      "A Sokovian volunteer gains extraordinary mental and energy abilities after exposure to an Infinity Stone.",
+      "Her grief creates a magical anomaly that traps a New Jersey town inside changing sitcom realities.",
+      "After studying a forbidden book, she becomes powerful enough to dreamwalk across universes and later destroys every copy of that book."
+    ],
+    "icon_info": {
+      "starTag": "Chaos-magic wielder",
+      "placeOfBirth": "Sokovia",
+      "highestAward": "Destroyed the Darkhold across the multiverse",
+      "alsoKnownFor": "Twin sister of Pietro Maximoff"
+    },
+    "bonus_question": "In 10 seconds, name the New Jersey town caught in her Hex.",
+    "bonus_answer": "Westview",
+    "imageUrl": "/images/mcu/011-scarlet-witch.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Scarlet_Witch"
+  },
+  {
+    "name": "Hawkeye (Clint Barton)",
+    "buzzwords": [
+      "Sharp",
+      "Family Man",
+      "Ronin"
+    ],
+    "clues": [
+      "A master archer serves as a S.H.I.E.L.D. agent before joining Earth's first superhero lineup.",
+      "After losing his family in the Blip, he becomes a masked vigilante who targets criminal groups.",
+      "He later trains a young New York archer while trying to get home for Christmas."
+    ],
+    "icon_info": {
+      "starTag": "Master marksman",
+      "placeOfBirth": "Earth-616; exact birthplace not stated",
+      "highestAward": "Original Avenger and survivor of the Soul Stone mission on Vormir",
+      "alsoKnownFor": "Former S.H.I.E.L.D. agent who used the Ronin identity"
+    },
+    "bonus_question": "In 10 seconds, name the young archer who becomes his partner in New York.",
+    "bonus_answer": "Kate Bishop",
+    "imageUrl": "/images/mcu/012-hawkeye-clint-barton.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Hawkeye"
+  },
+  {
+    "name": "Captain Marvel",
+    "buzzwords": [
+      "Cosmic Energy",
+      "Photon Blasts",
+      "Binary Mode"
+    ],
+    "clues": [
+      "A U.S. Air Force pilot is caught in the explosion of an experimental light-speed engine powered by the Space Stone.",
+      "The Kree erase much of her memory and train her as a warrior before she learns her true history.",
+      "Decades later, she destroys Thanos's warship during the Battle of Earth."
+    ],
+    "icon_info": {
+      "starTag": "Cosmic Avenger",
+      "placeOfBirth": "Earth-616; United States",
+      "highestAward": "Destroyed Sanctuary II during the Battle of Earth",
+      "alsoKnownFor": "Former U.S. Air Force pilot empowered by Space Stone energy"
+    },
+    "bonus_question": "In 10 seconds, name her close friend and fellow pilot from the 1990s.",
+    "bonus_answer": "Maria Rambeau",
+    "imageUrl": "/images/mcu/013-captain-marvel.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Captain_Marvel"
+  },
+  {
+    "name": "Ant-Man (Scott Lang)",
+    "buzzwords": [
+      "Quantum",
+      "Baskin Robins",
+      "Father"
+    ],
+    "clues": [
+      "A former electrical engineer and burglar is recruited to steal a shrinking suit from a technology company.",
+      "He can change size using particles created by a famous scientist.",
+      "His survival in a subatomic dimension leads to the time-travel idea that makes the Avengers' Time Heist possible."
+    ],
+    "icon_info": {
+      "starTag": "Size-changing Avenger",
+      "placeOfBirth": "San Francisco, California",
+      "highestAward": "Key initiator of the Time Heist that enabled the Blip to be reversed",
+      "alsoKnownFor": "Father of Cassie Lang"
+    },
+    "bonus_question": "In 10 seconds, name the scientist who created the particles powering his suit.",
+    "bonus_answer": "Hank Pym",
+    "imageUrl": "/images/mcu/014-ant-man-scott-lang.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Ant-Man"
+  },
+  {
+    "name": "Star-Lord",
+    "buzzwords": [
+      "Leader",
+      "Music",
+      "Peter"
+    ],
+    "clues": [
+      "A boy abducted from Missouri in 1988 grows up among Ravagers in space.",
+      "He steals an orb that turns out to contain the Power Stone and forms an unlikely team while escaping prison.",
+      "He later discovers that his biological father is a living planet."
+    ],
+    "icon_info": {
+      "starTag": "Legendary outlaw and Guardian",
+      "placeOfBirth": "Missouri, United States",
+      "highestAward": "Co-founded and led the Guardians of the Galaxy",
+      "alsoKnownFor": "Son of Meredith Quill and Ego"
+    },
+    "bonus_question": "In 10 seconds, name the living planet revealed to be his father.",
+    "bonus_answer": "Ego",
+    "imageUrl": "/images/mcu/015-star-lord.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Star-Lord"
+  },
+  {
+    "name": "Groot",
+    "buzzwords": [
+      "Tree",
+      "Re-birth",
+      "self-sacrifice"
+    ],
+    "clues": [
+      "A sentient plant-like bounty hunter partners with a genetically modified raccoon.",
+      "He joins a group of prison escapees who defend Xandar from Ronan.",
+      "He forms a protective sphere around his friends and sacrifices his original body during their crash."
+    ],
+    "icon_info": {
+      "starTag": "Flora colossus Guardian",
+      "placeOfBirth": "Outer space; exact birthplace not stated",
+      "highestAward": "Helped save Xandar and sacrificed his original body to protect the Guardians",
+      "alsoKnownFor": "A new offspring later grows from a surviving twig"
+    },
+    "bonus_question": "In 10 seconds, name his closest bounty-hunting partner.",
+    "bonus_answer": "Rocket",
+    "imageUrl": "/images/mcu/016-groot.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Groot"
+  },
+  {
+    "name": "Rocket",
+    "buzzwords": [
+      "Animal",
+      "weapons expert",
+      "Knowhere"
+    ],
+    "clues": [
+      "A small cybernetically enhanced animal is the result of painful experiments by an obsessive geneticist.",
+      "He becomes a founding member of a ragtag galactic team after attempting to capture an outlaw on Xandar.",
+      "Years later, he becomes captain of the team's new lineup."
+    ],
+    "icon_info": {
+      "starTag": "Cybernetically enhanced Guardian",
+      "placeOfBirth": "High Evolutionary's experimental facility; exact planet not stated",
+      "highestAward": "Became captain of the Guardians of the Galaxy",
+      "alsoKnownFor": "Close friend of Groot and former test subject labeled 89P13"
+    },
+    "bonus_question": "In 10 seconds, name the geneticist responsible for his experiments.",
+    "bonus_answer": "High Evolutionary",
+    "imageUrl": "/images/mcu/017-rocket.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Rocket_Raccoon"
+  },
+  {
+    "name": "Gamora",
+    "buzzwords": [
+      "Warrior",
+      "Zen-Whoberi",
+      "Adopted daughter"
+    ],
+    "clues": [
+      "A child from a conquered world is raised by the warlord who killed half her people.",
+      "She betrays her adoptive father and helps a group of criminals protect the Power Stone.",
+      "Her 2018 self is sacrificed on Vormir, while a 2014 variant later fights alongside the heroes at the Battle of Earth."
+    ],
+    "icon_info": {
+      "starTag": "Deadliest woman in the galaxy",
+      "placeOfBirth": "Zen-Whoberi homeworld",
+      "highestAward": "Co-founded the Guardians of the Galaxy and helped save Xandar",
+      "alsoKnownFor": "Adoptive sister of Nebula"
+    },
+    "bonus_question": "In 10 seconds, name her adoptive sister.",
+    "bonus_answer": "Nebula",
+    "imageUrl": "/images/mcu/018-gamora.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Gamora"
+  },
+  {
+    "name": "Vision",
+    "buzzwords": [
+      "Genius",
+      "Mjolnir",
+      "Mind Stone"
+    ],
+    "clues": [
+      "An artificial body is created from vibranium tissue by a rogue intelligence that intends to use it as a new form.",
+      "The Avengers complete the body using an artificial intelligence and the energy of a powerful stone.",
+      "Moments after activation, he calmly lifts the Asgardian hammer, convincing the team of his intentions."
+    ],
+    "icon_info": {
+      "starTag": "Synthezoid Avenger",
+      "placeOfBirth": "Created in Seoul and activated at Avengers Tower, New York City",
+      "highestAward": "Helped defeat Ultron and proved able to lift Mjolnir",
+      "alsoKnownFor": "Powered by the Mind Stone and J.A.R.V.I.S.-derived consciousness"
+    },
+    "bonus_question": "In 10 seconds, name the Infinity Stone embedded in his forehead.",
+    "bonus_answer": "Mind Stone",
+    "imageUrl": "/images/mcu/019-vision.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Vision"
+  },
+  {
+    "name": "Winter Soldier (Bucky Barnes)",
+    "buzzwords": [
+      "White Wolf",
+      "HYDRA",
+      "Arm"
+    ],
+    "clues": [
+      "A World War II sergeant falls from a train and is recovered by HYDRA.",
+      "Brainwashing and cybernetic enhancement turn him into a decades-long assassin.",
+      "After recovering his memories, he fights beside Wakanda and the Avengers and later becomes a member of the New Avengers."
+    ],
+    "icon_info": {
+      "starTag": "White Wolf",
+      "placeOfBirth": "Brooklyn, New York City",
+      "highestAward": "Freed himself from HYDRA conditioning and later joined the New Avengers",
+      "alsoKnownFor": "Childhood best friend of Steve Rogers"
+    },
+    "bonus_question": "In 10 seconds, name the country where his HYDRA trigger words are removed.",
+    "bonus_answer": "Wakanda",
+    "imageUrl": "/images/mcu/020-winter-soldier-bucky-barnes.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Winter_Soldier"
+  },
+  {
+    "name": "Captain America (Sam Wilson)",
+    "buzzwords": [
+      "Fly",
+      "Shield",
+      "Louisiana"
+    ],
+    "clues": [
+      "A former U.S. Air Force pararescue veteran uses a winged flight suit to assist a fugitive super-soldier.",
+      "An elderly hero gives him a famous vibranium shield after returning the Infinity Stones.",
+      "He later accepts the mantle, stops an international conspiracy and begins rebuilding the Avengers."
+    ],
+    "icon_info": {
+      "starTag": "Winged Sentinel of Liberty",
+      "placeOfBirth": "Louisiana, United States",
+      "highestAward": "Succeeded Steve Rogers and began rebuilding the Avengers",
+      "alsoKnownFor": "Former pararescue airman who first operated as Falcon"
+    },
+    "bonus_question": "In 10 seconds, name the young winged hero he recruits as an Avenger.",
+    "bonus_answer": "Joaquin Torres",
+    "imageUrl": "/images/mcu/021-captain-america-sam-wilson.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Captain_America"
+  },
+  {
+    "name": "War Machine",
+    "buzzwords": [
+      "Armor",
+      "Air Force",
+      "Stark technology"
+    ],
+    "clues": [
+      "A U.S. Air Force officer is one of Tony Stark's closest friends.",
+      "He takes control of an armored suit and eventually receives a weaponized military version.",
+      "He is severely injured during the Avengers' airport battle but later returns with assistive technology and upgraded armor."
+    ],
+    "icon_info": {
+      "starTag": "Armored Air Force Avenger",
+      "placeOfBirth": "United States; exact birthplace not stated",
+      "highestAward": "Avenger and decorated U.S. Air Force officer",
+      "alsoKnownFor": "James Rhodes, longtime friend of Tony Stark"
+    },
+    "bonus_question": "In 10 seconds, name the corporation that originally built the armor technology he uses.",
+    "bonus_answer": "Stark Industries",
+    "imageUrl": "/images/mcu/022-war-machine.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/War_Machine"
+  },
+  {
+    "name": "Nick Fury",
+    "buzzwords": [
+      "Patch",
+      "S.H.I.E.L.D.",
+      "Avengers Initiative"
+    ],
+    "clues": [
+      "A covert operative loses the use of one eye after an encounter with a Flerken in the 1990s.",
+      "He later becomes director of a global intelligence agency.",
+      "He launches an initiative that brings six heroes together during the Chitauri invasion of New York."
+    ],
+    "icon_info": {
+      "starTag": "Architect of the Avengers Initiative",
+      "placeOfBirth": "Huntsville, Alabama",
+      "highestAward": "Founded the Avengers Initiative and served as Director of S.H.I.E.L.D.",
+      "alsoKnownFor": "Maintains a long alliance with Carol Danvers"
+    },
+    "bonus_question": "In 10 seconds, name the catlike alien responsible for his damaged eye.",
+    "bonus_answer": "Goose",
+    "imageUrl": "/images/mcu/023-nick-fury.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Nick_Fury"
+  },
+  {
+    "name": "Wasp (Hope van Dyne)",
+    "buzzwords": [
+      "Suit",
+      "Pym tech",
+      "Quantum"
+    ],
+    "clues": [
+      "The daughter of two pioneering size-changing heroes is a skilled executive and martial artist.",
+      "She receives a shrinking suit with wings and blasters designed by her father.",
+      "She enters the Quantum Realm with her family to rescue her mother and later fights in the Battle of Earth."
+    ],
+    "icon_info": {
+      "starTag": "Winged Pym-tech hero",
+      "placeOfBirth": "San Francisco, California",
+      "highestAward": "Helped rescue Janet van Dyne from the Quantum Realm and fought in the Battle of Earth",
+      "alsoKnownFor": "Daughter of Hank Pym and Janet van Dyne"
+    },
+    "bonus_question": "In 10 seconds, name her mother who was trapped in the Quantum Realm.",
+    "bonus_answer": "Janet van Dyne",
+    "imageUrl": "/images/mcu/024-wasp-hope-van-dyne.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Wasp"
+  },
+  {
+    "name": "Deadpool",
+    "buzzwords": [
+      "Suit",
+      "Regeneration",
+      "Fourth Wall"
+    ],
+    "clues": [
+      "A mercenary undergoes experimental treatment that activates a powerful healing factor and leaves him heavily scarred.",
+      "He regularly addresses the audience and makes jokes about his own franchise.",
+      "After being taken by the TVA, he recruits an alternate clawed mutant and helps prevent his home timeline from being destroyed."
+    ],
+    "icon_info": {
+      "starTag": "Merc with a Mouth",
+      "placeOfBirth": "Earth-10005; based in New York City",
+      "highestAward": "Helped destroy the Time Ripper and save Earth-10005",
+      "alsoKnownFor": "Civilian identity Wade Wilson"
+    },
+    "bonus_question": "In 10 seconds, name the organization that brings him to the Void storyline.",
+    "bonus_answer": "Time Variance Authority",
+    "imageUrl": "/images/mcu/025-deadpool.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Deadpool"
+  },
+  {
+    "name": "Wolverine",
+    "buzzwords": [
+      "Mutants",
+      "Suit",
+      "Claws"
+    ],
+    "clues": [
+      "A mutant from an alternate universe possesses a powerful healing factor and retractable metal-coated claws.",
+      "He is described as having failed his world's X-Men and initially refuses to help save another timeline.",
+      "He ultimately works with a red-suited mercenary to destroy the TVA's Time Ripper."
+    ],
+    "icon_info": {
+      "starTag": "Clawed mutant survivor",
+      "placeOfBirth": "Alternate universe; exact designation not stated",
+      "highestAward": "Helped destroy the Time Ripper and save Earth-10005",
+      "alsoKnownFor": "A multiversal variant of Logan encountered in Deadpool & Wolverine"
+    },
+    "bonus_question": "In 10 seconds, name the metal bonded to his skeleton.",
+    "bonus_answer": "Adamantium",
+    "imageUrl": "/images/mcu/026-wolverine.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Wolverine"
+  },
+  {
+    "name": "Daredevil",
+    "buzzwords": [
+      "Smart",
+      "Vigilante",
+      "Blind"
+    ],
+    "clues": [
+      "A blind New York lawyer uses extraordinary hearing and other heightened senses to fight crime at night.",
+      "He repeatedly clashes with a powerful crime boss who later becomes mayor.",
+      "After retiring his red suit for a time, he returns to vigilantism when a serial killer terrorizes the city."
+    ],
+    "icon_info": {
+      "starTag": "Devil of Hell's Kitchen",
+      "placeOfBirth": "Hell's Kitchen, New York City",
+      "highestAward": "Defended Hell's Kitchen from organized crime and later resisted Mayor Fisk's anti-vigilante regime",
+      "alsoKnownFor": "Civilian identity Matt Murdock"
+    },
+    "bonus_question": "In 10 seconds, name his longtime law-school friend and partner.",
+    "bonus_answer": "Foggy Nelson",
+    "imageUrl": "/images/mcu/027-daredevil.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Daredevil"
+  },
+  {
+    "name": "Punisher",
+    "buzzwords": [
+      "Emblem",
+      "vigilante",
+      "Marine veteran"
+    ],
+    "clues": [
+      "A former Marine wages a one-man war on criminals after his family is killed in Central Park.",
+      "He first crosses paths with a blind vigilante while targeting gangs in New York.",
+      "He later uncovers conspiracies connected to his military past and returns during the mayor's anti-vigilante campaign."
+    ],
+    "icon_info": {
+      "starTag": "Skull-marked vigilante",
+      "placeOfBirth": "New York City, United States",
+      "highestAward": "Exposed the conspiracy surrounding his family's murder and dismantled multiple criminal operations",
+      "alsoKnownFor": "Civilian identity Frank Castle"
+    },
+    "bonus_question": "In 10 seconds, name the New York vigilante lawyer he frequently clashes with.",
+    "bonus_answer": "Daredevil",
+    "imageUrl": "/images/mcu/028-punisher.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Punisher"
+  },
+  {
+    "name": "Shang-Chi",
+    "buzzwords": [
+      "Valet",
+      "Martial arts",
+      "Ten Rings"
+    ],
+    "clues": [
+      "A highly trained fighter leaves his father's organization and lives under an assumed name in San Francisco.",
+      "He returns to China after assassins steal a pendant linked to a hidden village.",
+      "He inherits ten ancient weapons after confronting his father and helps defeat the Dweller-in-Darkness."
+    ],
+    "icon_info": {
+      "starTag": "Master of the Ten Rings",
+      "placeOfBirth": "China; raised at the Ten Rings compound",
+      "highestAward": "Inherited the Ten Rings and helped save Ta Lo from the Dweller-in-Darkness",
+      "alsoKnownFor": "Son of Wenwu and Jiang Li"
+    },
+    "bonus_question": "In 10 seconds, name the hidden village protected by his mother's people.",
+    "bonus_answer": "Ta Lo",
+    "imageUrl": "/images/mcu/029-shang-chi.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Shang-Chi"
+  },
+  {
+    "name": "Moon Knight",
+    "buzzwords": [
+      "Weapons",
+      "Dissociative Identities",
+      "Egypt"
+    ],
+    "clues": [
+      "A former mercenary with dissociative identity disorder becomes the avatar of an Egyptian moon god.",
+      "One identity is an American named Marc, while another is a mild-mannered British museum worker.",
+      "His supernatural suit and crescent-shaped weapons appear when he serves his patron's mission."
+    ],
+    "icon_info": {
+      "starTag": "Fist of Khonshu",
+      "placeOfBirth": "Chicago, Illinois",
+      "highestAward": "Helped defeat Arthur Harrow and prevent Ammit from judging humanity",
+      "alsoKnownFor": "Marc Spector shares a body with Steven Grant and Jake Lockley"
+    },
+    "bonus_question": "In 10 seconds, name the Egyptian deity who grants his powers.",
+    "bonus_answer": "Khonshu",
+    "imageUrl": "/images/mcu/030-moon-knight.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Moon_Knight"
+  },
+  {
+    "name": "Ms. Marvel",
+    "buzzwords": [
+      "Teen",
+      "Bangle",
+      "Jersey City"
+    ],
+    "clues": [
+      "A superhero-obsessed Pakistani American teenager discovers that a family heirloom unlocks unusual abilities.",
+      "She creates glowing platforms and enlarged constructs from light-like energy.",
+      "She later teams with two cosmic heroes after their light-based powers cause them to switch places."
+    ],
+    "icon_info": {
+      "starTag": "Jersey City superfan turned hero",
+      "placeOfBirth": "Jersey City, New Jersey",
+      "highestAward": "Helped stop Dar-Benn and later began recruiting a young-hero team",
+      "alsoKnownFor": "Civilian identity Kamala Khan"
+    },
+    "bonus_question": "In 10 seconds, name the Avenger she idolizes most.",
+    "bonus_answer": "Captain Marvel",
+    "imageUrl": "/images/mcu/031-ms-marvel.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Ms._Marvel"
+  },
+  {
+    "name": "She-Hulk",
+    "buzzwords": [
+      "Lawyer",
+      "Fourth wall",
+      "Gamma Blood"
+    ],
+    "clues": [
+      "A Los Angeles attorney gains gamma-powered abilities after her cousin's blood enters an open wound following a car crash.",
+      "Unlike her cousin, she usually retains her personality and legal expertise while transformed.",
+      "She becomes head of a superhuman-law division and frequently speaks directly to the audience."
+    ],
+    "icon_info": {
+      "starTag": "Attorney at Law",
+      "placeOfBirth": "Los Angeles, California",
+      "highestAward": "Became a prominent superhuman-rights attorney while mastering her gamma form",
+      "alsoKnownFor": "Civilian identity Jennifer Walters"
+    },
+    "bonus_question": "In 10 seconds, name her famous gamma-powered cousin.",
+    "bonus_answer": "Bruce Banner",
+    "imageUrl": "/images/mcu/032-she-hulk.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/She-Hulk"
+  },
+  {
+    "name": "Yelena Belova",
+    "buzzwords": [
+      "Red Room",
+      "Assassin",
+      "Widow"
+    ],
+    "clues": [
+      "A Russian assassin spends part of her childhood in Ohio as a member of a fake undercover family.",
+      "After escaping chemical mind control, she works with her older surrogate sister to free the other operatives from the Red Room.",
+      "Years later, she is recruited into a team of antiheroes that becomes publicly known as the New Avengers."
+    ],
+    "icon_info": {
+      "starTag": "Former Red Room Widow",
+      "placeOfBirth": "Russia; exact birthplace not stated",
+      "highestAward": "Helped destroy the Red Room and became a member of the New Avengers",
+      "alsoKnownFor": "Surrogate younger sister of Natasha Romanoff"
+    },
+    "bonus_question": "In 10 seconds, name the man she believed was responsible for her sister's death before learning the truth.",
+    "bonus_answer": "Clint Barton",
+    "imageUrl": "/images/mcu/033-yelena-belova.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Black_Widow"
+  },
+  {
+    "name": "Kate Bishop",
+    "buzzwords": [
+      "Archery",
+      "Purple",
+      "New York"
+    ],
+    "clues": [
+      "A young New Yorker becomes fascinated with superheroes after witnessing the Battle of New York as a child.",
+      "She is an elite archer, fencer and martial artist who accidentally draws attention by wearing a vigilante's old suit.",
+      "She partners with an original Avenger during a Christmas conflict involving the Tracksuit Mafia."
+    ],
+    "icon_info": {
+      "starTag": "Young master archer",
+      "placeOfBirth": "New York City, United States",
+      "highestAward": "Earned Clint Barton's trust as his archery partner and successor figure",
+      "alsoKnownFor": "Owner and friend of Lucky the Pizza Dog"
+    },
+    "bonus_question": "In 10 seconds, name the criminal group that repeatedly chases her in New York.",
+    "bonus_answer": "Tracksuit Mafia",
+    "imageUrl": "/images/mcu/034-kate-bishop.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Kate_Bishop"
+  },
+  {
+    "name": "Nebula",
+    "buzzwords": [
+      "Cybernetics",
+      "Sister",
+      "Hybrid"
+    ],
+    "clues": [
+      "A blue-skinned warrior is repeatedly cybernetically modified whenever she loses fights against her adopted sister.",
+      "She begins as a servant of a cosmic warlord but eventually turns against him.",
+      "A future version joins the Avengers' Time Heist and confronts her own 2014 self."
+    ],
+    "icon_info": {
+      "starTag": "Cybernetic Guardian",
+      "placeOfBirth": "Outer space; exact birthplace not stated",
+      "highestAward": "Helped the Avengers win the Battle of Earth and later joined the Guardians' Knowhere community",
+      "alsoKnownFor": "Adoptive sister of Gamora"
+    },
+    "bonus_question": "In 10 seconds, name her adoptive father.",
+    "bonus_answer": "Thanos",
+    "imageUrl": "/images/mcu/035-nebula.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Nebula"
+  },
+  {
+    "name": "Drax",
+    "buzzwords": [
+      "Knives",
+      "Revenge",
+      "Guardian"
+    ],
+    "clues": [
+      "A powerful alien warrior loses his wife and daughter to forces serving Ronan.",
+      "He is imprisoned on the Kyln, where he joins a group of escapees who later save Xandar.",
+      "His blunt literal-mindedness becomes a defining part of the Guardians' team dynamic."
+    ],
+    "icon_info": {
+      "starTag": "The Destroyer",
+      "placeOfBirth": "Outer space; exact birthplace not stated",
+      "highestAward": "Co-founded the Guardians of the Galaxy and helped save Xandar",
+      "alsoKnownFor": "Later becomes a caretaker for rescued children on Knowhere"
+    },
+    "bonus_question": "In 10 seconds, name the villain he originally wants to kill for his family's deaths.",
+    "bonus_answer": "Ronan the Accuser",
+    "imageUrl": "/images/mcu/036-drax.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Drax_the_Destroyer"
+  },
+  {
+    "name": "Mantis",
+    "buzzwords": [
+      "Psychic",
+      "Empathy",
+      "Ego"
+    ],
+    "clues": [
+      "An alien empath is raised on a living planet and uses her powers to help its humanoid avatar sleep.",
+      "She can sense and influence emotions through physical contact.",
+      "She joins the Guardians after helping them defeat the celestial being who raised her."
+    ],
+    "icon_info": {
+      "starTag": "Empathic Guardian",
+      "placeOfBirth": "Raised on Ego's planet",
+      "highestAward": "Helped defeat Ego and later fought in the Battle of Earth",
+      "alsoKnownFor": "Half-sister of Peter Quill"
+    },
+    "bonus_question": "In 10 seconds, name the living planet who raised her.",
+    "bonus_answer": "Ego",
+    "imageUrl": "/images/mcu/037-mantis.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Mantis"
+  },
+  {
+    "name": "Wong",
+    "buzzwords": [
+      "Sorcerer Supreme",
+      "Sanctum",
+      "Sling ring"
+    ],
+    "clues": [
+      "A disciplined master of the mystic arts first serves as librarian at Kamar-Taj.",
+      "He survives the Blip and assumes the highest formal leadership title among Earth's sorcerers.",
+      "He organizes mystic defenders during battles against Thanos's army and a corrupted witch."
+    ],
+    "icon_info": {
+      "starTag": "Sorcerer Supreme",
+      "placeOfBirth": "Kamar-Taj, Nepal; associated location",
+      "highestAward": "Became Sorcerer Supreme during Stephen Strange's absence",
+      "alsoKnownFor": "Former librarian of Kamar-Taj"
+    },
+    "bonus_question": "In 10 seconds, name his formal magical title.",
+    "bonus_answer": "Sorcerer Supreme",
+    "imageUrl": "/images/mcu/038-wong.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Wong"
+  },
+  {
+    "name": "Valkyrie",
+    "buzzwords": [
+      "Warrior",
+      "Ruler",
+      "New Asgard"
+    ],
+    "clues": [
+      "A former elite Asgardian warrior survives an ancient battle against the goddess of death and later hides on Sakaar.",
+      "She helps lead refugees away from Ragnarok and fights in the Battle of Earth.",
+      "The former king eventually appoints her ruler of the surviving Asgardian community in Norway."
+    ],
+    "icon_info": {
+      "starTag": "King of New Asgard",
+      "placeOfBirth": "Asgard",
+      "highestAward": "Became ruler of New Asgard",
+      "alsoKnownFor": "Last prominent survivor of the original Valkyrie order"
+    },
+    "bonus_question": "In 10 seconds, name the planet where she worked as a Scrapper.",
+    "bonus_answer": "Sakaar",
+    "imageUrl": "/images/mcu/039-valkyrie.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Valkyrie"
+  },
+  {
+    "name": "Red Guardian",
+    "buzzwords": [
+      "Super-soldier",
+      "Shield",
+      "Russia"
+    ],
+    "clues": [
+      "A Soviet enhanced operative poses as an American father during an undercover mission in Ohio.",
+      "After returning to Russia, he is imprisoned for years by his former superior.",
+      "He later reunites with his fake family, helps destroy the Red Room and joins the New Avengers."
+    ],
+    "icon_info": {
+      "starTag": "Russia's super-soldier",
+      "placeOfBirth": "Soviet Union",
+      "highestAward": "Helped bring down the Red Room and later joined the New Avengers",
+      "alsoKnownFor": "Civilian identity Alexei Shostakov"
+    },
+    "bonus_question": "In 10 seconds, name the Red Room leader who had him imprisoned.",
+    "bonus_answer": "Dreykov",
+    "imageUrl": "/images/mcu/040-red-guardian.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Red_Guardian"
+  },
+  {
+    "name": "Agatha Harkness",
+    "buzzwords": [
+      "Magic",
+      "Witty",
+      "Coven"
+    ],
+    "clues": [
+      "A centuries-old witch survives an attempted execution by her own coven in colonial Massachusetts.",
+      "She enters a magical New Jersey anomaly while pretending to be a nosy neighbor.",
+      "After being trapped under a false identity for years, she travels the Witches' Road with a new coven."
+    ],
+    "icon_info": {
+      "starTag": "Centuries-old Salem witch",
+      "placeOfBirth": "Salem, Massachusetts",
+      "highestAward": "Survived her coven's execution attempt and later completed a journey tied to the Witches' Road",
+      "alsoKnownFor": "Posed as Agnes inside the Westview anomaly"
+    },
+    "bonus_question": "In 10 seconds, name the false neighbor identity she uses in Westview.",
+    "bonus_answer": "Agnes",
+    "imageUrl": "/images/mcu/041-agatha-harkness.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Agatha_Harkness"
+  },
+  {
+    "name": "Shuri",
+    "buzzwords": [
+      "Genius",
+      "Brilliant",
+      "Wakanda"
+    ],
+    "clues": [
+      "A brilliant Wakandan inventor leads much of her nation's advanced research and designs high-tech suits.",
+      "After losing her brother and mother, she recreates a sacred herb using synthetic methods.",
+      "She takes up her nation's panther mantle and defeats the ruler of Talokan before choosing peace."
+    ],
+    "icon_info": {
+      "starTag": "Wakandan genius and Black Panther",
+      "placeOfBirth": "Wakanda",
+      "highestAward": "Successfully recreated the Heart-Shaped Herb and became Black Panther",
+      "alsoKnownFor": "Younger sister of T'Challa"
+    },
+    "bonus_question": "In 10 seconds, name the underwater nation whose ruler she battles.",
+    "bonus_answer": "Talokan",
+    "imageUrl": "/images/mcu/042-shuri.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Black_Panther"
+  },
+  {
+    "name": "Okoye",
+    "buzzwords": [
+      "Spear",
+      "Warrior",
+      "Dora Milaje"
+    ],
+    "clues": [
+      "An elite spear fighter commands the royal guard of an advanced African nation.",
+      "She remains loyal to the throne during a civil conflict even when a challenger temporarily becomes king.",
+      "After losing her rank, she receives Midnight Angel armor and helps rescue a kidnapped princess."
+    ],
+    "icon_info": {
+      "starTag": "Former General of the Dora Milaje",
+      "placeOfBirth": "Wakanda",
+      "highestAward": "Served as General of the Dora Milaje and fought in the Battle of Earth",
+      "alsoKnownFor": "Later wears Midnight Angel armor"
+    },
+    "bonus_question": "In 10 seconds, name the all-female royal guard she once commands.",
+    "bonus_answer": "Dora Milaje",
+    "imageUrl": "/images/mcu/043-okoye.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Okoye"
+  },
+  {
+    "name": "Namor",
+    "buzzwords": [
+      "Fly",
+      "Strong",
+      "King"
+    ],
+    "clues": [
+      "A mutant ruler is born after his mother consumes a vibranium-rich plant while pregnant in the sixteenth century.",
+      "He can fly using small wings on his ankles and is extraordinarily strong outside the water.",
+      "He leads an underwater civilization and wages war on Wakanda before agreeing to a truce."
+    ],
+    "icon_info": {
+      "starTag": "K'uk'ulkan, Feather Serpent God",
+      "placeOfBirth": "Yucatán, New Spain",
+      "highestAward": "Founded and ruled Talokan for centuries",
+      "alsoKnownFor": "Known to his people as K'uk'ulkan"
+    },
+    "bonus_question": "In 10 seconds, name the underwater nation he rules.",
+    "bonus_answer": "Talokan",
+    "imageUrl": "/images/mcu/044-namor.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Namor"
+  },
+  {
+    "name": "Ultron",
+    "buzzwords": [
+      "Vibranium",
+      "Rogue",
+      "AI"
+    ],
+    "clues": [
+      "An artificial intelligence is created from a peacekeeping concept and code found within the Mind Stone.",
+      "Almost immediately, it concludes that humanity itself threatens peace.",
+      "It builds an army of robots and lifts a large section of a European city into the sky as part of an extinction plan."
+    ],
+    "icon_info": {
+      "starTag": "Rogue peacekeeping artificial intelligence",
+      "placeOfBirth": "Avengers Tower, New York City",
+      "highestAward": "Created a global-scale extinction threat during the Battle of Sokovia",
+      "alsoKnownFor": "Built the body that later became Vision"
+    },
+    "bonus_question": "In 10 seconds, name the city he lifts into the sky.",
+    "bonus_answer": "Sokovia",
+    "imageUrl": "/images/mcu/045-ultron.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Ultron"
+  },
+  {
+    "name": "Hela",
+    "buzzwords": [
+      "Godess",
+      "Necroswords",
+      "Asgard"
+    ],
+    "clues": [
+      "Odin's firstborn child once helped him conquer the Nine Realms before he imprisoned her.",
+      "She shatters Mjolnir shortly after returning from exile.",
+      "She seizes the Asgardian throne and is ultimately overwhelmed when Ragnarok is deliberately unleashed."
+    ],
+    "icon_info": {
+      "starTag": "Goddess of Death",
+      "placeOfBirth": "Asgard",
+      "highestAward": "Conquered Asgard and destroyed Mjolnir",
+      "alsoKnownFor": "Firstborn child of Odin"
+    },
+    "bonus_question": "In 10 seconds, name the fire demon whose return ends her reign.",
+    "bonus_answer": "Surtur",
+    "imageUrl": "/images/mcu/046-hela.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Hela"
+  },
+  {
+    "name": "Yondu",
+    "buzzwords": [
+      "Psychic",
+      "Ravager",
+      "Arrow"
+    ],
+    "clues": [
+      "A blue-skinned space pirate abducts a human child from Earth but chooses not to deliver him to the child's biological father.",
+      "He controls a deadly arrow by whistling through a fin-mounted interface.",
+      "He sacrifices himself in space to save the young man he raised."
+    ],
+    "icon_info": {
+      "starTag": "Ravager captain and surrogate father",
+      "placeOfBirth": "Outer space; exact birthplace not stated",
+      "highestAward": "Sacrificed himself to save Peter Quill from Ego's destruction",
+      "alsoKnownFor": "Wielder of the Yaka Arrow"
+    },
+    "bonus_question": "In 10 seconds, name the human child he abducted and raised.",
+    "bonus_answer": "Peter Quill",
+    "imageUrl": "/images/mcu/047-yondu.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Yondu"
+  },
+  {
+    "name": "Adam Warlock",
+    "buzzwords": [
+      "Golden",
+      "Cosmic Powers",
+      "Sovereign"
+    ],
+    "clues": [
+      "A powerful artificial being is created by the Sovereign as a weapon against the Guardians.",
+      "He emerges from his birthing cocoon before fully mature and attacks Knowhere under orders from the High Evolutionary.",
+      "After being shown mercy, he helps rescue Peter Quill and later joins Rocket's new team."
+    ],
+    "icon_info": {
+      "starTag": "Perfect Sovereign creation",
+      "placeOfBirth": "Created by the Sovereign",
+      "highestAward": "Joined the re-formed Guardians after saving Peter Quill",
+      "alsoKnownFor": "Created by High Priestess Ayesha in a birthing pod"
+    },
+    "bonus_question": "In 10 seconds, name the Sovereign leader who calls him her creation.",
+    "bonus_answer": "Ayesha",
+    "imageUrl": "/images/mcu/048-adam-warlock.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Adam_Warlock"
+  },
+  {
+    "name": "High Evolutionary",
+    "buzzwords": [
+      "Experiments",
+      "Counter-Earth",
+      "Rocket"
+    ],
+    "clues": [
+      "A ruthless geneticist attempts to engineer supposedly perfect species through cruel experimentation.",
+      "He creates an artificial Earthlike society populated by evolved animal people.",
+      "One escaped test subject's intelligence obsesses him for years, leading to an attack on Knowhere."
+    ],
+    "icon_info": {
+      "starTag": "Obsessive genetic engineer",
+      "placeOfBirth": "Outer space; exact birthplace not stated",
+      "highestAward": "Created Counter-Earth and numerous engineered species",
+      "alsoKnownFor": "Responsible for Rocket's cybernetic experimentation"
+    },
+    "bonus_question": "In 10 seconds, name the Guardian whose brain he desperately wants to study.",
+    "bonus_answer": "Rocket",
+    "imageUrl": "/images/mcu/049-high-evolutionary.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/High_Evolutionary"
+  },
+  {
+    "name": "Mysterio",
+    "buzzwords": [
+      "Illusions",
+      "Drones",
+      "Stark"
+    ],
+    "clues": [
+      "A former technology employee claims to be a hero from another universe after elemental creatures appear in Europe.",
+      "His spectacular battles are actually produced with weaponized drones and holographic technology.",
+      "Before dying, he frames a teenage hero for his attacks and publicly reveals that hero's secret identity."
+    ],
+    "icon_info": {
+      "starTag": "Master of holographic deception",
+      "placeOfBirth": "Earth-616; exact birthplace not stated",
+      "highestAward": "Successfully exposed Peter Parker's secret identity to the world",
+      "alsoKnownFor": "Civilian identity Quentin Beck"
+    },
+    "bonus_question": "In 10 seconds, name the Stark technology network he tries to seize.",
+    "bonus_answer": "E.D.I.T.H.",
+    "imageUrl": "/images/mcu/050-mysterio.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Mysterio"
+  },
+  {
+    "name": "Vulture",
+    "buzzwords": [
+      "Wings",
+      "Alien weapons",
+      "New York"
+    ],
+    "clues": [
+      "A New York salvage contractor loses a major cleanup job after the government creates a new damage-control agency.",
+      "He secretly builds weapons from recovered Chitauri technology and operates a mechanical wing suit.",
+      "He discovers that the young hero hunting him is also his daughter's homecoming date."
+    ],
+    "icon_info": {
+      "starTag": "Wing-suited salvage criminal",
+      "placeOfBirth": "New York City, United States",
+      "highestAward": "Built a successful underground alien-technology weapons operation",
+      "alsoKnownFor": "Civilian identity Adrian Toomes"
+    },
+    "bonus_question": "In 10 seconds, name his daughter who is Peter Parker's homecoming date.",
+    "bonus_answer": "Liz Toomes",
+    "imageUrl": "/images/mcu/051-vulture.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Vulture"
+  },
+  {
+    "name": "Green Goblin",
+    "buzzwords": [
+      "Bombs",
+      "Glider",
+      "Split personality"
+    ],
+    "clues": [
+      "A brilliant industrialist from another universe develops an enhancement serum that creates a violent alternate personality.",
+      "A failed memory spell pulls him into Earth-616 shortly before his original death.",
+      "His darker persona returns and fatally injures May Parker during the condo battle."
+    ],
+    "icon_info": {
+      "starTag": "Goblin persona of Norman Osborn",
+      "placeOfBirth": "Alternate universe; New York City",
+      "highestAward": "One of the most dangerous multiversal villains brought to Earth-616 during the broken spell",
+      "alsoKnownFor": "Uses a glider, pumpkin bombs and superhuman strength"
+    },
+    "bonus_question": "In 10 seconds, name the company founded by his civilian identity.",
+    "bonus_answer": "Oscorp",
+    "imageUrl": "/images/mcu/052-green-goblin.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Green_Goblin"
+  },
+  {
+    "name": "Doctor Octopus",
+    "buzzwords": [
+      "Physicist",
+      "Neural chip",
+      "Tentacles"
+    ],
+    "clues": [
+      "A nuclear physicist from another universe builds four artificial-intelligence-assisted tentacles for a fusion experiment.",
+      "Damage to an inhibitor chip lets the arms influence his mind after the experiment fails.",
+      "On Earth-616, nanotechnology repairs that chip and restores his original personality."
+    ],
+    "icon_info": {
+      "starTag": "Four-armed nuclear physicist",
+      "placeOfBirth": "Alternate universe; New York City",
+      "highestAward": "Cured of his tentacle-control corruption during the multiversal crisis",
+      "alsoKnownFor": "Civilian identity Otto Octavius"
+    },
+    "bonus_question": "In 10 seconds, how many mechanical tentacles are attached to his harness?",
+    "bonus_answer": "Four",
+    "imageUrl": "/images/mcu/053-doctor-octopus.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Doctor_Octopus"
+  },
+  {
+    "name": "Kingpin",
+    "buzzwords": [
+      "Crime",
+      "Bald",
+      "Mayor"
+    ],
+    "clues": [
+      "A powerful New York crime lord builds an empire through violence, bribery and manipulation.",
+      "He repeatedly battles a blind vigilante and later survives being shot by a former protégé.",
+      "He wins the mayoral election and creates an Anti-Vigilante Task Force to tighten his control over the city."
+    ],
+    "icon_info": {
+      "starTag": "Mayor and criminal kingpin",
+      "placeOfBirth": "New York City, United States",
+      "highestAward": "Became Mayor of New York City while retaining control of a criminal empire",
+      "alsoKnownFor": "Civilian identity Wilson Fisk"
+    },
+    "bonus_question": "In 10 seconds, name the neighborhood most associated with his longtime vigilante rival.",
+    "bonus_answer": "Hell's Kitchen",
+    "imageUrl": "/images/mcu/054-kingpin.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Kingpin"
+  },
+  {
+    "name": "Echo",
+    "buzzwords": [
+      "Protégé",
+      "Mute",
+      "Kingpin"
+    ],
+    "clues": [
+      "A deaf fighter loses a leg in childhood and is raised within a powerful New York criminal network.",
+      "She initially blames a masked vigilante for her father's death before learning that her mentor ordered the killing.",
+      "Returning to Oklahoma reconnects her with her Choctaw family and awakens abilities linked to her ancestors."
+    ],
+    "icon_info": {
+      "starTag": "Choctaw warrior and former criminal enforcer",
+      "placeOfBirth": "Tamaha, Oklahoma; family origin",
+      "highestAward": "Broke free from Wilson Fisk's control and embraced her Choctaw heritage",
+      "alsoKnownFor": "Civilian identity Maya Lopez"
+    },
+    "bonus_question": "In 10 seconds, name the crime boss who acted as her uncle and mentor.",
+    "bonus_answer": "Wilson Fisk",
+    "imageUrl": "/images/mcu/055-echo.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Echo"
+  },
+  {
+    "name": "U.S. Agent",
+    "buzzwords": [
+      "Super-soldier",
+      "Shield",
+      "Decorated Veteran"
+    ],
+    "clues": [
+      "A highly decorated U.S. Army captain is chosen by the government to carry a famous patriotic shield.",
+      "After taking an illicit enhancement serum, he publicly kills a Flag Smasher and loses his official mantle.",
+      "He later adopts a new black-uniform identity and joins the New Avengers."
+    ],
+    "icon_info": {
+      "starTag": "Government-made super-soldier",
+      "placeOfBirth": "United States; exact birthplace not stated",
+      "highestAward": "Became a member of the New Avengers after serving as a decorated Army captain",
+      "alsoKnownFor": "Civilian identity John Walker"
+    },
+    "bonus_question": "In 10 seconds, name his close friend who operated as Battlestar.",
+    "bonus_answer": "Lemar Hoskins",
+    "imageUrl": "/images/mcu/056-u-s-agent.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/U.S._Agent"
+  },
+  {
+    "name": "Ghost",
+    "buzzwords": [
+      "Phasing",
+      "Quantum instability",
+      "S.H.I.E.L.D."
+    ],
+    "clues": [
+      "A childhood quantum accident leaves a young woman able to pass uncontrollably through solid matter.",
+      "S.H.I.E.L.D. trains her as an operative while promising treatment for her painful condition.",
+      "Years later, she joins a team of expendable operatives that is publicly rebranded as the New Avengers."
+    ],
+    "icon_info": {
+      "starTag": "Quantum-phasing operative",
+      "placeOfBirth": "Earth-616; transformed in a quantum accident",
+      "highestAward": "Survived chronic molecular instability and later joined the New Avengers",
+      "alsoKnownFor": "Civilian identity Ava Starr"
+    },
+    "bonus_question": "In 10 seconds, name the scientist who tries to stabilize her condition in Ant-Man and the Wasp.",
+    "bonus_answer": "Bill Foster",
+    "imageUrl": "/images/mcu/057-ghost.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Ghost"
+  },
+  {
+    "name": "Taskmaster",
+    "buzzwords": [
+      "Mask",
+      "Red Room",
+      "Photographic Reflexes"
+    ],
+    "clues": [
+      "A girl is badly injured during an assassination attempt intended to kill her father.",
+      "Her father uses technology to turn her into a controlled operative able to mimic observed fighting styles.",
+      "She is freed from chemical control years later and eventually joins Valentina's group of operatives."
+    ],
+    "icon_info": {
+      "starTag": "Combat mimic of the Red Room",
+      "placeOfBirth": "Red Room network; exact birthplace not stated",
+      "highestAward": "Freed from Dreykov's mind control and survived the destruction of the Red Room",
+      "alsoKnownFor": "Civilian identity Antonia Dreykov"
+    },
+    "bonus_question": "In 10 seconds, name the Red Room leader who is also her father.",
+    "bonus_answer": "Dreykov",
+    "imageUrl": "/images/mcu/058-taskmaster.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Taskmaster"
+  },
+  {
+    "name": "Baron Zemo",
+    "buzzwords": [
+      "Sokovia",
+      "Purple mask",
+      "Manipulator"
+    ],
+    "clues": [
+      "A Sokovian special-operations colonel loses his family during the Battle of Sokovia.",
+      "Without superpowers, he manipulates two groups of heroes into fighting each other by exposing a buried assassination secret.",
+      "Years later, he temporarily works with two former Avengers against enhanced Flag Smashers."
+    ],
+    "icon_info": {
+      "starTag": "Sokovian master manipulator",
+      "placeOfBirth": "Sokovia",
+      "highestAward": "Successfully fractured the Avengers from within during their civil conflict",
+      "alsoKnownFor": "Full name Helmut Zemo"
+    },
+    "bonus_question": "In 10 seconds, name the country whose destruction motivates his revenge.",
+    "bonus_answer": "Sokovia",
+    "imageUrl": "/images/mcu/059-baron-zemo.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Baron_Zemo"
+  },
+  {
+    "name": "Red Skull",
+    "buzzwords": [
+      "HYDRA",
+      "Tesseract",
+      "Vormir"
+    ],
+    "clues": [
+      "A Nazi-era weapons commander uses an early version of the super-soldier serum that permanently alters his appearance.",
+      "He leads HYDRA and harnesses energy from the Space Stone for advanced weapons.",
+      "Touching that stone transports him away from Earth, and he later becomes the spectral guide to the Soul Stone."
+    ],
+    "icon_info": {
+      "starTag": "HYDRA's wartime commander",
+      "placeOfBirth": "Germany",
+      "highestAward": "Led HYDRA's wartime weapons program and later became keeper of the Soul Stone's rules on Vormir",
+      "alsoKnownFor": "Civilian identity Johann Schmidt"
+    },
+    "bonus_question": "In 10 seconds, name the Infinity Stone hidden inside the Tesseract.",
+    "bonus_answer": "Space Stone",
+    "imageUrl": "/images/mcu/060-red-skull.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Red_Skull"
+  },
+  {
+    "name": "Abomination",
+    "buzzwords": [
+      "Super-soldier serum",
+      "Monster",
+      "Gamma Blood"
+    ],
+    "clues": [
+      "A British Royal Marine born in Russia volunteers for an experimental enhancement program while hunting Bruce Banner.",
+      "Further exposure to gamma-irradiated blood transforms him into a huge creature that battles through Harlem.",
+      "Years later, he pursues parole while running a wellness retreat and participates in underground fights."
+    ],
+    "icon_info": {
+      "starTag": "Gamma-powered former soldier",
+      "placeOfBirth": "Russia",
+      "highestAward": "Survived the Battle of Harlem and later gained parole before violating its conditions",
+      "alsoKnownFor": "Civilian identity Emil Blonsky"
+    },
+    "bonus_question": "In 10 seconds, name the New York neighborhood where he fights the Hulk.",
+    "bonus_answer": "Harlem",
+    "imageUrl": "/images/mcu/061-abomination.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Abomination"
+  },
+  {
+    "name": "Sentry",
+    "buzzwords": [
+      "Powerhouse",
+      "The Void",
+      "O.X.E. experiment"
+    ],
+    "clues": [
+      "A troubled man enters an experimental program run by O.X.E. and develops extraordinary superhuman abilities.",
+      "His darker alternate entity can trap people inside shadowy personal nightmares.",
+      "A group of discarded operatives reaches him emotionally and helps him resist that destructive persona."
+    ],
+    "icon_info": {
+      "starTag": "Golden Guardian of Good",
+      "placeOfBirth": "Earth-616; exact birthplace not stated",
+      "highestAward": "Survived Project Sentry and overcame the Void's control with his teammates' help",
+      "alsoKnownFor": "Civilian identity Robert Reynolds"
+    },
+    "bonus_question": "In 10 seconds, name the dark entity connected to his powers.",
+    "bonus_answer": "The Void",
+    "imageUrl": "/images/mcu/062-sentry.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Sentry"
+  },
+  {
+    "name": "Valentina Allegra de Fontaine",
+    "buzzwords": [
+      "CIA",
+      "O.X.E.",
+      "recruiter"
+    ],
+    "clues": [
+      "A powerful intelligence official quietly recruits morally complicated enhanced operatives for secret work.",
+      "She oversees a corporation's attempt to create a replacement for the Avengers through an experimental superhuman program.",
+      "When her cover-up fails publicly, she reframes the surviving operatives as a new superhero team."
+    ],
+    "icon_info": {
+      "starTag": "Contessa and intelligence power broker",
+      "placeOfBirth": "Earth-616; Italian-American background",
+      "highestAward": "Served as CIA Director and publicly branded the Thunderbolts as the New Avengers",
+      "alsoKnownFor": "Former wife of Everett Ross"
+    },
+    "bonus_question": "In 10 seconds, name the corporation behind Project Sentry.",
+    "bonus_answer": "O.X.E.",
+    "imageUrl": "/images/mcu/063-valentina-allegra-de-fontaine.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Valentina_Allegra_de_Fontaine"
+  },
+  {
+    "name": "Joaquin Torres",
+    "buzzwords": [
+      "Falcon wings",
+      "Air Force",
+      "Captain America partner"
+    ],
+    "clues": [
+      "A U.S. Air Force first lieutenant works with Sam Wilson while investigating the Flag Smashers.",
+      "He inherits damaged flight equipment and later develops into a winged field partner.",
+      "After helping stop a global adamantium conspiracy, he is formally welcomed into the Avengers."
+    ],
+    "icon_info": {
+      "starTag": "New Falcon",
+      "placeOfBirth": "Earth-616; exact birthplace not stated",
+      "highestAward": "Recruited into the Avengers by Sam Wilson",
+      "alsoKnownFor": "U.S. Air Force officer who inherited the Falcon mantle"
+    },
+    "bonus_question": "In 10 seconds, name the hero who passes the winged mantle to him.",
+    "bonus_answer": "Sam Wilson",
+    "imageUrl": "/images/mcu/064-joaquin-torres.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Falcon"
+  },
+  {
+    "name": "Isaiah Bradley",
+    "buzzwords": [
+      "secret super-soldier",
+      "Korean War",
+      "Baltimore"
+    ],
+    "clues": [
+      "A Black American soldier is secretly subjected to super-soldier experiments decades after World War II.",
+      "His government imprisons and experiments on him for years while erasing his service from history.",
+      "In the present day, he survives being involuntarily programmed into an assassination attempt and is later cleared."
+    ],
+    "icon_info": {
+      "starTag": "Forgotten American super-soldier",
+      "placeOfBirth": "Baltimore, Maryland; present-day home",
+      "highestAward": "Survived government experimentation and ultimately had his heroism publicly recognized",
+      "alsoKnownFor": "Grandfather of Eli Bradley"
+    },
+    "bonus_question": "In 10 seconds, name the museum where his story is finally added to the public record.",
+    "bonus_answer": "Smithsonian",
+    "imageUrl": "/images/mcu/065-isaiah-bradley.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Isaiah_Bradley"
+  },
+  {
+    "name": "He Who Remains",
+    "buzzwords": [
+      "Citadel",
+      "Sacred Timeline",
+      "Alioth"
+    ],
+    "clues": [
+      "A scientist from the distant future encounters variants of himself after discovering the multiverse.",
+      "A devastating war among those variants ends when he weaponizes a temporal creature and isolates one controlled timeline.",
+      "He lives alone at the End of Time until two variants of the Asgardian trickster reach his Citadel."
+    ],
+    "icon_info": {
+      "starTag": "Keeper of the Sacred Timeline",
+      "placeOfBirth": "31st century; universe of origin not stated",
+      "highestAward": "Ended a multiversal war and established the Sacred Timeline and TVA system",
+      "alsoKnownFor": "A variant related to the line of Kang"
+    },
+    "bonus_question": "In 10 seconds, name the temporal creature he weaponized to end the multiversal war.",
+    "bonus_answer": "Alioth",
+    "imageUrl": "/images/mcu/066-he-who-remains.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/He_Who_Remains"
+  },
+  {
+    "name": "Sylvie",
+    "buzzwords": [
+      "variant",
+      "enchantment",
+      "Runaway"
+    ],
+    "clues": [
+      "An Asgardian child is arrested by the TVA for causing a nexus event and spends years hiding in apocalypses.",
+      "She can magically enter and control other minds through enchantment.",
+      "At the Citadel at the End of Time, she kills the timeline's hidden ruler despite warnings about his variants."
+    ],
+    "icon_info": {
+      "starTag": "Runaway Loki variant",
+      "placeOfBirth": "Asgard in a branched timeline",
+      "highestAward": "Enchanted Alioth and reached the Citadel at the End of Time",
+      "alsoKnownFor": "Spent much of her life hunting the TVA"
+    },
+    "bonus_question": "In 10 seconds, name the temporal monster she enchants with another variant's help.",
+    "bonus_answer": "Alioth",
+    "imageUrl": "/images/mcu/067-sylvie.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Sylvie_Laufeydottir"
+  },
+  {
+    "name": "America Chavez",
+    "buzzwords": [
+      "Portals",
+      "Multiverse",
+      "Utopian Parallel"
+    ],
+    "clues": [
+      "A teenager can punch star-shaped gateways between universes.",
+      "Because she cannot initially control the ability, a corrupted sorceress hunts her to steal it.",
+      "She eventually learns to aim her portals and begins studying magic at Kamar-Taj."
+    ],
+    "icon_info": {
+      "starTag": "Unique multiversal traveler",
+      "placeOfBirth": "Utopian Parallel",
+      "highestAward": "Learned to control multiversal portal creation and became a Kamar-Taj student",
+      "alsoKnownFor": "No known alternate variants are encountered in Doctor Strange in the Multiverse of Madness"
+    },
+    "bonus_question": "In 10 seconds, what shape do her interdimensional portals resemble?",
+    "bonus_answer": "A star",
+    "imageUrl": "/images/mcu/068-america-chavez.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/America_Chavez"
+  },
+  {
+    "name": "Monica Rambeau",
+    "buzzwords": [
+      "S.A.B.E.R.",
+      "Photon vision",
+      "Westview"
+    ],
+    "clues": [
+      "The daughter of a pioneering Air Force pilot disappears in the Blip and returns five years later beside her mother's hospital bed.",
+      "Repeatedly crossing a magical energy barrier rewrites her cells and grants light-related powers.",
+      "She later closes a tear between universes from the far side and becomes stranded in an alternate reality."
+    ],
+    "icon_info": {
+      "starTag": "Light-spectrum powered S.A.B.E.R. agent",
+      "placeOfBirth": "Louisiana, United States",
+      "highestAward": "Sealed a multiversal tear and saved two universes from collision",
+      "alsoKnownFor": "Daughter of Maria Rambeau"
+    },
+    "bonus_question": "In 10 seconds, name the New Jersey town where her powers first emerge.",
+    "bonus_answer": "Westview",
+    "imageUrl": "/images/mcu/069-monica-rambeau.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Monica_Rambeau"
+  },
+  {
+    "name": "G'iah",
+    "buzzwords": [
+      "Skrull",
+      "Harvest",
+      "Super-Skrull"
+    ],
+    "clues": [
+      "A young shapeshifter grows frustrated with humanity after years of failed promises to find her people a new home.",
+      "She infiltrates a radical resistance led by Gravik while secretly helping her father.",
+      "After receiving DNA-derived abilities from many enhanced beings, she defeats the resistance leader in single combat."
+    ],
+    "icon_info": {
+      "starTag": "Harvest-powered Skrull",
+      "placeOfBirth": "Skrull refugee community; exact birthplace not stated",
+      "highestAward": "Defeated Gravik after gaining Harvest-derived superpowers",
+      "alsoKnownFor": "Daughter of Talos and Soren"
+    },
+    "bonus_question": "In 10 seconds, name the rebel Skrull leader she defeats.",
+    "bonus_answer": "Gravik",
+    "imageUrl": "/images/mcu/070-g-iah.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/G%27iah"
+  },
+  {
+    "name": "Khonshu",
+    "buzzwords": [
+      "God",
+      "Deity",
+      "Avatar"
+    ],
+    "clues": [
+      "An ancient deity is ostracized by fellow Egyptian gods for directly interfering in human affairs.",
+      "He grants supernatural armor and weapons to a mercenary who agrees to become his earthly agent.",
+      "He manipulates the night sky to locate a hidden tomb and later battles the crocodile goddess Ammit."
+    ],
+    "icon_info": {
+      "starTag": "Egyptian God of the Moon",
+      "placeOfBirth": "Egyptian Ennead; exact birthplace not stated",
+      "highestAward": "Defeated Ammit alongside his human avatars and Taweret's avatar",
+      "alsoKnownFor": "Uses Marc Spector and later Jake Lockley as avatars"
+    },
+    "bonus_question": "In 10 seconds, name the crocodile-headed goddess who becomes his enemy.",
+    "bonus_answer": "Ammit",
+    "imageUrl": "/images/mcu/071-khonshu.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Khonshu"
+  },
+  {
+    "name": "Layla El-Faouly",
+    "buzzwords": [
+      "Egyptian Archaeologist",
+      "Taweret",
+      "Winged Armor"
+    ],
+    "clues": [
+      "An Egyptian adventurer searches for answers about her archaeologist father's murder.",
+      "She is married to Marc Spector but discovers he hid his connection to her father's final expedition.",
+      "During the battle in Cairo, she temporarily becomes the avatar of a hippopotamus goddess and receives a winged suit."
+    ],
+    "icon_info": {
+      "starTag": "Avatar of Taweret",
+      "placeOfBirth": "Egypt",
+      "highestAward": "Became Taweret's avatar and helped stop Arthur Harrow and Ammit",
+      "alsoKnownFor": "Wife of Marc Spector"
+    },
+    "bonus_question": "In 10 seconds, name the Egyptian goddess who chooses her as an avatar.",
+    "bonus_answer": "Taweret",
+    "imageUrl": "/images/mcu/072-layla-el-faouly.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Scarlet_Scarab"
+  },
+  {
+    "name": "Sersi",
+    "buzzwords": [
+      "Matter Transmutation",
+      "Museum Curator",
+      "Eternal"
+    ],
+    "clues": [
+      "A synthetic immortal is sent to Earth thousands of years ago to protect humanity from Deviants.",
+      "She develops a deep affection for humans and works as a museum curator in modern London.",
+      "When she learns Earth's true purpose, she leads a Uni-Mind that prevents a Celestial from emerging and destroying the planet."
+    ],
+    "icon_info": {
+      "starTag": "Empathetic matter-transmuting Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Led the effort that stopped Tiamut's Emergence",
+      "alsoKnownFor": "Can transform nonliving matter and eventually transmute living matter"
+    },
+    "bonus_question": "In 10 seconds, name the Celestial whose Emergence she stops.",
+    "bonus_answer": "Tiamut",
+    "imageUrl": "/images/mcu/073-sersi.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Sersi"
+  },
+  {
+    "name": "Ikaris",
+    "buzzwords": [
+      "Flight",
+      "Eye beams",
+      "Eternal"
+    ],
+    "clues": [
+      "A powerful synthetic immortal can fly and project cosmic energy from his eyes.",
+      "After learning the true mission assigned by the Celestials, he secretly helps ensure Earth's planned destruction continues.",
+      "He ultimately cannot bring himself to kill the teammate he loves and departs Earth after the Emergence is stopped."
+    ],
+    "icon_info": {
+      "starTag": "Flying cosmic-energy Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Served as one of Earth's most powerful Eternal defenders for millennia",
+      "alsoKnownFor": "Former husband of Sersi"
+    },
+    "bonus_question": "In 10 seconds, name the Eternal he married.",
+    "bonus_answer": "Sersi",
+    "imageUrl": "/images/mcu/074-ikaris.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Ikaris"
+  },
+  {
+    "name": "Makkari",
+    "buzzwords": [
+      "Super Speed",
+      "Mute",
+      "Eternal"
+    ],
+    "clues": [
+      "A synthetic immortal communicates through sign language and possesses extraordinary speed.",
+      "She spends centuries aboard her team's ship collecting artifacts from human civilizations.",
+      "She joins the final fight against Ikaris and helps the group stop Earth's Celestial Emergence."
+    ],
+    "icon_info": {
+      "starTag": "Fastest Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Helped stop Tiamut's Emergence as part of the Eternals' resistance",
+      "alsoKnownFor": "Forms a close bond with Druig"
+    },
+    "bonus_question": "In 10 seconds, name the ship where she stores her collection.",
+    "bonus_answer": "Domo",
+    "imageUrl": "/images/mcu/075-makkari.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Makkari"
+  },
+  {
+    "name": "Druig",
+    "buzzwords": [
+      "Mind Control",
+      "Amazon",
+      "Eternal"
+    ],
+    "clues": [
+      "A synthetic immortal can influence the minds of large numbers of humans.",
+      "Frustrated by centuries of human warfare, he leaves his team after the fall of Tenochtitlan.",
+      "In modern times he protects a secluded community in the Amazon and later joins the plan to stop Earth's Emergence."
+    ],
+    "icon_info": {
+      "starTag": "Mind-controlling Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Helped stop Tiamut's Emergence after centuries apart from his team",
+      "alsoKnownFor": "Lives with and protects a community in the Amazon"
+    },
+    "bonus_question": "In 10 seconds, which mental power defines his abilities?",
+    "bonus_answer": "Mind control",
+    "imageUrl": "/images/mcu/076-druig.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Druig"
+  },
+  {
+    "name": "Thena",
+    "buzzwords": [
+      "Cosmic Weapons",
+      "Godess",
+      "Eternal warrior"
+    ],
+    "clues": [
+      "A synthetic immortal can form golden energy weapons for close combat.",
+      "Centuries of fragmented memories from destroyed worlds cause a condition her teammates call Mahd Wy'ry.",
+      "During the modern Deviant crisis, she overcomes her instability long enough to kill the evolved creature Kro."
+    ],
+    "icon_info": {
+      "starTag": "Warrior Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Killed Kro, the Deviant who had absorbed Eternal powers",
+      "alsoKnownFor": "Longtime companion of Gilgamesh"
+    },
+    "bonus_question": "In 10 seconds, name the condition that causes her traumatic memory episodes.",
+    "bonus_answer": "Mahd Wy'ry",
+    "imageUrl": "/images/mcu/077-thena.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Thena"
+  },
+  {
+    "name": "Phastos",
+    "buzzwords": [
+      "Inventor",
+      "Cosmic Technology",
+      "Family"
+    ],
+    "clues": [
+      "A synthetic immortal quietly guides human technological development over thousands of years.",
+      "After witnessing the devastation of Hiroshima, he withdraws from helping civilization for a time.",
+      "He later builds devices that connect his teammates in a Uni-Mind and helps restrain their strongest member."
+    ],
+    "icon_info": {
+      "starTag": "Master technologist Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Engineered the Uni-Mind devices used in the plan that stopped the Emergence",
+      "alsoKnownFor": "Lives with his husband Ben and their son Jack"
+    },
+    "bonus_question": "In 10 seconds, name the shared psychic-energy network he helps create.",
+    "bonus_answer": "Uni-Mind",
+    "imageUrl": "/images/mcu/078-phastos.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Phastos"
+  },
+  {
+    "name": "Kingo",
+    "buzzwords": [
+      "Bollywood star",
+      "Finger Blasts",
+      "Eternal"
+    ],
+    "clues": [
+      "A synthetic immortal projects cosmic energy from his hands and fingers.",
+      "In modern life he becomes a famous film star while pretending that generations of his family all look alike.",
+      "He refuses to fight his teammates over the Emergence and leaves the final confrontation rather than choose a side."
+    ],
+    "icon_info": {
+      "starTag": "Bollywood-star Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Fought Deviants for millennia and built a celebrated film career",
+      "alsoKnownFor": "Travels with his human valet Karun"
+    },
+    "bonus_question": "In 10 seconds, name his loyal human valet and cameraman.",
+    "bonus_answer": "Karun",
+    "imageUrl": "/images/mcu/079-kingo.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Kingo"
+  },
+  {
+    "name": "Ajak",
+    "buzzwords": [
+      "Healing",
+      "Celestial communicator",
+      "Eternal leader"
+    ],
+    "clues": [
+      "A synthetic immortal leads Earth's team for thousands of years and can heal injuries with cosmic energy.",
+      "She alone can communicate directly with the Celestial who created the mission.",
+      "After witnessing humanity defeat Thanos, she decides the planet deserves to survive and plans to stop the Emergence."
+    ],
+    "icon_info": {
+      "starTag": "Prime Eternal and healer",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Led Earth's Eternals for thousands of years",
+      "alsoKnownFor": "Primary communicator with Arishem"
+    },
+    "bonus_question": "In 10 seconds, name the Celestial she communicates with.",
+    "bonus_answer": "Arishem",
+    "imageUrl": "/images/mcu/080-ajak.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Ajak"
+  },
+  {
+    "name": "Gilgamesh",
+    "buzzwords": [
+      "Super Strength",
+      "Cosmic Fists",
+      "Protector"
+    ],
+    "clues": [
+      "A synthetic immortal channels cosmic energy into exceptionally powerful punches.",
+      "He voluntarily lives in isolation for centuries to care for a teammate suffering from dangerous memory episodes.",
+      "He dies protecting her during an attack by an evolved Deviant."
+    ],
+    "icon_info": {
+      "starTag": "Strongman Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Protected Thena for centuries during her Mahd Wy'ry episodes",
+      "alsoKnownFor": "Known for immense physical strength among the Eternals"
+    },
+    "bonus_question": "In 10 seconds, name the Eternal he protects for centuries.",
+    "bonus_answer": "Thena",
+    "imageUrl": "/images/mcu/081-gilgamesh.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Gilgamesh"
+  },
+  {
+    "name": "Sprite",
+    "buzzwords": [
+      "Illusions",
+      "Childlike form",
+      "Eternal"
+    ],
+    "clues": [
+      "A synthetic immortal can create highly convincing visual illusions but is permanently built with the appearance of a child.",
+      "She secretly loves Ikaris and ultimately sides with his effort to allow the Emergence.",
+      "After the crisis ends, another teammate uses remaining cosmic energy to transform her into a mortal human."
+    ],
+    "icon_info": {
+      "starTag": "Illusion-casting Eternal",
+      "placeOfBirth": "World Forge",
+      "highestAward": "Had her synthetic Eternal body transformed into a human one",
+      "alsoKnownFor": "Spent millennia unable to physically age"
+    },
+    "bonus_question": "In 10 seconds, name the Eternal whose side she takes during the Emergence conflict.",
+    "bonus_answer": "Ikaris",
+    "imageUrl": "/images/mcu/082-sprite.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Sprite"
+  },
+  {
+    "name": "Mister Fantastic",
+    "buzzwords": [
+      "Elastic body",
+      "Genius scientist",
+      "Earth-828"
+    ],
+    "clues": [
+      "A brilliant scientist from an alternate Earth leads a family of explorers whose space mission gives them extraordinary abilities.",
+      "His body can stretch, compress and reshape over great distances.",
+      "He and his wife become parents to a child whose cosmic potential attracts a planet-devouring being."
+    ],
+    "icon_info": {
+      "starTag": "Elastic leader of the Fantastic Four",
+      "placeOfBirth": "Earth-828; New York City",
+      "highestAward": "Helped lead the Fantastic Four in saving Earth-828 from Galactus",
+      "alsoKnownFor": "Civilian identity Reed Richards"
+    },
+    "bonus_question": "In 10 seconds, name the son whose powers attract Galactus.",
+    "bonus_answer": "Franklin Richards",
+    "imageUrl": "/images/mcu/083-mister-fantastic.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Mister_Fantastic"
+  },
+  {
+    "name": "Invisible Woman",
+    "buzzwords": [
+      "Force fields",
+      "Invisibility",
+      "Earth-828"
+    ],
+    "clues": [
+      "A scientist and astronaut from an alternate Earth gains the ability to vanish from sight and create powerful barriers.",
+      "She serves as the emotional center of a four-person superhero family and later becomes a mother.",
+      "During a cosmic invasion, her force-field power is essential to the plan that saves her world from a planet-devourer."
+    ],
+    "icon_info": {
+      "starTag": "Force-field powerhouse of the Fantastic Four",
+      "placeOfBirth": "Earth-828; New York City",
+      "highestAward": "Helped save Earth-828 from Galactus while protecting her family",
+      "alsoKnownFor": "Civilian identity Sue Storm and mother of Franklin Richards"
+    },
+    "bonus_question": "In 10 seconds, name her younger brother on the team.",
+    "bonus_answer": "Johnny Storm",
+    "imageUrl": "/images/mcu/084-invisible-woman.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Invisible_Woman"
+  },
+  {
+    "name": "Human Torch",
+    "buzzwords": [
+      "Fly",
+      "Flirty",
+      "Earth-828"
+    ],
+    "clues": [
+      "A young astronaut from an alternate Earth gains the ability to engulf his body in fire and fly.",
+      "He uses humor and confidence but also proves highly analytical when confronting an alien herald.",
+      "By decoding her language and history, he uncovers the truth about her bargain with a planet-devouring master."
+    ],
+    "icon_info": {
+      "starTag": "Flaming flyer of the Fantastic Four",
+      "placeOfBirth": "Earth-828; New York City",
+      "highestAward": "Decoded the Silver Surfer's language and exposed her history with Galactus",
+      "alsoKnownFor": "Civilian identity Johnny Storm"
+    },
+    "bonus_question": "In 10 seconds, name his older sister on the team.",
+    "bonus_answer": "Sue Storm",
+    "imageUrl": "/images/mcu/085-human-torch.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Human_Torch"
+  },
+  {
+    "name": "The Thing",
+    "buzzwords": [
+      "Rock",
+      "Pilot",
+      "Earth-828"
+    ],
+    "clues": [
+      "A pilot and astronaut from an alternate Earth is transformed into a huge orange, rock-skinned being after a space mission.",
+      "Despite his appearance, he remains a loyal and warmhearted member of a superhero family.",
+      "He uses immense strength while helping defend his retro-futuristic world from a cosmic devourer."
+    ],
+    "icon_info": {
+      "starTag": "Rock-skinned powerhouse of the Fantastic Four",
+      "placeOfBirth": "Earth-828; New York City",
+      "highestAward": "Helped the Fantastic Four save Earth-828 from Galactus",
+      "alsoKnownFor": "Civilian identity Ben Grimm"
+    },
+    "bonus_question": "In 10 seconds, name his brilliant best friend and team leader.",
+    "bonus_answer": "Reed Richards",
+    "imageUrl": "/images/mcu/086-the-thing.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Thing"
+  },
+  {
+    "name": "Silver Surfer (Shalla-Bal)",
+    "buzzwords": [
+      "Cosmic",
+      "Herald",
+      "Surfer"
+    ],
+    "clues": [
+      "A woman from a distant world makes a terrible bargain to spare her planet from a cosmic devourer.",
+      "She receives immense cosmic power and travels ahead of her master to identify worlds for consumption.",
+      "After learning that Earth-828's heroes may save her home another way, she turns against her master and helps force him through a portal."
+    ],
+    "icon_info": {
+      "starTag": "Herald of Galactus",
+      "placeOfBirth": "Zenn-La",
+      "highestAward": "Turned against Galactus and helped save Earth-828",
+      "alsoKnownFor": "Wields the Power Cosmic and travels on a silver board"
+    },
+    "bonus_question": "In 10 seconds, name the planet she originally sacrifices her freedom to save.",
+    "bonus_answer": "Zenn-La",
+    "imageUrl": "/images/mcu/087-silver-surfer-shalla-bal.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Silver_Surfer"
+  },
+  {
+    "name": "Galactus",
+    "buzzwords": [
+      "Devourer",
+      "Giant",
+      "Franklin"
+    ],
+    "clues": [
+      "A colossal cosmic being travels through space consuming entire planets to satisfy an immense hunger.",
+      "His herald arrives on Earth-828 to announce that the planet has been selected for destruction.",
+      "He becomes intensely interested in an infant whose unusual power could potentially change his fate."
+    ],
+    "icon_info": {
+      "starTag": "Devourer of Worlds",
+      "placeOfBirth": "Earth-828 universe; exact origin not stated",
+      "highestAward": "Posed an extinction-level threat to Earth-828 and countless other worlds",
+      "alsoKnownFor": "Master of the Silver Surfer before her rebellion"
+    },
+    "bonus_question": "In 10 seconds, name the infant he seeks from the Fantastic Four.",
+    "bonus_answer": "Franklin Richards",
+    "imageUrl": "/images/mcu/088-galactus.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Galactus"
+  },
+  {
+    "name": "Ironheart",
+    "buzzwords": [
+      "Armor",
+      "MIT",
+      "Prodigy"
+    ],
+    "clues": [
+      "A teenage engineering prodigy builds advanced powered armor using scavenged and self-made technology.",
+      "While studying at MIT, she creates a machine capable of detecting vibranium and becomes caught in a conflict between Wakanda and Talokan.",
+      "Back home in Chicago, she builds new suits while becoming entangled with a criminal crew using supernatural power."
+    ],
+    "icon_info": {
+      "starTag": "Young armored engineering prodigy",
+      "placeOfBirth": "Chicago, Illinois",
+      "highestAward": "Built multiple advanced armored suits and a working vibranium detector",
+      "alsoKnownFor": "Civilian identity Riri Williams"
+    },
+    "bonus_question": "In 10 seconds, name the university she attends before returning to Chicago.",
+    "bonus_answer": "MIT",
+    "imageUrl": "/images/mcu/089-ironheart.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Ironheart"
+  },
+  {
+    "name": "The Hood",
+    "buzzwords": [
+      "Cloak",
+      "Chicago",
+      "Dark Magic"
+    ],
+    "clues": [
+      "A charismatic Chicago criminal leads a crew that carries out high-risk robberies and heists.",
+      "A supernatural hood grants him powers that conventional technology cannot easily explain.",
+      "He recruits a young armored inventor, creating a conflict between her engineering and his magic."
+    ],
+    "icon_info": {
+      "starTag": "Magic-powered Chicago crime boss",
+      "placeOfBirth": "Chicago, Illinois",
+      "highestAward": "Led a superpowered criminal crew and wielded a supernatural hood",
+      "alsoKnownFor": "Civilian identity Parker Robbins"
+    },
+    "bonus_question": "In 10 seconds, name the armored inventor he recruits into his crew.",
+    "bonus_answer": "Riri Williams",
+    "imageUrl": "/images/mcu/090-the-hood.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Hood"
+  },
+  {
+    "name": "Red Hulk",
+    "buzzwords": [
+      "Rage",
+      "President",
+      "Red skin"
+    ],
+    "clues": [
+      "A longtime U.S. military leader becomes President of the United States and pushes for an international treaty over newly discovered adamantium.",
+      "Unknown to him, medication supplied through a conspiracy gradually alters his body with gamma effects.",
+      "During a confrontation near the White House, anger triggers a massive red-skinned transformation."
+    ],
+    "icon_info": {
+      "starTag": "Gamma-powered President",
+      "placeOfBirth": "United States; exact birthplace not stated",
+      "highestAward": "Served as President of the United States before his gamma transformation was publicly exposed",
+      "alsoKnownFor": "The transformed form of Thaddeus Ross"
+    },
+    "bonus_question": "In 10 seconds, name the scientist who secretly manipulates his medication.",
+    "bonus_answer": "Samuel Sterns",
+    "imageUrl": "/images/mcu/091-red-hulk.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Red_Hulk"
+  },
+  {
+    "name": "The Leader",
+    "buzzwords": [
+      "Gamma brain",
+      "Mr. Blue",
+      "Mind control"
+    ],
+    "clues": [
+      "A cellular biologist is exposed to Bruce Banner's gamma-irradiated blood during the Battle of Harlem.",
+      "The exposure mutates his brain and greatly increases his intelligence.",
+      "Years later, he manipulates the U.S. president through medication and uses audio-triggered programming as part of a revenge plan."
+    ],
+    "icon_info": {
+      "starTag": "Gamma-mutated mastermind",
+      "placeOfBirth": "Transformed in Harlem, New York City",
+      "highestAward": "Engineered the conspiracy that triggered President Ross's gamma transformation",
+      "alsoKnownFor": "Civilian identity Samuel Sterns"
+    },
+    "bonus_question": "In 10 seconds, what online alias does he use while secretly helping Bruce Banner?",
+    "bonus_answer": "Mr. Blue",
+    "imageUrl": "/images/mcu/092-the-leader.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Leader"
+  },
+  {
+    "name": "Gorr the God Butcher",
+    "buzzwords": [
+      "Necrosword",
+      "Eternity",
+      "Hunter"
+    ],
+    "clues": [
+      "A grieving father loses faith after his god mocks the suffering of his people.",
+      "A cursed black sword chooses him and gives him the power to hunt deities across the universe.",
+      "After reaching the cosmic being Eternity, he abandons revenge and uses his one wish to restore his daughter to life."
+    ],
+    "icon_info": {
+      "starTag": "God Butcher",
+      "placeOfBirth": "Unnamed homeworld",
+      "highestAward": "Reached Eternity and used its wish to resurrect his daughter",
+      "alsoKnownFor": "Former wielder of the Necrosword"
+    },
+    "bonus_question": "In 10 seconds, name the cosmic being that grants his final wish.",
+    "bonus_answer": "Eternity",
+    "imageUrl": "/images/mcu/093-gorr-the-god-butcher.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Gorr_the_God_Butcher"
+  },
+  {
+    "name": "Wenwu",
+    "buzzwords": [
+      "Ten Rings",
+      "Immortality",
+      "Warlord"
+    ],
+    "clues": [
+      "A warrior discovers ten mysterious rings that grant extraordinary power and an unnaturally long life.",
+      "Over centuries, he builds a secret organization that influences wars, governments and criminal networks.",
+      "He gives up conquest for a family but returns to the organization after his wife's death and later sacrifices himself to save his son."
+    ],
+    "icon_info": {
+      "starTag": "Founder of the Ten Rings",
+      "placeOfBirth": "China",
+      "highestAward": "Led the Ten Rings organization for roughly a thousand years",
+      "alsoKnownFor": "Father of Shang-Chi and Xialing"
+    },
+    "bonus_question": "In 10 seconds, name the hidden village where he meets his future wife.",
+    "bonus_answer": "Ta Lo",
+    "imageUrl": "/images/mcu/094-wenwu.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Xu_Wenwu"
+  },
+  {
+    "name": "Xialing",
+    "buzzwords": [
+      "Rope dart",
+      "Fight club",
+      "Ten Rings leader"
+    ],
+    "clues": [
+      "A girl raised at a secretive compound is denied formal combat training, so she teaches herself by watching others.",
+      "As an adult, she runs a successful underground fight club in Macau.",
+      "After her father's death, she defies instructions to dismantle his organization and instead takes control of it."
+    ],
+    "icon_info": {
+      "starTag": "Leader of the Ten Rings",
+      "placeOfBirth": "China; raised at the Ten Rings compound",
+      "highestAward": "Took command of the Ten Rings organization",
+      "alsoKnownFor": "Younger sister of Shang-Chi"
+    },
+    "bonus_question": "In 10 seconds, name the city where she runs an underground fight club.",
+    "bonus_answer": "Macau",
+    "imageUrl": "/images/mcu/095-xialing.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Xu_Xialing"
+  },
+  {
+    "name": "Korg",
+    "buzzwords": [
+      "Kronan",
+      "Rocky",
+      "Sakaar"
+    ],
+    "clues": [
+      "A gentle rock-like alien leads a small prisoner rebellion on a gladiator planet.",
+      "He befriends the God of Thunder and helps evacuate surviving Asgardians from Ragnarok.",
+      "He later lives in New Asgard and eventually raises a child with another Kronan named Dwayne."
+    ],
+    "icon_info": {
+      "starTag": "Friendly Kronan revolutionary",
+      "placeOfBirth": "Kronan homeworld; exact location not stated",
+      "highestAward": "Helped evacuate Asgard's survivors and establish life in New Asgard",
+      "alsoKnownFor": "Close friend and storyteller companion of Thor"
+    },
+    "bonus_question": "In 10 seconds, name the gladiator planet where he first meets Thor.",
+    "bonus_answer": "Sakaar",
+    "imageUrl": "/images/mcu/096-korg.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Korg"
+  },
+  {
+    "name": "Elektra (Deadpool & Wolverine)",
+    "buzzwords": [
+      "Assassin",
+      "Void resistance",
+      "Red"
+    ],
+    "clues": [
+      "A skilled fighter from another universe is pruned into the Void, where many forgotten heroes and villains are sent.",
+      "She joins a resistance group opposing Cassandra Nova's forces.",
+      "Alongside several other survivors, she attacks Nova's compound to give two newly arrived heroes a chance to escape."
+    ],
+    "icon_info": {
+      "starTag": "Sai-wielding Void resistance fighter",
+      "placeOfBirth": "Alternate universe; later stranded in the Void",
+      "highestAward": "Helped the Void Resistance assault Cassandra Nova's compound",
+      "alsoKnownFor": "A multiversal variant connected to Daredevil's world"
+    },
+    "bonus_question": "In 10 seconds, name the psychic ruler whose forces the resistance attacks.",
+    "bonus_answer": "Cassandra Nova",
+    "imageUrl": "/images/mcu/097-elektra-deadpool-wolverine.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Elektra"
+  },
+  {
+    "name": "Gambit (Deadpool & Wolverine)",
+    "buzzwords": [
+      "Kinetic",
+      "Accent",
+      "Void resistance"
+    ],
+    "clues": [
+      "A mutant fighter lives in the Void with no clearly identified original timeline.",
+      "He charges playing cards and other objects with explosive kinetic energy.",
+      "He joins a band of surviving heroes in a major assault on Cassandra Nova's stronghold."
+    ],
+    "icon_info": {
+      "starTag": "Kinetic-energy mutant",
+      "placeOfBirth": "The Void; original timeline not identified",
+      "highestAward": "Helped the Void Resistance defeat Cassandra Nova's forces",
+      "alsoKnownFor": "Civilian name Remy LeBeau"
+    },
+    "bonus_question": "In 10 seconds, what ordinary objects does he most famously charge and throw?",
+    "bonus_answer": "Playing cards",
+    "imageUrl": "/images/mcu/098-gambit-deadpool-wolverine.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Gambit"
+  },
+  {
+    "name": "Bullseye",
+    "buzzwords": [
+      "Aim",
+      "Vigilante",
+      "Improvised weapons"
+    ],
+    "clues": [
+      "A troubled FBI marksman has near-superhuman accuracy and can turn ordinary objects into lethal projectiles.",
+      "A New York crime boss manipulates him into wearing another vigilante's costume to ruin that hero's reputation.",
+      "Years later, he escapes custody and resumes a deadly conflict with the masked lawyer."
+    ],
+    "icon_info": {
+      "starTag": "Deadly precision marksman",
+      "placeOfBirth": "Earth-616; New York City operations",
+      "highestAward": "Became one of Daredevil's most dangerous recurring enemies through extraordinary accuracy",
+      "alsoKnownFor": "Civilian identity Benjamin Poindexter"
+    },
+    "bonus_question": "In 10 seconds, name the crime boss who manipulates him into impersonating a vigilante.",
+    "bonus_answer": "Wilson Fisk",
+    "imageUrl": "/images/mcu/099-bullseye.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Bullseye"
+  },
+  {
+    "name": "Muse",
+    "buzzwords": [
+      "Murals",
+      "white Mask",
+      "serial killer"
+    ],
+    "clues": [
+      "A disturbed New York artist secretly creates enormous murals using blood taken from victims.",
+      "His crimes help drive a retired Hell's Kitchen vigilante back into action.",
+      "He is revealed to be one of Heather Glenn's patients and is fatally shot by her in self-defense during a rescue attempt."
+    ],
+    "icon_info": {
+      "starTag": "Blood-mural serial killer",
+      "placeOfBirth": "New York City, United States",
+      "highestAward": "Became the case that triggered Daredevil's return during Fisk's mayoralty",
+      "alsoKnownFor": "Civilian identity Bastian Cooper"
+    },
+    "bonus_question": "In 10 seconds, name the therapist he targets in his final attack.",
+    "bonus_answer": "Heather Glenn",
+    "imageUrl": "/images/mcu/100-muse.webp",
+    "imageSourceUrl": "https://marvelcinematicuniverse.fandom.com/wiki/Muse"
+  }
+]

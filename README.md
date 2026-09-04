@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Mystery Card Night
+
+A same-device mystery-card party game for teams and individual players. Ask smart questions, reveal clues, and solve each card before your opponents.
+
+## Development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

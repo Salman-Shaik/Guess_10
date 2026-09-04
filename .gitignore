@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+/playwright-report
+/test-results
 
 # production
 /build
@@ -19,5 +21,11 @@
 .env.production.local
 
 npm-debug.log*
+debug.log
 yarn-debug.log*
 yarn-error.log*
+
+# one-off local data maintenance scripts
+/test.py
+
+.vercel

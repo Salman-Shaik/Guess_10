@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Salman Khan",
+    "buzzwords": [
+      "Box-Office",
+      "Controversial",
+      "Charity"
+    ],
+    "clues": [
+      "Has sung songs for several of his films",
+      "Runs Salman Khan Films",
+      "Hosts the reality show Bigg Boss"
+    ],
+    "icon_info": {
+      "starTag": "Bhai",
+      "placeOfBirth": "Indore, Madhya Pradesh",
+      "highestAward": "Filmfare Award",
+      "alsoKnownFor": "Being Human"
+    },
+    "bonus_question": "Under 15 seconds, name 5 Salman Khan movies.",
+    "bonus_answer": "Hum Aapke Hain Koun..!, Maine Pyar Kiya, Dabangg, Bajrangi Bhaijaan, Sultan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Salman_Khan_snapped_at_the_Angry_Young_Men_trailer_launch.jpg/960px-Salman_Khan_snapped_at_the_Angry_Young_Men_trailer_launch.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Salman_Khan"
+  },
+  {
+    "name": "Shah Rukh Khan",
+    "buzzwords": [
+      "Romance",
+      "Global",
+      "Rich"
+    ],
+    "clues": [
+      "Called the 'King of Romance'",
+      "Started career in TV serials",
+      "Owns Kolkata Knight Riders team"
+    ],
+    "icon_info": {
+      "starTag": "King Khan",
+      "placeOfBirth": "New Delhi",
+      "highestAward": "Padma Shri",
+      "alsoKnownFor": "Entrepreneurship"
+    },
+    "bonus_question": "Which Indian Premier League team does Shah Rukh Khan co-own?",
+    "bonus_answer": "Kolkata Knight Riders",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg/960px-Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan"
+  },
+  {
+    "name": "Aamir Khan",
+    "buzzwords": [
+      "Perfectionist",
+      "Box-Office",
+      "Versatile"
+    ],
+    "clues": [
+      "Starred in one of India’s highest-grossing films",
+      "Works as an actor, director and producer",
+      "Hosted the television programme Satyamev Jayate"
+    ],
+    "icon_info": {
+      "starTag": "Mr. Perfectionist",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Padma Bhushan",
+      "alsoKnownFor": "Social activism"
+    },
+    "bonus_question": "Which television programme did Aamir Khan host?",
+    "bonus_answer": "Satyamev Jayate",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aamir_Khan_at_the_success_bash_of_Secret_Superstar.jpg/960px-Aamir_Khan_at_the_success_bash_of_Secret_Superstar.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Aamir_Khan"
+  },
+  {
+    "name": "Amitabh Bachchan",
+    "buzzwords": [
+      "Legend",
+      "Tall",
+      "Veteran"
+    ],
+    "clues": [
+      "Called 'Big B'",
+      "Voice is iconic in narrations",
+      "Host of Kaun Banega Crorepati"
+    ],
+    "icon_info": {
+      "starTag": "Shahenshah",
+      "placeOfBirth": "Allahabad, Uttar Pradesh",
+      "highestAward": "Dadasaheb Phalke Award",
+      "alsoKnownFor": "Television host"
+    },
+    "bonus_question": "Name 5 movies of Amitabh Bachchan within 15 seconds.",
+    "bonus_answer": "Sholay, Agneepath, Don, Zanjeer, Khuda Gawah",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Indian_actor_Amitabh_Bachchan.jpg/960px-Indian_actor_Amitabh_Bachchan.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Amitabh_Bachchan"
+  },
+  {
+    "name": "Rajinikanth",
+    "buzzwords": [
+      "Leader",
+      "Style",
+      "Mass"
+    ],
+    "clues": [
+      "Bus conductor to Superstar",
+      "Famous for unique style",
+      "Massive fan following worldwide"
+    ],
+    "icon_info": {
+      "starTag": "Superstar / Thalaivar",
+      "placeOfBirth": "Bengaluru, Karnataka",
+      "highestAward": "Dadasaheb Phalke Award",
+      "alsoKnownFor": "Distinctive style and dialogue delivery"
+    },
+    "bonus_question": "What job did Rajinikanth hold before entering films?",
+    "bonus_answer": "Bus conductor",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rajinikanth_in_2019.jpg/960px-Rajinikanth_in_2019.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth"
+  },
+  {
+    "name": "Kamal Haasan",
+    "buzzwords": [
+      "Multi-talented",
+      "Experimental",
+      "Political"
+    ],
+    "clues": [
+      "Known for versatility",
+      "Has directed and produced films",
+      "Also a singer"
+    ],
+    "icon_info": {
+      "starTag": "Ulaganayagan",
+      "placeOfBirth": "Paramakudi, Tamil Nadu",
+      "highestAward": "Padma Bhushan",
+      "alsoKnownFor": "Politics"
+    },
+    "bonus_question": "Kamal Haasan's bollywood debut film 'ek dujhe ke liye' is a remake of his own telugu film called?",
+    "bonus_answer": "Maro Charitra",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kamal_Haasan_at_2023_San_Diego_Comic-Con_International_by_Gage_Skidmore%2C_005_%28cropped%29.jpg/960px-Kamal_Haasan_at_2023_San_Diego_Comic-Con_International_by_Gage_Skidmore%2C_005_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Kamal_Haasan"
+  },
+  {
+    "name": "Ajith Kumar",
+    "buzzwords": [
+      "Kollywood",
+      "Stylish",
+      "Racer"
+    ],
+    "clues": [
+      "Married a co-star",
+      "Professional car racer",
+      "Prefers a private lifestyle"
+    ],
+    "icon_info": {
+      "starTag": "Thala",
+      "placeOfBirth": "Secunderabad, Telangana",
+      "highestAward": "Padma Bhushan",
+      "alsoKnownFor": "Motor racing"
+    },
+    "bonus_question": "Name an Ajith Kumar film that was remade in Telugu.",
+    "bonus_answer": "Vedalam (remade as Bhola Shankar)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Shri_Ajith_Kumar_at_Rashtrapati_Bhavan_Cropped.jpg/960px-Shri_Ajith_Kumar_at_Rashtrapati_Bhavan_Cropped.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ajith_Kumar"
+  },
+  {
+    "name": "Vijay",
+    "buzzwords": [
+      "Mass",
+      "Remake",
+      "Dancer"
+    ],
+    "clues": [
+      "Founded the Tamilaga Vettri Kazhagam political party",
+      "Known for his dancing",
+      "Has a major following in Tamil cinema"
+    ],
+    "icon_info": {
+      "starTag": "Thalapathy",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Vijay Award",
+      "alsoKnownFor": "Playback Singing"
+    },
+    "bonus_question": "Name 4 Vijay movies within 10 seconds.",
+    "bonus_answer": "Bigil, Mersal, Ghilli, Leo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/C._Joseph_Vijay_%28cropped%29.jpg/960px-C._Joseph_Vijay_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/C._Joseph_Vijay"
+  },
+  {
+    "name": "Mahesh Babu",
+    "buzzwords": [
+      "Handsome",
+      "Legacy",
+      "Tall"
+    ],
+    "clues": [
+      "Son of a veteran actor",
+      "Known as 'Prince'",
+      "Known for helping kids with heart issues."
+    ],
+    "icon_info": {
+      "starTag": "Superstar",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Nandi Award",
+      "alsoKnownFor": "Philanthropy"
+    },
+    "bonus_question": "What was Mahesh Babu's debut film as a lead actor?",
+    "bonus_answer": "Rajakumarudu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mahesh_Babu_in_Spyder_%28cropped%29.jpg/960px-Mahesh_Babu_in_Spyder_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Mahesh_Babu"
+  },
+  {
+    "name": "Prabhas",
+    "buzzwords": [
+      "Tall",
+      "Pan-India",
+      "Action"
+    ],
+    "clues": [
+      "Known worldwide for Baahubali",
+      "Nicknamed 'Darling'",
+      "Works in Telugu and Hindi films"
+    ],
+    "icon_info": {
+      "starTag": "Rebel Star",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "SIIMA Award",
+      "alsoKnownFor": "Pan-India Cinemas"
+    },
+    "bonus_question": "Which film made Prabhas a pan-India star?",
+    "bonus_answer": "Baahubali",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Prabhas_by_Gage_Skidmore.jpg/960px-Prabhas_by_Gage_Skidmore.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Prabhas"
+  },
+  {
+    "name": "Jr NTR",
+    "buzzwords": [
+      "Dancer",
+      "Legacy",
+      "Mass"
+    ],
+    "clues": [
+      "Grandson of NTR",
+      "Exceptional dancer",
+      "Popular in Telugu mass films"
+    ],
+    "icon_info": {
+      "starTag": "Man of Masses",
+      "placeOfBirth": "Hyderabad, Telangana",
+      "highestAward": "Nandi Award",
+      "alsoKnownFor": "Television Host"
+    },
+    "bonus_question": "Which reality programme did Jr NTR first host on television?",
+    "bonus_answer": "Bigg Boss Telugu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/NTR_Jr._%282026%29.jpg/960px-NTR_Jr._%282026%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/N._T._Rama_Rao_Jr."
+  },
+  {
+    "name": "Pawan Kalyan",
+    "buzzwords": [
+      "Fans",
+      "Stylish",
+      "Politician"
+    ],
+    "clues": [
+      "Younger brother of Chiranjeevi",
+      "Known for Telugu action films",
+      "Founded the Jana Sena Party"
+    ],
+    "icon_info": {
+      "starTag": "Power Star",
+      "placeOfBirth": "Bapatla, Andhra Pradesh",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Politics"
+    },
+    "bonus_question": "Which political party did Pawan Kalyan found?",
+    "bonus_answer": "Jana Sena Party",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Shri_Konidela_Pawan_Kalyan.jpg/960px-Shri_Konidela_Pawan_Kalyan.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Pawan_Kalyan"
+  },
+  {
+    "name": "Chiranjeevi",
+    "buzzwords": [
+      "Star",
+      "Charismatic",
+      "Dancer"
+    ],
+    "clues": [
+      "Acted in 150+ films",
+      "Served as politician",
+      "Huge Telugu fan base"
+    ],
+    "icon_info": {
+      "starTag": "Megastar",
+      "placeOfBirth": "Mogalthur, Andhra Pradesh",
+      "highestAward": "Padma Vibhushan",
+      "alsoKnownFor": "Politics and philanthropy"
+    },
+    "bonus_question": "Name 5 Chiranjeevi films in 15 seconds.",
+    "bonus_answer": "Stalin, Indra, Khaidi, Daddy, Annayya",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chiranjeevi_at_ANR_Awards_2024_%28cropped%29.jpg/960px-Chiranjeevi_at_ANR_Awards_2024_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Chiranjeevi"
+  },
+  {
+    "name": "Nagarjuna",
+    "buzzwords": [
+      "Romantic",
+      "Entrepreneur",
+      "Rich"
+    ],
+    "clues": [
+      "Called King by fans",
+      "Runs a Film Studio",
+      "Known for devotional roles too"
+    ],
+    "icon_info": {
+      "starTag": "King",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Business Ventures"
+    },
+    "bonus_question": "Name one devotional film starring Nagarjuna.",
+    "bonus_answer": "Annamayya or Sri Ramadasu",
+    "imageUrl": "/images/indian-actors/nagarjuna.jpg",
+    "imageSourceUrl": "https://www.themoviedb.org/person/149958-nagarjuna-akkineni/images/profiles"
+  },
+  {
+    "name": "Nandamuri Balakrishna",
+    "buzzwords": [
+      "Dialogue",
+      "Mass",
+      "Political"
+    ],
+    "clues": [
+      "Son of N. T. Rama Rao",
+      "Known for mass-action roles and dialogue delivery",
+      "Represents Hindupur in the Andhra Pradesh Legislative Assembly"
+    ],
+    "icon_info": {
+      "starTag": "Balayya",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Padma Bhushan",
+      "alsoKnownFor": "Politics"
+    },
+    "bonus_question": "Which constituency does Balakrishna represent?",
+    "bonus_answer": "Hindupur",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Padma_Bhushan_Award_to_Shri_Nandamuri_Balakrishna_at_the_Rashtrapati_Bhavan_%28cropped%29.jpg/960px-Padma_Bhushan_Award_to_Shri_Nandamuri_Balakrishna_at_the_Rashtrapati_Bhavan_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Nandamuri_Balakrishna"
+  },
+  {
+    "name": "Venkatesh",
+    "buzzwords": [
+      "Performance",
+      "Family",
+      "Versatile"
+    ],
+    "clues": [
+      "Known for multi-starrer and family films",
+      "Balances comedy, family drama and action roles",
+      "Has starred in several successful remakes"
+    ],
+    "icon_info": {
+      "starTag": "Victory",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Remakes"
+    },
+    "bonus_question": "Which film family does Venkatesh belong to?",
+    "bonus_answer": "The Daggubati family",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Venkatesh_Daggubati_at_ANR_Awards.jpg/960px-Venkatesh_Daggubati_at_ANR_Awards.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Venkatesh_(actor)"
+  },
+  {
+    "name": "Mohanlal",
+    "buzzwords": [
+      "Natural",
+      "Complete Actor",
+      "Malayalam"
+    ],
+    "clues": [
+      "Known for naturalistic performances",
+      "A leading star of Malayalam cinema",
+      "Has acted in several Indian languages"
+    ],
+    "icon_info": {
+      "starTag": "Lalettan",
+      "placeOfBirth": "Pathanamthitta, Kerala",
+      "highestAward": "Padma Bhushan",
+      "alsoKnownFor": "Theatre"
+    },
+    "bonus_question": "Name one non-Malayalam film featuring Mohanlal.",
+    "bonus_answer": "Iruvar, Company, Janatha Garage or Jailer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mohanlal_%28cropped%29.jpg/960px-Mohanlal_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Mohanlal"
+  },
+  {
+    "name": "Mammootty",
+    "buzzwords": [
+      "Handsome",
+      "Megastar",
+      "Malayalam"
+    ],
+    "clues": [
+      "Nicknamed Mammukka",
+      "Over 400 films",
+      "Law graduate"
+    ],
+    "icon_info": {
+      "starTag": "Mammukka",
+      "placeOfBirth": "Chandiroor, Kerala",
+      "highestAward": "Padma Bhushan",
+      "alsoKnownFor": "Law background"
+    },
+    "bonus_question": "What is the name of Mammootty’s son who is also an actor?",
+    "bonus_answer": "Dulquer Salmaan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mammootty%2C_2022.jpg/960px-Mammootty%2C_2022.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Mammootty"
+  },
+  {
+    "name": "Puneeth Rajkumar",
+    "buzzwords": [
+      "Powerstar",
+      "Kannada",
+      "Singer"
+    ],
+    "clues": [
+      "Son of Dr. Rajkumar",
+      "Fondly called Appu",
+      "Also playback singer"
+    ],
+    "icon_info": {
+      "starTag": "Power Star",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "National Film Award (Child Artist)",
+      "alsoKnownFor": "Singing"
+    },
+    "bonus_question": "By what affectionate name was Puneeth Rajkumar widely known?",
+    "bonus_answer": "Appu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Puneeth_Rajkumar_%281%29.jpg/960px-Puneeth_Rajkumar_%281%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Puneeth_Rajkumar"
+  },
+  {
+    "name": "Shiva Rajkumar",
+    "buzzwords": [
+      "Star",
+      "Legacy",
+      "Kannada"
+    ],
+    "clues": [
+      "Son of Dr. Rajkumar",
+      "Acted in 100+ films",
+      "Known for the film 'OM' directed by Upendra"
+    ],
+    "icon_info": {
+      "starTag": "Century Star",
+      "placeOfBirth": "Madras, Tamil Nadu",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Dance"
+    },
+    "bonus_question": "In which Tamil film did Shiva Rajkumar appear alongside Rajinikanth?",
+    "bonus_answer": "Jailer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dr_Shiva_Rajkumar_%28cropped%29.jpg/960px-Dr_Shiva_Rajkumar_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Shiva_Rajkumar"
+  },
+  {
+    "name": "Upendra",
+    "buzzwords": [
+      "Unique",
+      "Experimental",
+      "Director"
+    ],
+    "clues": [
+      "Known for unconventional stories and characters",
+      "Established himself as a writer-director before becoming a leading actor",
+      "Associated with experimental Kannada cinema"
+    ],
+    "icon_info": {
+      "starTag": "Real Star",
+      "placeOfBirth": "Kundapura, Karnataka",
+      "highestAward": "Karnataka State Film Award",
+      "alsoKnownFor": "Direction"
+    },
+    "bonus_question": "Apart from acting, which role made Upendra popular?",
+    "bonus_answer": "Direction",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Upendra_at_KLE_Society%27s_Law-College%2C_Bangalore_2.jpg/960px-Upendra_at_KLE_Society%27s_Law-College%2C_Bangalore_2.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Upendra_(actor)"
+  },
+  {
+    "name": "Ajay Devgn",
+    "buzzwords": [
+      "Serious",
+      "Stunts",
+      "Bollywood"
+    ],
+    "clues": [
+      "Performed a motorcycle split in his debut film",
+      "Known for action and dramatic roles",
+      "Has won multiple National Film Awards"
+    ],
+    "icon_info": {
+      "starTag": "Ajay Devgn",
+      "placeOfBirth": "New Delhi",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Director"
+    },
+    "bonus_question": "What was Ajay Devgn’s feature-film directing debut?",
+    "bonus_answer": "U Me Aur Hum",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ajay_Devgn_at_the_trailer_launch_of_Raid_2.jpg/960px-Ajay_Devgn_at_the_trailer_launch_of_Raid_2.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ajay_Devgn"
+  },
+  {
+    "name": "Akshay Kumar",
+    "buzzwords": [
+      "Experimental",
+      "Fitness",
+      "Disciplined"
+    ],
+    "clues": [
+      "Became an Indian citizen in 2023",
+      "Is trained in martial arts",
+      "Known for working in action and comedy films"
+    ],
+    "icon_info": {
+      "starTag": "Khiladi",
+      "placeOfBirth": "Amritsar, Punjab",
+      "highestAward": "Padma Shri",
+      "alsoKnownFor": "Martial arts and fitness"
+    },
+    "bonus_question": "Name the comedy-film franchise featuring Akshay Kumar as Aarush.",
+    "bonus_answer": "Housefull",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Akshay_Kumar_National_Award_for_Padman_%28cropped%29.jpg/960px-Akshay_Kumar_National_Award_for_Padman_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Akshay_Kumar"
+  },
+  {
+    "name": "Hrithik Roshan",
+    "buzzwords": [
+      "Dance",
+      "Stylish",
+      "Greek God"
+    ],
+    "clues": [
+      "Known for dancing",
+      "Debuted in 'Kaho Naa Pyaar Hai'",
+      "Known for his role in ET inspired film 'Koi Mil Gaya'"
+    ],
+    "icon_info": {
+      "starTag": "Greek God of Bollywood",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare Awards",
+      "alsoKnownFor": "Dance"
+    },
+    "bonus_question": "What is the name of Hrithik Roshan’s character in Koi... Mil Gaya?",
+    "bonus_answer": "Rohit Mehra",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hrithik_at_Rado_launch.jpg/960px-Hrithik_at_Rado_launch.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Hrithik_Roshan"
+  },
+  {
+    "name": "Ranbir Kapoor",
+    "buzzwords": [
+      "Star Family",
+      "Romance",
+      "Chocolate Boy"
+    ],
+    "clues": [
+      "Son of actors Rishi Kapoor and Neetu Kapoor",
+      "Played a musician in Rockstar",
+      "Portrayed Sanjay Dutt in Sanju"
+    ],
+    "icon_info": {
+      "starTag": "Chocolate Boy",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare Awards",
+      "alsoKnownFor": "Kapoor Legacy"
+    },
+    "bonus_question": "What stage name does Janardhan adopt in Rockstar?",
+    "bonus_answer": "Jordan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ranbir_Kapoor_snapped_at_Kalina_airport.jpg/960px-Ranbir_Kapoor_snapped_at_Kalina_airport.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ranbir_Kapoor"
+  },
+  {
+    "name": "Kareena Kapoor",
+    "buzzwords": [
+      "Beauty",
+      "Fashion",
+      "Star Family"
+    ],
+    "clues": [
+      "Known by the nickname Bebo",
+      "Played Geet in Jab We Met",
+      "Sister of actor Karisma Kapoor"
+    ],
+    "icon_info": {
+      "starTag": "Bebo",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare Award",
+      "alsoKnownFor": "Fashion Icon"
+    },
+    "bonus_question": "Whom did Kareena Kapoor marry in the film industry?",
+    "bonus_answer": "Saif Ali Khan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kareena_Kapoor_Khan_in_2023_%281%29_%28cropped%29.jpg/960px-Kareena_Kapoor_Khan_in_2023_%281%29_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Kareena_Kapoor"
+  },
+  {
+    "name": "Shraddha Kapoor",
+    "buzzwords": [
+      "Youthful",
+      "Famous",
+      "Bollywood"
+    ],
+    "clues": [
+      "Daughter of actor Shakti Kapoor",
+      "Known for Aashiqui 2 and Stree",
+      "Made her film debut in Teen Patti"
+    ],
+    "icon_info": {
+      "starTag": "Stree",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare nominations",
+      "alsoKnownFor": "Instagram"
+    },
+    "bonus_question": "Which film marked Shraddha Kapoor’s Telugu-language debut?",
+    "bonus_answer": "Saaho",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Shraddha_Kapoor_promoting_Street_Dancer_3D.jpg/960px-Shraddha_Kapoor_promoting_Street_Dancer_3D.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Shraddha_Kapoor"
+  },
+  {
+    "name": "Katrina Kaif",
+    "buzzwords": [
+      "Beautiful",
+      "Dancer",
+      "Global"
+    ],
+    "clues": [
+      "Born in Hong Kong and raised in several countries",
+      "Known for major Hindi films and dance numbers",
+      "Married actor Vicky Kaushal"
+    ],
+    "icon_info": {
+      "starTag": "Katrina Kaif",
+      "placeOfBirth": "Hong Kong",
+      "highestAward": "Filmfare nominations",
+      "alsoKnownFor": "Dance"
+    },
+    "bonus_question": "Which film marked Katrina Kaif’s Hindi-film debut?",
+    "bonus_answer": "Boom",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Katrina_Kaif_at_the_Bharat_audio_launch.jpg/960px-Katrina_Kaif_at_the_Bharat_audio_launch.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Katrina_Kaif"
+  },
+  {
+    "name": "Aishwarya Rai Bachchan",
+    "buzzwords": [
+      "Miss World",
+      "Elegant",
+      "Beauty"
+    ],
+    "clues": [
+      "Won the Miss World 1994 pageant",
+      "Known for films including Devdas and Jodhaa Akbar",
+      "Has worked in Hindi, Tamil and international productions"
+    ],
+    "icon_info": {
+      "starTag": "Queen of Beauty",
+      "placeOfBirth": "Mangalore, Karnataka",
+      "highestAward": "Padma Shri",
+      "alsoKnownFor": "Global Ambassador"
+    },
+    "bonus_question": "Which year did Aishwarya Rai win Miss World?",
+    "bonus_answer": "1994",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aishwarya_Rai_Cannes_2017.jpg/960px-Aishwarya_Rai_Cannes_2017.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Aishwarya_Rai"
+  },
+  {
+    "name": "Ranveer Singh",
+    "buzzwords": [
+      "Energetic",
+      "Fashion",
+      "Versatile"
+    ],
+    "clues": [
+      "Known for energetic performances",
+      "Played Alauddin Khilji in Padmaavat",
+      "Known for bold fashion choices"
+    ],
+    "icon_info": {
+      "starTag": "Ranveer",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare Awards",
+      "alsoKnownFor": "Fashion Style"
+    },
+    "bonus_question": "Whom did Ranveer Singh marry?",
+    "bonus_answer": "Deepika Padukone",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ranveer_Singh_in_2023_%281%29_%28cropped%29.jpg/960px-Ranveer_Singh_in_2023_%281%29_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ranveer_Singh"
+  }
+]

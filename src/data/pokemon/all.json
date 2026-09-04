@@ -1,0 +1,2302 @@
+[
+  {
+    "name": "Pikachu",
+    "buzzwords": [
+      "electric mouse",
+      "red cheeks",
+      "lightning tail"
+    ],
+    "clues": [
+      "This Electric-type stores electricity in pouches on its cheeks.",
+      "It evolves from Pichu through high friendship and can evolve with a Thunder Stone.",
+      "It is the best-known mascot of the Pokémon franchise."
+    ],
+    "icon_info": {
+      "starTag": "Pokémon franchise mascot",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Version mascot of Pokémon Yellow and Pokémon: Let's Go, Pikachu!",
+      "alsoKnownFor": "National Pokédex No. 025"
+    },
+    "bonus_question": "In 10 seconds, name the stone that evolves it into its standard next form.",
+    "bonus_answer": "Thunder Stone",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/25.png"
+  },
+  {
+    "name": "Charizard",
+    "buzzwords": [
+      "fire dragon look",
+      "wings",
+      "flaming tail"
+    ],
+    "clues": [
+      "This Fire/Flying-type is the final stage of a Kanto first-partner line.",
+      "It can Mega Evolve into two different forms and also has a Gigantamax form.",
+      "It is the version mascot of Pokémon Red and Pokémon FireRed."
+    ],
+    "icon_info": {
+      "starTag": "Flame Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Version mascot of Pokémon Red and Pokémon FireRed",
+      "alsoKnownFor": "Evolves from Charmeleon starting at level 36"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage evolution line member.",
+    "bonus_answer": "Charmander",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/6.png"
+  },
+  {
+    "name": "Bulbasaur",
+    "buzzwords": [
+      "back bulb",
+      "grass starter",
+      "poison"
+    ],
+    "clues": [
+      "This Grass/Poison-type carries a plant bulb on its back from birth.",
+      "It is one of the three first-partner choices in the original Kanto games.",
+      "It holds the very first number in the National Pokédex."
+    ],
+    "icon_info": {
+      "starTag": "Seed Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "National Pokédex No. 001",
+      "alsoKnownFor": "Evolves into Ivysaur starting at level 16"
+    },
+    "bonus_question": "In 10 seconds, name its immediate evolution.",
+    "bonus_answer": "Ivysaur",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/1.png"
+  },
+  {
+    "name": "Squirtle",
+    "buzzwords": [
+      "tiny turtle",
+      "water starter",
+      "shell"
+    ],
+    "clues": [
+      "This Water-type withdraws into its shell for protection.",
+      "It is one of the three original Kanto first-partner choices.",
+      "It evolves into Wartortle starting at level 16."
+    ],
+    "icon_info": {
+      "starTag": "Tiny Turtle Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Original Kanto first-partner Pokémon",
+      "alsoKnownFor": "Its final evolution carries twin water cannons"
+    },
+    "bonus_question": "In 10 seconds, name its immediate evolution.",
+    "bonus_answer": "Wartortle",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/7.png"
+  },
+  {
+    "name": "Eevee",
+    "buzzwords": [
+      "many evolutions",
+      "foxlike",
+      "unstable genes"
+    ],
+    "clues": [
+      "This Normal-type is famous for an unusually flexible evolutionary path.",
+      "Its known evolutions cover eight different types.",
+      "It is the first partner and version mascot of one of the Pokémon: Let's Go games."
+    ],
+    "icon_info": {
+      "starTag": "Evolution Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Has eight distinct evolved forms",
+      "alsoKnownFor": "Version mascot of Pokémon: Let's Go, Eevee!"
+    },
+    "bonus_question": "In 10 seconds, name any three of its evolved forms.",
+    "bonus_answer": "Vaporeon, Jolteon, and Flareon",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/133.png"
+  },
+  {
+    "name": "Mewtwo",
+    "buzzwords": [
+      "psychic clone",
+      "laboratory",
+      "Cerulean Cave"
+    ],
+    "clues": [
+      "This Psychic-type Legendary Pokémon was created through genetic experimentation using material from a Mythical species.",
+      "It can Mega Evolve into two different forms.",
+      "In the original Kanto games, it waits deep inside Cerulean Cave after the player becomes Champion."
+    ],
+    "icon_info": {
+      "starTag": "Genetic Pokémon",
+      "placeOfBirth": "Kanto; introduced in Generation I",
+      "highestAward": "Legendary Pokémon with two Mega Evolutions",
+      "alsoKnownFor": "National Pokédex No. 150"
+    },
+    "bonus_question": "In 10 seconds, name the Mythical Pokémon whose genetic material was used in its creation.",
+    "bonus_answer": "Mew",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/150.png"
+  },
+  {
+    "name": "Jigglypuff",
+    "buzzwords": [
+      "singing",
+      "round pink body",
+      "sleep"
+    ],
+    "clues": [
+      "This Normal/Fairy-type is famous for putting listeners to sleep with its voice.",
+      "A Moon Stone evolves it into Wigglytuff.",
+      "It has been a playable fighter in the Super Smash Bros. series since the original game."
+    ],
+    "icon_info": {
+      "starTag": "Balloon Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Original Super Smash Bros. playable fighter",
+      "alsoKnownFor": "Fairy typing was added to it in Generation VI"
+    },
+    "bonus_question": "In 10 seconds, name the stone used for its evolution.",
+    "bonus_answer": "Moon Stone",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/39.png"
+  },
+  {
+    "name": "Meowth",
+    "buzzwords": [
+      "coin forehead",
+      "Pay Day",
+      "talking anime partner"
+    ],
+    "clues": [
+      "This Normal-type is associated with the move Pay Day and a coin-like charm on its forehead.",
+      "Different regional forms appear in Alola and Galar.",
+      "One member of this species is a famous talking companion of Team Rocket in the anime."
+    ],
+    "icon_info": {
+      "starTag": "Scratch Cat Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Has both Alolan and Galarian regional forms",
+      "alsoKnownFor": "Its standard form evolves into Persian"
+    },
+    "bonus_question": "In 10 seconds, name its standard evolved form.",
+    "bonus_answer": "Persian",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/52.png"
+  },
+  {
+    "name": "Snorlax",
+    "buzzwords": [
+      "sleeping giant",
+      "Poké Flute",
+      "roadblock"
+    ],
+    "clues": [
+      "This Normal-type is known for sleeping for long periods and eating huge quantities of food.",
+      "In the Kanto games, sleeping individuals block important routes until awakened.",
+      "Its pre-evolution is Munchlax."
+    ],
+    "icon_info": {
+      "starTag": "Sleeping Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Iconic Poké Flute roadblock in the Kanto games",
+      "alsoKnownFor": "Has a Gigantamax form"
+    },
+    "bonus_question": "In 10 seconds, name the item used to wake the sleeping roadblocks in Kanto.",
+    "bonus_answer": "Poké Flute",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/143.png"
+  },
+  {
+    "name": "Gengar",
+    "buzzwords": [
+      "shadow grin",
+      "ghost",
+      "poison"
+    ],
+    "clues": [
+      "This Ghost/Poison-type is the final stage of the Gastly evolutionary line.",
+      "In many core games, it is obtained by trading a Haunter.",
+      "It has both a Mega Evolution and a Gigantamax form."
+    ],
+    "icon_info": {
+      "starTag": "Shadow Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Final evolution of the original Ghost-type line",
+      "alsoKnownFor": "Evolves from Haunter when traded in many core games"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Gastly",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/94.png"
+  },
+  {
+    "name": "Psyduck",
+    "buzzwords": [
+      "headache",
+      "duck",
+      "mysterious powers"
+    ],
+    "clues": [
+      "This Water-type often suffers from headaches.",
+      "When its headache becomes severe, it can unleash powerful psychic abilities in Pokédex lore.",
+      "It evolves into Golduck starting at level 33."
+    ],
+    "icon_info": {
+      "starTag": "Duck Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Recurring partner of Misty in the anime",
+      "alsoKnownFor": "Evolves into Golduck"
+    },
+    "bonus_question": "In 10 seconds, name its evolved form.",
+    "bonus_answer": "Golduck",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/54.png"
+  },
+  {
+    "name": "Lucario",
+    "buzzwords": [
+      "aura",
+      "jackal-like",
+      "steel fighter"
+    ],
+    "clues": [
+      "This Fighting/Steel-type can sense and manipulate aura.",
+      "It evolves from Riolu during the day with high friendship in many core games.",
+      "It can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Aura Pokémon",
+      "placeOfBirth": "Sinnoh region; introduced in Generation IV",
+      "highestAward": "Mega Evolution-capable Fighting/Steel-type",
+      "alsoKnownFor": "Star species of Lucario and the Mystery of Mew"
+    },
+    "bonus_question": "In 10 seconds, name its pre-evolution.",
+    "bonus_answer": "Riolu",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/448.png"
+  },
+  {
+    "name": "Greninja",
+    "buzzwords": [
+      "ninja frog",
+      "water shuriken",
+      "dark type"
+    ],
+    "clues": [
+      "This Water/Dark-type is the final evolution of a Kalos first-partner line.",
+      "Its design and moves draw heavily on ninja imagery.",
+      "It won the overall Pokémon of the Year 2020 fan vote."
+    ],
+    "icon_info": {
+      "starTag": "Ninja Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Overall winner of Pokémon of the Year 2020",
+      "alsoKnownFor": "Evolves from Frogadier starting at level 36"
+    },
+    "bonus_question": "In 10 seconds, name the Water-type first partner at the start of its line.",
+    "bonus_answer": "Froakie",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/658.png"
+  },
+  {
+    "name": "Gyarados",
+    "buzzwords": [
+      "sea serpent",
+      "rage",
+      "Magikarp"
+    ],
+    "clues": [
+      "This Water/Flying-type is known for an intimidating serpentine appearance and destructive temper in Pokédex lore.",
+      "It evolves from a famously weak Water-type starting at level 20.",
+      "Its Mega Evolution changes its secondary type to Dark."
+    ],
+    "icon_info": {
+      "starTag": "Atrocious Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Evolves from Magikarp at level 20",
+      "alsoKnownFor": "Mega form is Water/Dark"
+    },
+    "bonus_question": "In 10 seconds, name its pre-evolution.",
+    "bonus_answer": "Magikarp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/130.png"
+  },
+  {
+    "name": "Dragonite",
+    "buzzwords": [
+      "orange dragon",
+      "mail carrier",
+      "pseudo-legendary"
+    ],
+    "clues": [
+      "This Dragon/Flying-type is the final stage of the Dratini line.",
+      "It evolves from Dragonair starting at level 55.",
+      "Its evolutionary family established the classic pseudo-legendary pattern in Generation I."
+    ],
+    "icon_info": {
+      "starTag": "Dragon Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Generation I pseudo-legendary Pokémon",
+      "alsoKnownFor": "National Pokédex No. 149"
+    },
+    "bonus_question": "In 10 seconds, name its immediate pre-evolution.",
+    "bonus_answer": "Dragonair",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/149.png"
+  },
+  {
+    "name": "Mew",
+    "buzzwords": [
+      "mythical",
+      "ancient DNA",
+      "tiny psychic"
+    ],
+    "clues": [
+      "This Psychic-type Mythical Pokémon is said in Pokédex lore to contain the genetic codes of many Pokémon.",
+      "It was originally obtainable only through special distributions rather than normal gameplay in the first games.",
+      "It is the final species in the original Kanto National Pokédex sequence."
+    ],
+    "icon_info": {
+      "starTag": "New Species Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Mythical Pokémon; National Pokédex No. 151",
+      "alsoKnownFor": "Can learn an exceptionally broad range of TM and tutor moves"
+    },
+    "bonus_question": "In 10 seconds, what is its National Pokédex number?",
+    "bonus_answer": "151",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/151.png"
+  },
+  {
+    "name": "Charmander",
+    "buzzwords": [
+      "tail flame",
+      "fire starter",
+      "lizard"
+    ],
+    "clues": [
+      "This Fire-type has a flame burning at the tip of its tail.",
+      "It is one of Professor Oak's three original first-partner choices in Kanto.",
+      "It evolves into Charmeleon starting at level 16."
+    ],
+    "icon_info": {
+      "starTag": "Lizard Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Original Kanto first-partner Pokémon",
+      "alsoKnownFor": "Its final evolution is a Pokémon Red version mascot"
+    },
+    "bonus_question": "In 10 seconds, name its immediate evolution.",
+    "bonus_answer": "Charmeleon",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/4.png"
+  },
+  {
+    "name": "Blastoise",
+    "buzzwords": [
+      "water cannons",
+      "turtle",
+      "blue mascot"
+    ],
+    "clues": [
+      "This Water-type is the final evolution of a Kanto first-partner line.",
+      "Large cannons protrude from its shell and fire powerful streams of water.",
+      "It serves as the version mascot of Pokémon Blue."
+    ],
+    "icon_info": {
+      "starTag": "Shellfish Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Version mascot of Pokémon Blue",
+      "alsoKnownFor": "Has both Mega Evolution and Gigantamax forms"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Squirtle",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/9.png"
+  },
+  {
+    "name": "Venusaur",
+    "buzzwords": [
+      "giant flower",
+      "grass poison",
+      "green mascot"
+    ],
+    "clues": [
+      "This Grass/Poison-type is the final evolution of a Kanto first-partner line.",
+      "A huge flower grows on its back after its earlier bulb develops.",
+      "It is the version mascot of Pokémon Green and Pokémon LeafGreen."
+    ],
+    "icon_info": {
+      "starTag": "Seed Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Version mascot of Pokémon Green and Pokémon LeafGreen",
+      "alsoKnownFor": "Has both Mega Evolution and Gigantamax forms"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Bulbasaur",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/3.png"
+  },
+  {
+    "name": "Raichu",
+    "buzzwords": [
+      "Thunder Stone",
+      "long tail",
+      "Alolan surfer"
+    ],
+    "clues": [
+      "This Electric-type is the standard evolution reached when its pre-evolution is exposed to a Thunder Stone.",
+      "Its Alolan regional form is Electric/Psychic and rides its tail like a surfboard.",
+      "It is National Pokédex No. 026."
+    ],
+    "icon_info": {
+      "starTag": "Mouse Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Has an Alolan Electric/Psychic regional form",
+      "alsoKnownFor": "Standard evolution of Pikachu"
+    },
+    "bonus_question": "In 10 seconds, name the stone used for the standard evolution into this species.",
+    "bonus_answer": "Thunder Stone",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/26.png"
+  },
+  {
+    "name": "Vaporeon",
+    "buzzwords": [
+      "Water Stone",
+      "fin collar",
+      "Eeveelution"
+    ],
+    "clues": [
+      "This Water-type is one of the original three branching evolutions of a highly adaptable Normal-type.",
+      "It is obtained with a Water Stone in the core series.",
+      "Its body has prominent fins and an aquatic design."
+    ],
+    "icon_info": {
+      "starTag": "Bubble Jet Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "One of the three original Eeveelutions",
+      "alsoKnownFor": "Water-type evolution of Eevee"
+    },
+    "bonus_question": "In 10 seconds, name the evolution stone associated with it.",
+    "bonus_answer": "Water Stone",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/134.png"
+  },
+  {
+    "name": "Jolteon",
+    "buzzwords": [
+      "Thunder Stone",
+      "spiky fur",
+      "Eeveelution"
+    ],
+    "clues": [
+      "This Electric-type is one of the original three branching evolutions of a highly adaptable Normal-type.",
+      "It is obtained with a Thunder Stone in the core series.",
+      "Its coat forms sharp, spiky-looking fur."
+    ],
+    "icon_info": {
+      "starTag": "Lightning Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "One of the three original Eeveelutions",
+      "alsoKnownFor": "Electric-type evolution of Eevee"
+    },
+    "bonus_question": "In 10 seconds, name the evolution stone associated with it.",
+    "bonus_answer": "Thunder Stone",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/135.png"
+  },
+  {
+    "name": "Flareon",
+    "buzzwords": [
+      "Fire Stone",
+      "fluffy collar",
+      "Eeveelution"
+    ],
+    "clues": [
+      "This Fire-type is one of the original three branching evolutions of a highly adaptable Normal-type.",
+      "It is obtained with a Fire Stone in the core series.",
+      "It has a large cream-colored mane and bushy tail."
+    ],
+    "icon_info": {
+      "starTag": "Flame Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "One of the three original Eeveelutions",
+      "alsoKnownFor": "Fire-type evolution of Eevee"
+    },
+    "bonus_question": "In 10 seconds, name the evolution stone associated with it.",
+    "bonus_answer": "Fire Stone",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/136.png"
+  },
+  {
+    "name": "Umbreon",
+    "buzzwords": [
+      "moonlight",
+      "dark rings",
+      "night friendship"
+    ],
+    "clues": [
+      "This Dark-type evolves from a highly adaptable Normal-type through friendship at night in many core games.",
+      "Its black body has glowing yellow ring markings.",
+      "It was introduced alongside the Dark type in Generation II."
+    ],
+    "icon_info": {
+      "starTag": "Moonlight Pokémon",
+      "placeOfBirth": "Johto region; introduced in Generation II",
+      "highestAward": "Dark-type Eeveelution introduced in Generation II",
+      "alsoKnownFor": "Often paired thematically with Espeon"
+    },
+    "bonus_question": "In 10 seconds, during what part of the day does its friendship evolution normally occur?",
+    "bonus_answer": "Night",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/197.png"
+  },
+  {
+    "name": "Espeon",
+    "buzzwords": [
+      "sunlight",
+      "psychic cat",
+      "day friendship"
+    ],
+    "clues": [
+      "This Psychic-type evolves from a highly adaptable Normal-type through friendship during the day in many core games.",
+      "It has a forked tail and a red gem on its forehead.",
+      "It debuted in Generation II as a counterpart to a Dark-type evolution."
+    ],
+    "icon_info": {
+      "starTag": "Sun Pokémon",
+      "placeOfBirth": "Johto region; introduced in Generation II",
+      "highestAward": "Psychic-type Eeveelution introduced in Generation II",
+      "alsoKnownFor": "Often paired thematically with Umbreon"
+    },
+    "bonus_question": "In 10 seconds, during what part of the day does its friendship evolution normally occur?",
+    "bonus_answer": "Day",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/196.png"
+  },
+  {
+    "name": "Sylveon",
+    "buzzwords": [
+      "ribbons",
+      "fairy",
+      "affection"
+    ],
+    "clues": [
+      "This Fairy-type was introduced in the same generation that added the Fairy type.",
+      "It evolves from a highly adaptable Normal-type when friendship conditions and a Fairy-type move requirement are met in modern core games.",
+      "Ribbon-like feelers extend from its body."
+    ],
+    "icon_info": {
+      "starTag": "Intertwining Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Fairy-type Eeveelution introduced in Generation VI",
+      "alsoKnownFor": "National Pokédex No. 700"
+    },
+    "bonus_question": "In 10 seconds, name its type.",
+    "bonus_answer": "Fairy",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/700.png"
+  },
+  {
+    "name": "Machamp",
+    "buzzwords": [
+      "four arms",
+      "wrestling",
+      "trade evolution"
+    ],
+    "clues": [
+      "This Fighting-type has four muscular arms.",
+      "It evolves from Machoke through trading in many core games.",
+      "It gained a Gigantamax form in Pokémon Sword and Shield."
+    ],
+    "icon_info": {
+      "starTag": "Superpower Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Gigantamax-capable final evolution of the Machop line",
+      "alsoKnownFor": "National Pokédex No. 068"
+    },
+    "bonus_question": "In 10 seconds, name its immediate pre-evolution.",
+    "bonus_answer": "Machoke",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/68.png"
+  },
+  {
+    "name": "Alakazam",
+    "buzzwords": [
+      "spoons",
+      "psychic",
+      "trade evolution"
+    ],
+    "clues": [
+      "This Psychic-type is associated with bent spoons and extraordinary mental ability in Pokédex lore.",
+      "It evolves from Kadabra through trading in many core games.",
+      "It can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Psi Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Mega Evolution-capable final evolution of the Abra line",
+      "alsoKnownFor": "National Pokédex No. 065"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Abra",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/65.png"
+  },
+  {
+    "name": "Onix",
+    "buzzwords": [
+      "rock snake",
+      "tunnels",
+      "Metal Coat"
+    ],
+    "clues": [
+      "This Rock/Ground-type resembles a giant chain of boulders.",
+      "Brock uses one prominently in the early Pokémon anime.",
+      "When traded while holding a Metal Coat in many core games, it evolves into a Steel/Ground-type."
+    ],
+    "icon_info": {
+      "starTag": "Rock Snake Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Gained the evolution Steelix in Generation II",
+      "alsoKnownFor": "National Pokédex No. 095"
+    },
+    "bonus_question": "In 10 seconds, name its evolved form.",
+    "bonus_answer": "Steelix",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/95.png"
+  },
+  {
+    "name": "Lapras",
+    "buzzwords": [
+      "sea transport",
+      "shell",
+      "ice"
+    ],
+    "clues": [
+      "This Water/Ice-type has long been depicted carrying people safely across water.",
+      "It does not evolve from or into another species.",
+      "It has a Gigantamax form with a shell surrounded by musical, icy energy."
+    ],
+    "icon_info": {
+      "starTag": "Transport Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Gigantamax-capable single-stage Pokémon",
+      "alsoKnownFor": "National Pokédex No. 131"
+    },
+    "bonus_question": "In 10 seconds, name its two types.",
+    "bonus_answer": "Water and Ice",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/131.png"
+  },
+  {
+    "name": "Ditto",
+    "buzzwords": [
+      "Transform",
+      "breeding",
+      "pink blob"
+    ],
+    "clues": [
+      "This Normal-type can copy another Pokémon's appearance, moves, and battle attributes using a signature transformation move.",
+      "It has no evolutionary relatives.",
+      "At Pokémon Day Care or Nursery facilities, it can breed with many otherwise compatible species regardless of sex."
+    ],
+    "icon_info": {
+      "starTag": "Transform Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Central breeding partner across many core games",
+      "alsoKnownFor": "National Pokédex No. 132"
+    },
+    "bonus_question": "In 10 seconds, name its signature move.",
+    "bonus_answer": "Transform",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/132.png"
+  },
+  {
+    "name": "Magikarp",
+    "buzzwords": [
+      "Splash",
+      "weak fish",
+      "level 20"
+    ],
+    "clues": [
+      "This Water-type is famous for low battle power and the move Splash.",
+      "It is sold by a salesman for 500 Pokédollars in a memorable Kanto encounter.",
+      "Starting at level 20, it evolves into a far more imposing Water/Flying-type."
+    ],
+    "icon_info": {
+      "starTag": "Fish Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Evolves into Gyarados starting at level 20",
+      "alsoKnownFor": "National Pokédex No. 129"
+    },
+    "bonus_question": "In 10 seconds, name its evolved form.",
+    "bonus_answer": "Gyarados",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/129.png"
+  },
+  {
+    "name": "Arcanine",
+    "buzzwords": [
+      "Fire Stone",
+      "striped canine",
+      "legendary category"
+    ],
+    "clues": [
+      "This Fire-type evolves from Growlithe with a Fire Stone.",
+      "Its Pokédex species category is literally the Legendary Pokémon, even though it is not classified as a game Legendary Pokémon.",
+      "It is known for great speed and a large striped canine appearance."
+    ],
+    "icon_info": {
+      "starTag": "Legendary Pokémon species category",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Distinctively classified as the Legendary Pokémon in the Pokédex",
+      "alsoKnownFor": "Evolves from Growlithe with a Fire Stone"
+    },
+    "bonus_question": "In 10 seconds, name its pre-evolution.",
+    "bonus_answer": "Growlithe",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/59.png"
+  },
+  {
+    "name": "Scyther",
+    "buzzwords": [
+      "scythe arms",
+      "mantis",
+      "branching evolution"
+    ],
+    "clues": [
+      "This Bug/Flying-type has large blade-like forearms.",
+      "Trading it while holding a Metal Coat in many core games produces a Bug/Steel evolution.",
+      "In Hisui, a Black Augurite can instead produce a Rock/Bug evolution."
+    ],
+    "icon_info": {
+      "starTag": "Mantis Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Can evolve into either Scizor or Kleavor",
+      "alsoKnownFor": "National Pokédex No. 123"
+    },
+    "bonus_question": "In 10 seconds, name either of its evolved forms.",
+    "bonus_answer": "Scizor",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/123.png"
+  },
+  {
+    "name": "Pinsir",
+    "buzzwords": [
+      "stag beetle",
+      "horns",
+      "Mega wings"
+    ],
+    "clues": [
+      "This Bug-type has enormous pincers on top of its head.",
+      "It has no pre-evolution or standard evolution.",
+      "Its Mega Evolution gains the Flying type and functional wings."
+    ],
+    "icon_info": {
+      "starTag": "Stag Beetle Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Single-stage species with a Mega Evolution",
+      "alsoKnownFor": "National Pokédex No. 127"
+    },
+    "bonus_question": "In 10 seconds, what secondary type does its Mega form gain?",
+    "bonus_answer": "Flying",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/127.png"
+  },
+  {
+    "name": "Aerodactyl",
+    "buzzwords": [
+      "Old Amber",
+      "fossil",
+      "prehistoric flyer"
+    ],
+    "clues": [
+      "This Rock/Flying-type is revived from a fossil item rather than hatched or evolved in its original games.",
+      "Its design is based on a prehistoric flying reptile.",
+      "It can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Fossil Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Revived from Old Amber",
+      "alsoKnownFor": "Mega Evolution-capable Fossil Pokémon"
+    },
+    "bonus_question": "In 10 seconds, name the fossil item used to revive it.",
+    "bonus_answer": "Old Amber",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/142.png"
+  },
+  {
+    "name": "Articuno",
+    "buzzwords": [
+      "ice bird",
+      "Kanto trio",
+      "Seafoam Islands"
+    ],
+    "clues": [
+      "This Ice/Flying-type is one of a trio of Legendary birds from Kanto.",
+      "In the original games, it can be found deep in the Seafoam Islands.",
+      "A Galarian regional form changes to Psychic/Flying."
+    ],
+    "icon_info": {
+      "starTag": "Freeze Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Member of the Kanto Legendary bird trio",
+      "alsoKnownFor": "Has a Galarian Psychic/Flying regional form"
+    },
+    "bonus_question": "In 10 seconds, name one of the other two Kanto Legendary birds.",
+    "bonus_answer": "Zapdos",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/144.png"
+  },
+  {
+    "name": "Zapdos",
+    "buzzwords": [
+      "thunder bird",
+      "Power Plant",
+      "Kanto trio"
+    ],
+    "clues": [
+      "This Electric/Flying-type is one of a trio of Legendary birds from Kanto.",
+      "In the original games, it is encountered at the Power Plant.",
+      "A Galarian regional form changes to Fighting/Flying."
+    ],
+    "icon_info": {
+      "starTag": "Electric Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Member of the Kanto Legendary bird trio",
+      "alsoKnownFor": "Has a Galarian Fighting/Flying regional form"
+    },
+    "bonus_question": "In 10 seconds, name the Kanto location where it is found in the original games.",
+    "bonus_answer": "Power Plant",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/145.png"
+  },
+  {
+    "name": "Moltres",
+    "buzzwords": [
+      "fire bird",
+      "Victory Road",
+      "Kanto trio"
+    ],
+    "clues": [
+      "This Fire/Flying-type is one of a trio of Legendary birds from Kanto.",
+      "In Pokémon Red and Blue, it is encountered on Victory Road.",
+      "A Galarian regional form changes to Dark/Flying."
+    ],
+    "icon_info": {
+      "starTag": "Flame Pokémon",
+      "placeOfBirth": "Kanto region; introduced in Generation I",
+      "highestAward": "Member of the Kanto Legendary bird trio",
+      "alsoKnownFor": "Has a Galarian Dark/Flying regional form"
+    },
+    "bonus_question": "In 10 seconds, name one of the other two Kanto Legendary birds.",
+    "bonus_answer": "Articuno",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/146.png"
+  },
+  {
+    "name": "Lugia",
+    "buzzwords": [
+      "sea guardian",
+      "Whirl Islands",
+      "silver mascot"
+    ],
+    "clues": [
+      "This Psychic/Flying-type Legendary Pokémon is strongly associated with the sea despite not being Water-type.",
+      "It is encountered in the Whirl Islands in the Johto games.",
+      "It is the version mascot of Pokémon Silver and Pokémon SoulSilver."
+    ],
+    "icon_info": {
+      "starTag": "Diving Pokémon",
+      "placeOfBirth": "Johto region; introduced in Generation II",
+      "highestAward": "Version mascot of Pokémon Silver and Pokémon SoulSilver",
+      "alsoKnownFor": "Signature move is Aeroblast"
+    },
+    "bonus_question": "In 10 seconds, name its signature Flying-type move.",
+    "bonus_answer": "Aeroblast",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/249.png"
+  },
+  {
+    "name": "Ho-Oh",
+    "buzzwords": [
+      "rainbow bird",
+      "Bell Tower",
+      "gold mascot"
+    ],
+    "clues": [
+      "This Fire/Flying-type Legendary Pokémon is associated with rainbows and resurrection in Johto lore.",
+      "It is encountered atop the Bell Tower in the Johto games.",
+      "It is the version mascot of Pokémon Gold and Pokémon HeartGold."
+    ],
+    "icon_info": {
+      "starTag": "Rainbow Pokémon",
+      "placeOfBirth": "Johto region; introduced in Generation II",
+      "highestAward": "Version mascot of Pokémon Gold and Pokémon HeartGold",
+      "alsoKnownFor": "Closely associated with the move Sacred Fire"
+    },
+    "bonus_question": "In 10 seconds, name the Fire-type move famously associated with it.",
+    "bonus_answer": "Sacred Fire",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/250.png"
+  },
+  {
+    "name": "Celebi",
+    "buzzwords": [
+      "time travel",
+      "Ilex Forest",
+      "mythical"
+    ],
+    "clues": [
+      "This Psychic/Grass-type Mythical Pokémon is said to travel through time.",
+      "It is closely associated with the Ilex Forest shrine in Johto.",
+      "It was originally available through special events rather than normal captures in most early releases."
+    ],
+    "icon_info": {
+      "starTag": "Time Travel Pokémon",
+      "placeOfBirth": "Johto region; introduced in Generation II",
+      "highestAward": "Generation II Mythical Pokémon",
+      "alsoKnownFor": "National Pokédex No. 251"
+    },
+    "bonus_question": "In 10 seconds, name the Johto forest whose shrine is associated with it.",
+    "bonus_answer": "Ilex Forest",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/251.png"
+  },
+  {
+    "name": "Tyranitar",
+    "buzzwords": [
+      "sandstorm",
+      "armor",
+      "pseudo-legendary"
+    ],
+    "clues": [
+      "This Rock/Dark-type is the final stage of the Larvitar line.",
+      "It evolves from Pupitar starting at level 55.",
+      "It is one of the franchise's pseudo-legendary Pokémon and can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Armor Pokémon",
+      "placeOfBirth": "Johto region; introduced in Generation II",
+      "highestAward": "Generation II pseudo-legendary Pokémon",
+      "alsoKnownFor": "Mega Evolution-capable final evolution of Larvitar"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Larvitar",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/248.png"
+  },
+  {
+    "name": "Scizor",
+    "buzzwords": [
+      "metal pincers",
+      "Bug Steel",
+      "Technician"
+    ],
+    "clues": [
+      "This Bug/Steel-type evolves from a Kanto mantis-like species when traded with a Metal Coat in many core games.",
+      "Its body is red and metallic, with large pincers marked like eyes.",
+      "It can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Pincer Pokémon",
+      "placeOfBirth": "Johto region; introduced in Generation II",
+      "highestAward": "Mega Evolution-capable evolution of Scyther",
+      "alsoKnownFor": "National Pokédex No. 212"
+    },
+    "bonus_question": "In 10 seconds, name the held item commonly required for its trade evolution.",
+    "bonus_answer": "Metal Coat",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/212.png"
+  },
+  {
+    "name": "Heracross",
+    "buzzwords": [
+      "horn beetle",
+      "Bug Fighting",
+      "tree sap"
+    ],
+    "clues": [
+      "This Bug/Fighting-type is modeled on a powerful horned beetle.",
+      "It is frequently associated with tree sap in games and animation.",
+      "It has no standard evolution but can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Single Horn Pokémon",
+      "placeOfBirth": "Johto region; introduced in Generation II",
+      "highestAward": "Single-stage species with a Mega Evolution",
+      "alsoKnownFor": "National Pokédex No. 214"
+    },
+    "bonus_question": "In 10 seconds, name its two types.",
+    "bonus_answer": "Bug and Fighting",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/214.png"
+  },
+  {
+    "name": "Blaziken",
+    "buzzwords": [
+      "kick fighter",
+      "Fire Fighting",
+      "Torchic line"
+    ],
+    "clues": [
+      "This Fire/Fighting-type is the final evolution of a Hoenn first-partner line.",
+      "Its powerful legs and kicking attacks are central to its design.",
+      "It can Mega Evolve, and its Hidden Ability is Speed Boost."
+    ],
+    "icon_info": {
+      "starTag": "Blaze Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Mega Evolution-capable Hoenn first-partner final evolution",
+      "alsoKnownFor": "Evolves from Combusken starting at level 36"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Torchic",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/257.png"
+  },
+  {
+    "name": "Sceptile",
+    "buzzwords": [
+      "leaf tail",
+      "Grass starter",
+      "Mega dragon"
+    ],
+    "clues": [
+      "This Grass-type is the final evolution of a Hoenn first-partner line.",
+      "It has a large leafy tail and seeds along its back.",
+      "Its Mega Evolution becomes Grass/Dragon."
+    ],
+    "icon_info": {
+      "starTag": "Forest Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Mega form gains the Dragon type",
+      "alsoKnownFor": "Evolves from Grovyle starting at level 36"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Treecko",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/254.png"
+  },
+  {
+    "name": "Swampert",
+    "buzzwords": [
+      "mud fish",
+      "Water Ground",
+      "Mudkip line"
+    ],
+    "clues": [
+      "This Water/Ground-type is the final evolution of a Hoenn first-partner line.",
+      "Its typing leaves Grass as a particularly important weakness.",
+      "It can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Mud Fish Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Mega Evolution-capable Hoenn first-partner final evolution",
+      "alsoKnownFor": "Evolves from Marshtomp starting at level 36"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Mudkip",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/260.png"
+  },
+  {
+    "name": "Gardevoir",
+    "buzzwords": [
+      "psychic guardian",
+      "fairy",
+      "Ralts line"
+    ],
+    "clues": [
+      "This Psychic/Fairy-type is the final evolution reached from Kirlia along one branch of the Ralts line.",
+      "The Fairy type was added to it when that type debuted in Generation VI.",
+      "It can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Embrace Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Mega Evolution-capable Psychic/Fairy-type",
+      "alsoKnownFor": "Can evolve from either male or female Kirlia"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Ralts",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/282.png"
+  },
+  {
+    "name": "Absol",
+    "buzzwords": [
+      "disaster warning",
+      "white fur",
+      "dark type"
+    ],
+    "clues": [
+      "This Dark-type appears before natural disasters in Pokédex lore, which caused people to mistakenly blame it for calamities.",
+      "It has a curved, sickle-like horn on the side of its head.",
+      "It can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Disaster Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Single-stage species with a Mega Evolution",
+      "alsoKnownFor": "National Pokédex No. 359"
+    },
+    "bonus_question": "In 10 seconds, name its type.",
+    "bonus_answer": "Dark",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/359.png"
+  },
+  {
+    "name": "Metagross",
+    "buzzwords": [
+      "four brains",
+      "steel psychic",
+      "pseudo-legendary"
+    ],
+    "clues": [
+      "This Steel/Psychic-type is the final stage of the Beldum line.",
+      "Pokédex lore describes it as the result of multiple smaller bodies combining into a powerful supercomputer-like creature.",
+      "It is a pseudo-legendary Pokémon and can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Iron Leg Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Generation III pseudo-legendary Pokémon",
+      "alsoKnownFor": "Mega Evolution-capable final evolution of Beldum"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Beldum",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/376.png"
+  },
+  {
+    "name": "Salamence",
+    "buzzwords": [
+      "winged dragon",
+      "Bagon line",
+      "pseudo-legendary"
+    ],
+    "clues": [
+      "This Dragon/Flying-type is the final stage of a Hoenn evolutionary line whose first member longs to fly in Pokédex lore.",
+      "It evolves from Shelgon starting at level 50.",
+      "It is a pseudo-legendary Pokémon and can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Dragon Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Generation III pseudo-legendary Pokémon",
+      "alsoKnownFor": "Mega Evolution-capable final evolution of Bagon"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Bagon",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/373.png"
+  },
+  {
+    "name": "Rayquaza",
+    "buzzwords": [
+      "sky dragon",
+      "Emerald mascot",
+      "Delta Stream"
+    ],
+    "clues": [
+      "This Dragon/Flying-type Legendary Pokémon lives high in the ozone layer according to Pokédex lore.",
+      "It acts as the mediator of the ancient conflict between two other Hoenn super-ancient Pokémon.",
+      "It is the version mascot of Pokémon Emerald and can Mega Evolve without holding a Mega Stone when it knows Dragon Ascent."
+    ],
+    "icon_info": {
+      "starTag": "Sky High Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Version mascot of Pokémon Emerald",
+      "alsoKnownFor": "In Omega Ruby and Alpha Sapphire, Mega Evolution uses Dragon Ascent rather than a held Mega Stone"
+    },
+    "bonus_question": "In 10 seconds, name the move required for its Mega Evolution in Omega Ruby and Alpha Sapphire.",
+    "bonus_answer": "Dragon Ascent",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/384.png"
+  },
+  {
+    "name": "Kyogre",
+    "buzzwords": [
+      "ocean",
+      "Sapphire mascot",
+      "Primal Reversion"
+    ],
+    "clues": [
+      "This Water-type Legendary Pokémon is tied to the expansion of the seas in Hoenn mythology.",
+      "Its regular Ability is Drizzle.",
+      "It is the version mascot of Pokémon Sapphire and Pokémon Alpha Sapphire and can undergo Primal Reversion."
+    ],
+    "icon_info": {
+      "starTag": "Sea Basin Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Version mascot of Pokémon Sapphire and Pokémon Alpha Sapphire",
+      "alsoKnownFor": "Primal form is activated with the Blue Orb"
+    },
+    "bonus_question": "In 10 seconds, name the item associated with its Primal Reversion.",
+    "bonus_answer": "Blue Orb",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/382.png"
+  },
+  {
+    "name": "Groudon",
+    "buzzwords": [
+      "continent",
+      "Ruby mascot",
+      "sunlight"
+    ],
+    "clues": [
+      "This Ground-type Legendary Pokémon is tied to the expansion of land in Hoenn mythology.",
+      "Its regular Ability is Drought.",
+      "It is the version mascot of Pokémon Ruby and Pokémon Omega Ruby and can undergo Primal Reversion."
+    ],
+    "icon_info": {
+      "starTag": "Continent Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Version mascot of Pokémon Ruby and Pokémon Omega Ruby",
+      "alsoKnownFor": "Primal form gains the Fire type"
+    },
+    "bonus_question": "In 10 seconds, name the item associated with its Primal Reversion.",
+    "bonus_answer": "Red Orb",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/383.png"
+  },
+  {
+    "name": "Jirachi",
+    "buzzwords": [
+      "wishes",
+      "seven days",
+      "mythical star"
+    ],
+    "clues": [
+      "This Steel/Psychic-type Mythical Pokémon is linked to wishes.",
+      "Pokédex lore says it awakens for seven days once every thousand years.",
+      "Its signature move when introduced was Doom Desire."
+    ],
+    "icon_info": {
+      "starTag": "Wish Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Generation III Mythical Pokémon",
+      "alsoKnownFor": "Signature move is Doom Desire"
+    },
+    "bonus_question": "In 10 seconds, according to its classic lore, how often does it awaken?",
+    "bonus_answer": "For seven days every thousand years",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/385.png"
+  },
+  {
+    "name": "Deoxys",
+    "buzzwords": [
+      "DNA virus",
+      "four forms",
+      "space"
+    ],
+    "clues": [
+      "This Psychic-type Mythical Pokémon originated from a space virus altered by a laser beam in Pokédex lore.",
+      "It can switch among Normal, Attack, Defense, and Speed Formes.",
+      "Its debut generation introduced it as an event-only Mythical Pokémon."
+    ],
+    "icon_info": {
+      "starTag": "DNA Pokémon",
+      "placeOfBirth": "Hoenn region; introduced in Generation III",
+      "highestAward": "Has four major battle Formes",
+      "alsoKnownFor": "National Pokédex No. 386"
+    },
+    "bonus_question": "In 10 seconds, name any two of its four Formes.",
+    "bonus_answer": "Attack Forme and Speed Forme",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/386.png"
+  },
+  {
+    "name": "Infernape",
+    "buzzwords": [
+      "flame crown",
+      "Fire Fighting",
+      "Sinnoh starter"
+    ],
+    "clues": [
+      "This Fire/Fighting-type is the final evolution of a Sinnoh first-partner line.",
+      "A crown-like flame burns from its head.",
+      "It evolves from Monferno starting at level 36."
+    ],
+    "icon_info": {
+      "starTag": "Flame Pokémon",
+      "placeOfBirth": "Sinnoh region; introduced in Generation IV",
+      "highestAward": "Final evolution of the Fire-type Sinnoh first partner",
+      "alsoKnownFor": "Hidden Ability is Iron Fist"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Chimchar",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/392.png"
+  },
+  {
+    "name": "Empoleon",
+    "buzzwords": [
+      "emperor penguin",
+      "Water Steel",
+      "Sinnoh starter"
+    ],
+    "clues": [
+      "This Water/Steel-type is the final evolution of a Sinnoh first-partner line.",
+      "Its design combines a penguin with a trident-like facial crest.",
+      "It evolves from Prinplup starting at level 36."
+    ],
+    "icon_info": {
+      "starTag": "Emperor Pokémon",
+      "placeOfBirth": "Sinnoh region; introduced in Generation IV",
+      "highestAward": "Final evolution of the Water-type Sinnoh first partner",
+      "alsoKnownFor": "National Pokédex No. 395"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Piplup",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/395.png"
+  },
+  {
+    "name": "Torterra",
+    "buzzwords": [
+      "tree shell",
+      "Grass Ground",
+      "Sinnoh starter"
+    ],
+    "clues": [
+      "This Grass/Ground-type is the final evolution of a Sinnoh first-partner line.",
+      "A tree and patches of earth grow on its broad shell.",
+      "It evolves from Grotle starting at level 32."
+    ],
+    "icon_info": {
+      "starTag": "Continent Pokémon",
+      "placeOfBirth": "Sinnoh region; introduced in Generation IV",
+      "highestAward": "Final evolution of the Grass-type Sinnoh first partner",
+      "alsoKnownFor": "National Pokédex No. 389"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Turtwig",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/389.png"
+  },
+  {
+    "name": "Garchomp",
+    "buzzwords": [
+      "land shark",
+      "Dragon Ground",
+      "pseudo-legendary"
+    ],
+    "clues": [
+      "This Dragon/Ground-type is the final stage of the Gible line.",
+      "It evolves from Gabite starting at level 48.",
+      "It is a pseudo-legendary Pokémon and can Mega Evolve."
+    ],
+    "icon_info": {
+      "starTag": "Mach Pokémon",
+      "placeOfBirth": "Sinnoh region; introduced in Generation IV",
+      "highestAward": "Generation IV pseudo-legendary Pokémon",
+      "alsoKnownFor": "Mega Evolution-capable final evolution of Gible"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Gible",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/445.png"
+  },
+  {
+    "name": "Riolu",
+    "buzzwords": [
+      "aura",
+      "baby fighter",
+      "friendship"
+    ],
+    "clues": [
+      "This Fighting-type can sense aura even before it evolves.",
+      "In many core games, high friendship during the day causes its evolution.",
+      "It is classified as a baby Pokémon."
+    ],
+    "icon_info": {
+      "starTag": "Emanation Pokémon",
+      "placeOfBirth": "Sinnoh region; introduced in Generation IV",
+      "highestAward": "Baby Pokémon that evolves through friendship",
+      "alsoKnownFor": "Evolves into Lucario"
+    },
+    "bonus_question": "In 10 seconds, name its evolved form.",
+    "bonus_answer": "Lucario",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/447.png"
+  },
+  {
+    "name": "Darkrai",
+    "buzzwords": [
+      "nightmares",
+      "Newmoon Island",
+      "mythical"
+    ],
+    "clues": [
+      "This Dark-type Mythical Pokémon can induce nightmares through its ability and lore.",
+      "It is associated with Newmoon Island in Sinnoh.",
+      "Its signature move when introduced was Dark Void."
+    ],
+    "icon_info": {
+      "starTag": "Pitch-Black Pokémon",
+      "placeOfBirth": "Sinnoh region; introduced in Generation IV",
+      "highestAward": "Generation IV Mythical Pokémon",
+      "alsoKnownFor": "Signature move is Dark Void"
+    },
+    "bonus_question": "In 10 seconds, name the Sinnoh island associated with it.",
+    "bonus_answer": "Newmoon Island",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/491.png"
+  },
+  {
+    "name": "Arceus",
+    "buzzwords": [
+      "Alpha Pokémon",
+      "plates",
+      "creator myth"
+    ],
+    "clues": [
+      "This Mythical Pokémon is normally Normal-type but can change type through its Multitype Ability and special items.",
+      "Sinnoh mythology describes it as shaping the universe with a thousand arms.",
+      "A 2022 action RPG set in ancient Sinnoh's Hisui region is named after this species."
+    ],
+    "icon_info": {
+      "starTag": "Alpha Pokémon",
+      "placeOfBirth": "Sinnoh region; introduced in Generation IV",
+      "highestAward": "Title species of Pokémon Legends: Arceus",
+      "alsoKnownFor": "National Pokédex No. 493"
+    },
+    "bonus_question": "In 10 seconds, name its Ability that changes type with special items.",
+    "bonus_answer": "Multitype",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/493.png"
+  },
+  {
+    "name": "Zoroark",
+    "buzzwords": [
+      "illusions",
+      "fox",
+      "Hisuian form"
+    ],
+    "clues": [
+      "This Dark-type can create convincing illusions through its signature Ability.",
+      "It evolves from Zorua starting at level 30.",
+      "Its Hisuian regional form is Normal/Ghost."
+    ],
+    "icon_info": {
+      "starTag": "Illusion Fox Pokémon",
+      "placeOfBirth": "Unova region; introduced in Generation V",
+      "highestAward": "Has a Hisuian Normal/Ghost regional form",
+      "alsoKnownFor": "Regular Ability is Illusion"
+    },
+    "bonus_question": "In 10 seconds, name its pre-evolution.",
+    "bonus_answer": "Zorua",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/571.png"
+  },
+  {
+    "name": "Chandelure",
+    "buzzwords": [
+      "ghost chandelier",
+      "souls",
+      "Dusk Stone"
+    ],
+    "clues": [
+      "This Ghost/Fire-type resembles a haunted chandelier.",
+      "It is the final stage of the Litwick line.",
+      "A Dusk Stone evolves Lampent into this species."
+    ],
+    "icon_info": {
+      "starTag": "Luring Pokémon",
+      "placeOfBirth": "Unova region; introduced in Generation V",
+      "highestAward": "Final evolution of the Litwick line",
+      "alsoKnownFor": "Evolves from Lampent with a Dusk Stone"
+    },
+    "bonus_question": "In 10 seconds, name the stone used for its evolution.",
+    "bonus_answer": "Dusk Stone",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/609.png"
+  },
+  {
+    "name": "Volcarona",
+    "buzzwords": [
+      "sun moth",
+      "Bug Fire",
+      "level 59"
+    ],
+    "clues": [
+      "This Bug/Fire-type resembles a large moth with six fiery wings.",
+      "It evolves from Larvesta starting at the unusually high level of 59.",
+      "In Pokémon Black and White, a special overworld encounter appears in Relic Castle."
+    ],
+    "icon_info": {
+      "starTag": "Sun Pokémon",
+      "placeOfBirth": "Unova region; introduced in Generation V",
+      "highestAward": "Evolves from Larvesta at level 59",
+      "alsoKnownFor": "Not classified as Legendary despite its special encounter"
+    },
+    "bonus_question": "In 10 seconds, name its pre-evolution.",
+    "bonus_answer": "Larvesta",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/637.png"
+  },
+  {
+    "name": "Haxorus",
+    "buzzwords": [
+      "axe tusks",
+      "dragon",
+      "yellow armor"
+    ],
+    "clues": [
+      "This pure Dragon-type has large axe-shaped tusks extending from its jaw.",
+      "It is the final stage of the Axew line.",
+      "It evolves from Fraxure starting at level 48."
+    ],
+    "icon_info": {
+      "starTag": "Axe Jaw Pokémon",
+      "placeOfBirth": "Unova region; introduced in Generation V",
+      "highestAward": "Final evolution of the Axew line",
+      "alsoKnownFor": "National Pokédex No. 612"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Axew",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/612.png"
+  },
+  {
+    "name": "Hydreigon",
+    "buzzwords": [
+      "three heads",
+      "Dark Dragon",
+      "level 64"
+    ],
+    "clues": [
+      "This Dark/Dragon-type is the final stage of the Deino line.",
+      "It evolves from Zweilous starting at level 64.",
+      "It is Unova's pseudo-legendary Pokémon."
+    ],
+    "icon_info": {
+      "starTag": "Brutal Pokémon",
+      "placeOfBirth": "Unova region; introduced in Generation V",
+      "highestAward": "Generation V pseudo-legendary Pokémon",
+      "alsoKnownFor": "Evolves at level 64, unusually late for a three-stage line"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Deino",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/635.png"
+  },
+  {
+    "name": "Reshiram",
+    "buzzwords": [
+      "truth",
+      "white dragon",
+      "Fusion Flare"
+    ],
+    "clues": [
+      "This Dragon/Fire-type Legendary Pokémon represents truth in the Unova legends.",
+      "Its tail resembles a turbine and can generate intense flames.",
+      "It is the version mascot of Pokémon Black."
+    ],
+    "icon_info": {
+      "starTag": "Vast White Pokémon",
+      "placeOfBirth": "Unova region; introduced in Generation V",
+      "highestAward": "Version mascot of Pokémon Black",
+      "alsoKnownFor": "Signature move is Blue Flare"
+    },
+    "bonus_question": "In 10 seconds, name the concept it represents in the Unova legend.",
+    "bonus_answer": "Truth",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/643.png"
+  },
+  {
+    "name": "Zekrom",
+    "buzzwords": [
+      "ideals",
+      "black dragon",
+      "Fusion Bolt"
+    ],
+    "clues": [
+      "This Dragon/Electric-type Legendary Pokémon represents ideals in the Unova legends.",
+      "Its tail resembles a generator and produces electricity.",
+      "It is the version mascot of Pokémon White."
+    ],
+    "icon_info": {
+      "starTag": "Deep Black Pokémon",
+      "placeOfBirth": "Unova region; introduced in Generation V",
+      "highestAward": "Version mascot of Pokémon White",
+      "alsoKnownFor": "Signature move is Bolt Strike"
+    },
+    "bonus_question": "In 10 seconds, name the concept it represents in the Unova legend.",
+    "bonus_answer": "Ideals",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/644.png"
+  },
+  {
+    "name": "Victini",
+    "buzzwords": [
+      "victory",
+      "V-shaped ears",
+      "Unova No. 000"
+    ],
+    "clues": [
+      "This Psychic/Fire-type Mythical Pokémon is associated with victory.",
+      "In the original Unova regional Pokédex, it uniquely appears before No. 001 as No. 000.",
+      "It was first distributed through an event item leading to Liberty Garden."
+    ],
+    "icon_info": {
+      "starTag": "Victory Pokémon",
+      "placeOfBirth": "Unova region; introduced in Generation V",
+      "highestAward": "Unova Pokédex No. 000",
+      "alsoKnownFor": "Generation V Mythical Pokémon"
+    },
+    "bonus_question": "In 10 seconds, what special number does it have in the original Unova Pokédex?",
+    "bonus_answer": "000",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/494.png"
+  },
+  {
+    "name": "Chesnaught",
+    "buzzwords": [
+      "spiky armor",
+      "Grass Fighting",
+      "Kalos starter"
+    ],
+    "clues": [
+      "This Grass/Fighting-type is the final evolution of a Kalos first-partner line.",
+      "Its body is protected by a tough, spiked shell-like armor.",
+      "It evolves from Quilladin starting at level 36."
+    ],
+    "icon_info": {
+      "starTag": "Spiny Armor Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Final evolution of the Grass-type Kalos first partner",
+      "alsoKnownFor": "Spiky Shield was its signature move when introduced"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Chespin",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/652.png"
+  },
+  {
+    "name": "Delphox",
+    "buzzwords": [
+      "fox mage",
+      "Fire Psychic",
+      "wand"
+    ],
+    "clues": [
+      "This Fire/Psychic-type is the final evolution of a Kalos first-partner line.",
+      "It uses a burning branch like a wand in its battle animations and lore.",
+      "It evolves from Braixen starting at level 36."
+    ],
+    "icon_info": {
+      "starTag": "Fox Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Final evolution of the Fire-type Kalos first partner",
+      "alsoKnownFor": "Mystical Fire was its signature move when introduced"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Fennekin",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/655.png"
+  },
+  {
+    "name": "Aegislash",
+    "buzzwords": [
+      "sword shield",
+      "stance change",
+      "Ghost Steel"
+    ],
+    "clues": [
+      "This Steel/Ghost-type alternates between defensive and offensive forms in battle.",
+      "Its Ability switches it between Shield Forme and Blade Forme depending on the move used.",
+      "It evolves from Doublade when exposed to a Dusk Stone."
+    ],
+    "icon_info": {
+      "starTag": "Royal Sword Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Signature Stance Change mechanic switches two battle Formes",
+      "alsoKnownFor": "Final evolution of the Honedge line"
+    },
+    "bonus_question": "In 10 seconds, name the two battle Formes.",
+    "bonus_answer": "Shield Forme and Blade Forme",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/681.png"
+  },
+  {
+    "name": "Goodra",
+    "buzzwords": [
+      "slimy dragon",
+      "rain evolution",
+      "pseudo-legendary"
+    ],
+    "clues": [
+      "This Dragon-type is the final stage of the Goomy line.",
+      "In many core games, Sliggoo evolves into it at level 50 or higher during rain.",
+      "It is a pseudo-legendary Pokémon and has a Hisuian regional form."
+    ],
+    "icon_info": {
+      "starTag": "Dragon Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Generation VI pseudo-legendary Pokémon",
+      "alsoKnownFor": "Hisuian form is Steel/Dragon"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Goomy",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/706.png"
+  },
+  {
+    "name": "Noivern",
+    "buzzwords": [
+      "sound waves",
+      "bat dragon",
+      "Boomburst"
+    ],
+    "clues": [
+      "This Flying/Dragon-type uses its huge ears to emit powerful ultrasonic waves.",
+      "It evolves from Noibat starting at level 48.",
+      "It can learn the powerful sound-based move Boomburst."
+    ],
+    "icon_info": {
+      "starTag": "Sound Wave Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Final evolution of Noibat",
+      "alsoKnownFor": "National Pokédex No. 715"
+    },
+    "bonus_question": "In 10 seconds, name its pre-evolution.",
+    "bonus_answer": "Noibat",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/715.png"
+  },
+  {
+    "name": "Xerneas",
+    "buzzwords": [
+      "life",
+      "rainbow antlers",
+      "X mascot"
+    ],
+    "clues": [
+      "This Fairy-type Legendary Pokémon is associated with life and life-giving energy.",
+      "Its antlers glow in multiple colors when active.",
+      "It is the version mascot of Pokémon X."
+    ],
+    "icon_info": {
+      "starTag": "Life Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Version mascot of Pokémon X",
+      "alsoKnownFor": "Signature move is Geomancy"
+    },
+    "bonus_question": "In 10 seconds, name its signature status move.",
+    "bonus_answer": "Geomancy",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/716.png"
+  },
+  {
+    "name": "Yveltal",
+    "buzzwords": [
+      "destruction",
+      "Y-shaped wings",
+      "Y mascot"
+    ],
+    "clues": [
+      "This Dark/Flying-type Legendary Pokémon is associated with destruction and absorbing life energy.",
+      "Its silhouette forms a distinctive Y shape in flight.",
+      "It is the version mascot of Pokémon Y."
+    ],
+    "icon_info": {
+      "starTag": "Destruction Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Version mascot of Pokémon Y",
+      "alsoKnownFor": "Signature move is Oblivion Wing"
+    },
+    "bonus_question": "In 10 seconds, name its signature Flying-type move.",
+    "bonus_answer": "Oblivion Wing",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/717.png"
+  },
+  {
+    "name": "Zygarde",
+    "buzzwords": [
+      "order",
+      "cells",
+      "Complete Forme"
+    ],
+    "clues": [
+      "This Dragon/Ground-type Legendary Pokémon monitors the Kalos ecosystem.",
+      "Its body can be assembled from Cells and Cores.",
+      "It has 10% Forme, 50% Forme, and Complete Forme."
+    ],
+    "icon_info": {
+      "starTag": "Order Pokémon",
+      "placeOfBirth": "Kalos region; introduced in Generation VI",
+      "highestAward": "Has 10%, 50%, and Complete Formes",
+      "alsoKnownFor": "Power Construct can trigger its Complete Forme"
+    },
+    "bonus_question": "In 10 seconds, name the three percentage-based forms.",
+    "bonus_answer": "10%, 50%, and Complete Forme",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/718.png"
+  },
+  {
+    "name": "Decidueye",
+    "buzzwords": [
+      "archer owl",
+      "Grass Ghost",
+      "feather arrows"
+    ],
+    "clues": [
+      "This Grass/Ghost-type is the final evolution of an Alola first-partner line.",
+      "It attacks with arrow-like feathers and an archery theme.",
+      "Its Hisuian regional form is Grass/Fighting."
+    ],
+    "icon_info": {
+      "starTag": "Arrow Quill Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Final evolution of the Grass-type Alola first partner",
+      "alsoKnownFor": "Has a Hisuian Grass/Fighting regional form"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Rowlet",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/724.png"
+  },
+  {
+    "name": "Incineroar",
+    "buzzwords": [
+      "heel wrestler",
+      "Fire Dark",
+      "belt flames"
+    ],
+    "clues": [
+      "This Fire/Dark-type is the final evolution of an Alola first-partner line.",
+      "Its design is based on a theatrical villain-style professional wrestler.",
+      "It joined the playable roster of Super Smash Bros. Ultimate."
+    ],
+    "icon_info": {
+      "starTag": "Heel Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Playable fighter in Super Smash Bros. Ultimate",
+      "alsoKnownFor": "Final evolution of Litten"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Litten",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/727.png"
+  },
+  {
+    "name": "Primarina",
+    "buzzwords": [
+      "sea singer",
+      "Water Fairy",
+      "bubbles"
+    ],
+    "clues": [
+      "This Water/Fairy-type is the final evolution of an Alola first-partner line.",
+      "Its design centers on singing, performance, and sea-lion traits.",
+      "Sparkling Aria was its signature move when introduced."
+    ],
+    "icon_info": {
+      "starTag": "Soloist Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Final evolution of the Water-type Alola first partner",
+      "alsoKnownFor": "Sparkling Aria was its signature move when introduced"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Popplio",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/730.png"
+  },
+  {
+    "name": "Mimikyu",
+    "buzzwords": [
+      "disguise cloth",
+      "Pikachu imitation",
+      "Ghost Fairy"
+    ],
+    "clues": [
+      "This Ghost/Fairy-type hides its true appearance beneath a handmade rag.",
+      "The disguise deliberately resembles the franchise's yellow mascot because it wants affection.",
+      "Its Ability lets its disguise absorb one damaging hit before breaking."
+    ],
+    "icon_info": {
+      "starTag": "Disguise Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Signature Ability is Disguise",
+      "alsoKnownFor": "National Pokédex No. 778"
+    },
+    "bonus_question": "In 10 seconds, name its signature Ability.",
+    "bonus_answer": "Disguise",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/778.png"
+  },
+  {
+    "name": "Toxapex",
+    "buzzwords": [
+      "poison spikes",
+      "coral predator",
+      "defense"
+    ],
+    "clues": [
+      "This Poison/Water-type is covered in a ring of spiny tentacles.",
+      "It evolves from Mareanie starting at level 38.",
+      "Its abilities include Merciless, Limber, and the Hidden Ability Regenerator."
+    ],
+    "icon_info": {
+      "starTag": "Brutal Star Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Final evolution of Mareanie",
+      "alsoKnownFor": "Hidden Ability is Regenerator"
+    },
+    "bonus_question": "In 10 seconds, name its pre-evolution.",
+    "bonus_answer": "Mareanie",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/748.png"
+  },
+  {
+    "name": "Lycanroc",
+    "buzzwords": [
+      "wolf",
+      "three forms",
+      "Rockruff"
+    ],
+    "clues": [
+      "This Rock-type has different evolved appearances determined by time or special conditions.",
+      "Its forms are Midday, Midnight, and Dusk.",
+      "It evolves from Rockruff starting at level 25 when the required conditions are met."
+    ],
+    "icon_info": {
+      "starTag": "Wolf Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Has Midday, Midnight, and Dusk Forms",
+      "alsoKnownFor": "Evolves from Rockruff"
+    },
+    "bonus_question": "In 10 seconds, name all three forms.",
+    "bonus_answer": "Midday, Midnight, and Dusk",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/745.png"
+  },
+  {
+    "name": "Solgaleo",
+    "buzzwords": [
+      "sun lion",
+      "Psychic Steel",
+      "Sun mascot"
+    ],
+    "clues": [
+      "This Psychic/Steel-type Legendary Pokémon resembles a radiant lion.",
+      "It evolves from Cosmoem in Pokémon Sun and related titles under the appropriate conditions.",
+      "It is the version mascot of Pokémon Sun."
+    ],
+    "icon_info": {
+      "starTag": "Sunne Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Version mascot of Pokémon Sun",
+      "alsoKnownFor": "Signature move is Sunsteel Strike"
+    },
+    "bonus_question": "In 10 seconds, name its signature Steel-type move.",
+    "bonus_answer": "Sunsteel Strike",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/791.png"
+  },
+  {
+    "name": "Lunala",
+    "buzzwords": [
+      "moon bat",
+      "Psychic Ghost",
+      "Moon mascot"
+    ],
+    "clues": [
+      "This Psychic/Ghost-type Legendary Pokémon resembles a giant crescent-winged bat.",
+      "It evolves from Cosmoem in Pokémon Moon and related titles under the appropriate conditions.",
+      "It is the version mascot of Pokémon Moon."
+    ],
+    "icon_info": {
+      "starTag": "Moone Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Version mascot of Pokémon Moon",
+      "alsoKnownFor": "Signature move is Moongeist Beam"
+    },
+    "bonus_question": "In 10 seconds, name its signature Ghost-type move.",
+    "bonus_answer": "Moongeist Beam",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/792.png"
+  },
+  {
+    "name": "Tapu Koko",
+    "buzzwords": [
+      "guardian deity",
+      "electric terrain",
+      "Melemele"
+    ],
+    "clues": [
+      "This Electric/Fairy-type Legendary Pokémon is one of Alola's four guardian deities.",
+      "It protects Melemele Island.",
+      "Its Ability Electric Surge creates Electric Terrain when it enters battle."
+    ],
+    "icon_info": {
+      "starTag": "Land Spirit Pokémon",
+      "placeOfBirth": "Alola region; introduced in Generation VII",
+      "highestAward": "Guardian deity of Melemele Island",
+      "alsoKnownFor": "Ability is Electric Surge"
+    },
+    "bonus_question": "In 10 seconds, name the island it guards.",
+    "bonus_answer": "Melemele Island",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/785.png"
+  },
+  {
+    "name": "Corviknight",
+    "buzzwords": [
+      "raven taxi",
+      "Flying Steel",
+      "Gigantamax"
+    ],
+    "clues": [
+      "This Flying/Steel-type is the final stage of the Rookidee line.",
+      "In Galar, the species is used by a flying taxi service.",
+      "It has a Gigantamax form."
+    ],
+    "icon_info": {
+      "starTag": "Raven Pokémon",
+      "placeOfBirth": "Galar region; introduced in Generation VIII",
+      "highestAward": "Galar's Flying Taxi species and a Gigantamax-capable Pokémon",
+      "alsoKnownFor": "Final evolution of Rookidee"
+    },
+    "bonus_question": "In 10 seconds, name its first-stage pre-evolution.",
+    "bonus_answer": "Rookidee",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/823.png"
+  },
+  {
+    "name": "Dragapult",
+    "buzzwords": [
+      "stealth bomber",
+      "Dragon Ghost",
+      "Dreepy launcher"
+    ],
+    "clues": [
+      "This Dragon/Ghost-type is the final stage of the Dreepy line.",
+      "Its head carries smaller pre-evolutions that it launches like projectiles in its signature move animation.",
+      "It is Galar's pseudo-legendary Pokémon."
+    ],
+    "icon_info": {
+      "starTag": "Stealth Pokémon",
+      "placeOfBirth": "Galar region; introduced in Generation VIII",
+      "highestAward": "Generation VIII pseudo-legendary Pokémon",
+      "alsoKnownFor": "Signature move is Dragon Darts"
+    },
+    "bonus_question": "In 10 seconds, name the small Pokémon it launches from its head.",
+    "bonus_answer": "Dreepy",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/887.png"
+  },
+  {
+    "name": "Toxtricity",
+    "buzzwords": [
+      "electric punk",
+      "poison",
+      "two forms"
+    ],
+    "clues": [
+      "This Electric/Poison-type evolves from Toxel starting at level 30.",
+      "Its nature determines whether it becomes Amped Form or Low Key Form.",
+      "It has the sound-focused Ability Punk Rock and a Gigantamax form."
+    ],
+    "icon_info": {
+      "starTag": "Punk Pokémon",
+      "placeOfBirth": "Galar region; introduced in Generation VIII",
+      "highestAward": "Has Amped and Low Key Forms plus a Gigantamax form",
+      "alsoKnownFor": "Evolves from Toxel"
+    },
+    "bonus_question": "In 10 seconds, name its two standard forms.",
+    "bonus_answer": "Amped Form and Low Key Form",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/849.png"
+  },
+  {
+    "name": "Zacian",
+    "buzzwords": [
+      "sword",
+      "Fairy Steel",
+      "Galar legend"
+    ],
+    "clues": [
+      "This Legendary Pokémon is Fairy-type in its ordinary Hero of Many Battles form.",
+      "When holding the Rusted Sword in the relevant games, it becomes Crowned Sword and gains the Steel type.",
+      "It is the version mascot of Pokémon Sword."
+    ],
+    "icon_info": {
+      "starTag": "Warrior Pokémon",
+      "placeOfBirth": "Galar region; introduced in Generation VIII",
+      "highestAward": "Version mascot of Pokémon Sword",
+      "alsoKnownFor": "Crowned Sword form uses Behemoth Blade"
+    },
+    "bonus_question": "In 10 seconds, name the item that enables its Crowned Sword form.",
+    "bonus_answer": "Rusted Sword",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/888.png"
+  },
+  {
+    "name": "Zamazenta",
+    "buzzwords": [
+      "shield",
+      "Fighting Steel",
+      "Galar legend"
+    ],
+    "clues": [
+      "This Legendary Pokémon is Fighting-type in its ordinary Hero of Many Battles form.",
+      "When holding the Rusted Shield in the relevant games, it becomes Crowned Shield and gains the Steel type.",
+      "It is the version mascot of Pokémon Shield."
+    ],
+    "icon_info": {
+      "starTag": "Warrior Pokémon",
+      "placeOfBirth": "Galar region; introduced in Generation VIII",
+      "highestAward": "Version mascot of Pokémon Shield",
+      "alsoKnownFor": "Crowned Shield form uses Behemoth Bash"
+    },
+    "bonus_question": "In 10 seconds, name the item that enables its Crowned Shield form.",
+    "bonus_answer": "Rusted Shield",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/889.png"
+  },
+  {
+    "name": "Eternatus",
+    "buzzwords": [
+      "Darkest Day",
+      "Poison Dragon",
+      "Dynamax energy"
+    ],
+    "clues": [
+      "This Poison/Dragon-type Legendary Pokémon is central to the climax of Pokémon Sword and Shield.",
+      "Its energy is tied to the Dynamax phenomenon in Galar.",
+      "It has an enormous Eternamax form seen during the story but not normally usable by players."
+    ],
+    "icon_info": {
+      "starTag": "Gigantic Pokémon",
+      "placeOfBirth": "Galar region; introduced in Generation VIII",
+      "highestAward": "Central Legendary Pokémon of the Darkest Day storyline",
+      "alsoKnownFor": "Eternamax form appears as a boss form"
+    },
+    "bonus_question": "In 10 seconds, name its two types.",
+    "bonus_answer": "Poison and Dragon",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/890.png"
+  },
+  {
+    "name": "Meowscarada",
+    "buzzwords": [
+      "masked cat",
+      "Grass Dark",
+      "flower trick"
+    ],
+    "clues": [
+      "This Grass/Dark-type is the final evolution of a Paldea first-partner line.",
+      "Its magician theme includes a floating flower and concealed tricks.",
+      "Its signature move Flower Trick never misses under normal accuracy rules and always lands a critical hit."
+    ],
+    "icon_info": {
+      "starTag": "Magician Pokémon",
+      "placeOfBirth": "Paldea region; introduced in Generation IX",
+      "highestAward": "Final evolution of the Grass-type Paldea first partner",
+      "alsoKnownFor": "Signature move is Flower Trick"
+    },
+    "bonus_question": "In 10 seconds, name the first-stage Pokémon in its line.",
+    "bonus_answer": "Sprigatito",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/908.png"
+  },
+  {
+    "name": "Ceruledge",
+    "buzzwords": [
+      "violet armor",
+      "Fire Ghost",
+      "blade arms"
+    ],
+    "clues": [
+      "This Fire/Ghost-type evolves from Charcadet using a version-specific armor item.",
+      "In Pokémon Violet, the required item is Malicious Armor.",
+      "Its signature move Bitter Blade restores HP based on damage dealt."
+    ],
+    "icon_info": {
+      "starTag": "Fire Blades Pokémon",
+      "placeOfBirth": "Paldea region; introduced in Generation IX",
+      "highestAward": "Pokémon Violet-associated Charcadet evolution",
+      "alsoKnownFor": "Signature move is Bitter Blade"
+    },
+    "bonus_question": "In 10 seconds, name the armor item used for its evolution.",
+    "bonus_answer": "Malicious Armor",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/937.png"
+  },
+  {
+    "name": "Tinkaton",
+    "buzzwords": [
+      "giant hammer",
+      "Fairy Steel",
+      "metal scavenger"
+    ],
+    "clues": [
+      "This Fairy/Steel-type is the final stage of the Tinkatink line.",
+      "It carries an enormous handmade hammer made from gathered metal.",
+      "Its signature move Gigaton Hammer has very high base power but cannot be selected twice in a row."
+    ],
+    "icon_info": {
+      "starTag": "Hammer Pokémon",
+      "placeOfBirth": "Paldea region; introduced in Generation IX",
+      "highestAward": "Signature move is Gigaton Hammer",
+      "alsoKnownFor": "Final evolution of Tinkatink"
+    },
+    "bonus_question": "In 10 seconds, name its signature hammer move.",
+    "bonus_answer": "Gigaton Hammer",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/959.png"
+  },
+  {
+    "name": "Kingambit",
+    "buzzwords": [
+      "samurai leader",
+      "Dark Steel",
+      "Leader's Crest"
+    ],
+    "clues": [
+      "This Dark/Steel-type is an evolution added to an older Unova line.",
+      "To evolve its immediate pre-evolution in Scarlet and Violet, that Pokémon must defeat three wild leaders holding a special crest, then level up.",
+      "Its design emphasizes a commanding warlord role."
+    ],
+    "icon_info": {
+      "starTag": "Big Blade Pokémon",
+      "placeOfBirth": "Paldea region; introduced in Generation IX",
+      "highestAward": "New final evolution of the Pawniard line introduced in Generation IX",
+      "alsoKnownFor": "Evolution method uses the Leader's Crest mechanic"
+    },
+    "bonus_question": "In 10 seconds, name its immediate pre-evolution.",
+    "bonus_answer": "Bisharp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/983.png"
+  },
+  {
+    "name": "Gholdengo",
+    "buzzwords": [
+      "1,000 coins",
+      "golden surfer",
+      "Steel Ghost"
+    ],
+    "clues": [
+      "This Steel/Ghost-type evolves only after collecting 999 special coins and then leveling up its pre-evolution.",
+      "Its body is made from a huge accumulation of coin-like material.",
+      "It occupies the milestone National Pokédex number 1000."
+    ],
+    "icon_info": {
+      "starTag": "Coin Entity Pokémon",
+      "placeOfBirth": "Paldea region; introduced in Generation IX",
+      "highestAward": "National Pokédex No. 1000",
+      "alsoKnownFor": "Evolves from Gimmighoul after collecting 999 Gimmighoul Coins"
+    },
+    "bonus_question": "In 10 seconds, how many special coins are needed before evolution?",
+    "bonus_answer": "999",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/1000.png"
+  }
+]

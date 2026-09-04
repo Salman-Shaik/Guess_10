@@ -1,0 +1,853 @@
+[
+  {
+    "name": "Allu Arjun",
+    "buzzwords": [
+      "Stylish",
+      "Dance",
+      "Icon"
+    ],
+    "clues": [
+      "Comes from a well-known film family",
+      "Known for Pushpa",
+      "Outstanding dancer"
+    ],
+    "icon_info": {
+      "starTag": "Icon Star",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Dance performances"
+    },
+    "bonus_question": "Under 15 seconds, name 4 Allu Arjun films.",
+    "bonus_answer": "Arya, Bunny, Race Gurram, Pushpa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Allu_Arjun_at_Pushpa_2_The_Rule_meet.jpg/960px-Allu_Arjun_at_Pushpa_2_The_Rule_meet.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Allu_Arjun"
+  },
+  {
+    "name": "Ram Charan",
+    "buzzwords": [
+      "Entrepreneur",
+      "Legacy",
+      "Dancer"
+    ],
+    "clues": [
+      "Son of actor Chiranjeevi",
+      "Starred in the globally successful film RRR",
+      "Known for action roles and dancing"
+    ],
+    "icon_info": {
+      "starTag": "Global Star",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Entrepreneurship"
+    },
+    "bonus_question": "Which film brought Ram Charan pan-India fame?",
+    "bonus_answer": "RRR",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ram_Charan_at_Game_Changer_trailer_launch.jpg/960px-Ram_Charan_at_Game_Changer_trailer_launch.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ram_Charan"
+  },
+  {
+    "name": "Naga Chaitanya",
+    "buzzwords": [
+      "Romantic",
+      "Legacy",
+      "Young"
+    ],
+    "clues": [
+      "Son of actor Nagarjuna",
+      "Known for Ye Maaya Chesave",
+      "Belongs to the Akkineni–Daggubati film family"
+    ],
+    "icon_info": {
+      "starTag": "Chay",
+      "placeOfBirth": "Hyderabad, Telangana",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Romantic Films"
+    },
+    "bonus_question": "What was Naga Chaitanya's debut film?",
+    "bonus_answer": "Josh (2009)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Naga_Chaitanya_%28cropped%29.jpg/960px-Naga_Chaitanya_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Naga_Chaitanya"
+  },
+  {
+    "name": "Ram Pothineni",
+    "buzzwords": [
+      "Energetic",
+      "Youth",
+      "Handsome"
+    ],
+    "clues": [
+      "Known for energetic romantic and action roles",
+      "Made his lead debut with Devadasu",
+      "Starred in Nenu Sailaja"
+    ],
+    "icon_info": {
+      "starTag": "Energetic Star",
+      "placeOfBirth": "Hyderabad, Telangana",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Mass entertainers"
+    },
+    "bonus_question": "Name Ram Pothineni's hit mass film directed by Puri Jagannadh.",
+    "bonus_answer": "iSmart Shankar",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ram_Pothineni.jpg/960px-Ram_Pothineni.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ram_Pothineni"
+  },
+  {
+    "name": "Nani",
+    "buzzwords": [
+      "Producer",
+      "Boy-next-door",
+      "Natural"
+    ],
+    "clues": [
+      "Known as Natural Star",
+      "Started his career as an assistant director",
+      "Produces the HIT film franchise"
+    ],
+    "icon_info": {
+      "starTag": "Natural Star",
+      "placeOfBirth": "Hyderabad, Telangana",
+      "highestAward": "Nandi Award",
+      "alsoKnownFor": "Film Production"
+    },
+    "bonus_question": "What was Nani's Debut Film?",
+    "bonus_answer": "Ashta Chama",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nani_at_an_interview_for_film_companion_%28cropped%29.png/960px-Nani_at_an_interview_for_film_companion_%28cropped%29.png",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Nani_(actor)"
+  },
+  {
+    "name": "Rana Daggubati",
+    "buzzwords": [
+      "Legacy",
+      "Tall",
+      "Multilingual"
+    ],
+    "clues": [
+      "Played Bhallaladeva in Baahubali",
+      "Acted in multiple languages",
+      "Also into film production"
+    ],
+    "icon_info": {
+      "starTag": "Rana",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Producer"
+    },
+    "bonus_question": "Which villain role made Rana Daggubati famous?",
+    "bonus_answer": "Bhallaladeva in Baahubali",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rana_Daggubati_by_Gage_Skidmore.jpg/960px-Rana_Daggubati_by_Gage_Skidmore.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Rana_Daggubati"
+  },
+  {
+    "name": "Ravi Teja",
+    "buzzwords": [
+      "Mass",
+      "Energetic",
+      "Comedy"
+    ],
+    "clues": [
+      "Known as Mass Maharaja",
+      "Recognised for comic timing",
+      "Frequently appeared alongside comedians Brahmanandam and Ali"
+    ],
+    "icon_info": {
+      "starTag": "Mass Maharaja",
+      "placeOfBirth": "Jaggampeta, Andhra Pradesh",
+      "highestAward": "Nandi Award",
+      "alsoKnownFor": "Comedy roles"
+    },
+    "bonus_question": "Name 3 Ravi Teja comedy action films.",
+    "bonus_answer": "Kick, Vikramarkudu, Raja the Great",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ravi_Teja_in_Dhamaka_promotions_2022_%28cropped%29.png/960px-Ravi_Teja_in_Dhamaka_promotions_2022_%28cropped%29.png",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ravi_Teja"
+  },
+  {
+    "name": "Suriya",
+    "buzzwords": [
+      "Versatile",
+      "Brother",
+      "Tamil"
+    ],
+    "clues": [
+      "Famous for Ghajini",
+      "Runs Agaram Foundation",
+      "Married his co-star"
+    ],
+    "icon_info": {
+      "starTag": "Suriya",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Philanthropy"
+    },
+    "bonus_question": "Which Suriya film was remade in Hindi starring Aamir Khan?",
+    "bonus_answer": "Ghajini",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Retro_audio_launch_-_Suriya.jpg/960px-Retro_audio_launch_-_Suriya.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Suriya"
+  },
+  {
+    "name": "Karthi",
+    "buzzwords": [
+      "Brother",
+      "Versatile",
+      "Bi-lingual"
+    ],
+    "clues": [
+      "Younger brother of actor Suriya",
+      "Known for Aayirathil Oruvan",
+      "Played Dilli in Kaithi"
+    ],
+    "icon_info": {
+      "starTag": "Karthi",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Playback Singing"
+    },
+    "bonus_question": "Which Lokesh Kanagaraj film starred Karthi as Dilli?",
+    "bonus_answer": "Kaithi",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karthi_Sivakumar_at_Nenjil_Thunivirunthal_Audio_Launch_%28cropped%29.jpg/960px-Karthi_Sivakumar_at_Nenjil_Thunivirunthal_Audio_Launch_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Karthi"
+  },
+  {
+    "name": "Vijay Sethupathi",
+    "buzzwords": [
+      "Versatile",
+      "Makkal Selvan",
+      "Tamil"
+    ],
+    "clues": [
+      "Known as Makkal Selvan",
+      "Appeared in Jawan",
+      "Works in lead, supporting and antagonist roles"
+    ],
+    "icon_info": {
+      "starTag": "Makkal Selvan",
+      "placeOfBirth": "Rajapalayam, Tamil Nadu",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Theatre background"
+    },
+    "bonus_question": "Which Vijay Sethupathi film won him the National Award?",
+    "bonus_answer": "Super Deluxe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Vijay_Sethupathi_at_the_premiere_of_Merry_Christmas_2_%28cropped%29.jpg/960px-Vijay_Sethupathi_at_the_premiere_of_Merry_Christmas_2_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Vijay_Sethupathi"
+  },
+  {
+    "name": "Dhanush",
+    "buzzwords": [
+      "Singer",
+      "Versatile",
+      "Tamil"
+    ],
+    "clues": [
+      "Co-wrote and sang Why This Kolaveri Di",
+      "Has won multiple National Film Awards",
+      "Also works as a producer, director and lyricist"
+    ],
+    "icon_info": {
+      "starTag": "Dhanush",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Singer"
+    },
+    "bonus_question": "Which Dhanush song became a global sensation?",
+    "bonus_answer": "Why This Kolaveri Di",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dhanush_at_the_%E2%80%98Asuran%E2%80%99_Success_Meet_%28cropped%29.jpg/960px-Dhanush_at_the_%E2%80%98Asuran%E2%80%99_Success_Meet_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Dhanush"
+  },
+  {
+    "name": "Fahadh Faasil",
+    "buzzwords": [
+      "Malayalam",
+      "OTT",
+      "Versatile"
+    ],
+    "clues": [
+      "Married actor Nazriya Nazim",
+      "Known for films including Joji and Kumbalangi Nights",
+      "Made his Telugu debut in Pushpa: The Rise"
+    ],
+    "icon_info": {
+      "starTag": "Fafa",
+      "placeOfBirth": "Alappuzha, Kerala",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Producer"
+    },
+    "bonus_question": "Which film marked Fahadh Faasil’s Telugu debut?",
+    "bonus_answer": "Pushpa: The Rise",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fahadh_Faasil_2019.jpg/960px-Fahadh_Faasil_2019.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Fahadh_Faasil"
+  },
+  {
+    "name": "Silambarasan (STR)",
+    "buzzwords": [
+      "Romantic",
+      "Versatile",
+      "Tamil"
+    ],
+    "clues": [
+      "Also known as STR",
+      "Works as an actor and playback singer",
+      "Starred in the time-loop film Maanaadu"
+    ],
+    "icon_info": {
+      "starTag": "STR",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Singing"
+    },
+    "bonus_question": "Which time-loop Tamil film starred STR?",
+    "bonus_answer": "Maanaadu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Silambarasan_TR.jpg/960px-Silambarasan_TR.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Silambarasan"
+  },
+  {
+    "name": "Jackie Shroff",
+    "buzzwords": [
+      "Bollywood",
+      "Retro",
+      "Versatile"
+    ],
+    "clues": [
+      "Known as Jaggu Dada",
+      "Acted in several indian languages",
+      "Father of Tiger Shroff"
+    ],
+    "icon_info": {
+      "starTag": "Jaggu Dada",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare Awards",
+      "alsoKnownFor": "Philanthropy"
+    },
+    "bonus_question": "Name one Telugu-language film featuring Jackie Shroff.",
+    "bonus_answer": "Saaho, Shakti or Panjaa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/JackieShroff.jpg/960px-JackieShroff.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Jackie_Shroff"
+  },
+  {
+    "name": "Sunny Deol",
+    "buzzwords": [
+      "Action",
+      "Dialogues",
+      "Bollywood"
+    ],
+    "clues": [
+      "Son of veteran actor Dharmendra",
+      "Known for action films",
+      "Famous for Gadar"
+    ],
+    "icon_info": {
+      "starTag": "Sunny Paaji",
+      "placeOfBirth": "Ludhiana, Punjab",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Politician"
+    },
+    "bonus_question": "Which Sunny Deol movie has the iconic handpump scene?",
+    "bonus_answer": "Gadar: Ek Prem Katha",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sunny_Paaji_2024.jpg/960px-Sunny_Paaji_2024.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Sunny_Deol"
+  },
+  {
+    "name": "Bobby Deol",
+    "buzzwords": [
+      "Brother",
+      "Bollywood",
+      "Comeback"
+    ],
+    "clues": [
+      "Son of actor Dharmendra",
+      "Younger brother of Sunny Deol",
+      "Received renewed attention through Aashram and Animal"
+    ],
+    "icon_info": {
+      "starTag": "Bobby Deol",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare Award",
+      "alsoKnownFor": "OTT Comeback"
+    },
+    "bonus_question": "What was Bobby Deol’s character called in Animal?",
+    "bonus_answer": "Abrar Haque",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lord_Bobby_2024.jpg/960px-Lord_Bobby_2024.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Bobby_Deol"
+  },
+  {
+    "name": "Saif Ali Khan",
+    "buzzwords": [
+      "Nawab",
+      "Bollywood",
+      "Versatile"
+    ],
+    "clues": [
+      "Son of cricketer Mansoor Ali Khan Pataudi and actor Sharmila Tagore",
+      "Married actor Kareena Kapoor",
+      "Starred in the series Sacred Games"
+    ],
+    "icon_info": {
+      "starTag": "Nawab of Pataudi",
+      "placeOfBirth": "New Delhi",
+      "highestAward": "Padma Shri",
+      "alsoKnownFor": "OTT Roles"
+    },
+    "bonus_question": "Which Telugu film featured Saif Ali Khan as Bhaira?",
+    "bonus_answer": "Devara: Part 1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saif_SG_screening.jpg/960px-Saif_SG_screening.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Saif_Ali_Khan"
+  },
+  {
+    "name": "Sanjay Dutt",
+    "buzzwords": [
+      "Action",
+      "Controversial",
+      "Bollywood"
+    ],
+    "clues": [
+      "Son of actors Sunil Dutt and Nargis",
+      "Known for films including Sadak and Saajan",
+      "Played Munna in the Munna Bhai films"
+    ],
+    "icon_info": {
+      "starTag": "Sanju Baba",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare Award",
+      "alsoKnownFor": "Philanthropy"
+    },
+    "bonus_question": "Which film franchise made Sanjay Dutt loved as Munna?",
+    "bonus_answer": "Munna Bhai MBBS, Lage Raho Munna Bhai",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sanjay_Dutt_at_Mumbai_Airport%2C_2018_%28cropped%29.jpg/960px-Sanjay_Dutt_at_Mumbai_Airport%2C_2018_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Sanjay_Dutt"
+  },
+  {
+    "name": "Emraan Hashmi",
+    "buzzwords": [
+      "Serial Kisser",
+      "Romantic",
+      "Bollywood"
+    ],
+    "clues": [
+      "Known for romantic thrillers",
+      "Starred in Murder, Jannat and Once Upon a Time in Mumbaai",
+      "Songs from many of his films became popular"
+    ],
+    "icon_info": {
+      "starTag": "Serial Kisser",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "Filmfare nominations",
+      "alsoKnownFor": "Romantic thrillers"
+    },
+    "bonus_question": "Name the film where Emraan acted along with Salman Khan and Katrina Kaif?",
+    "bonus_answer": "Tiger 3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Emraan_Filmfare_Magazine_Launch.jpg/960px-Emraan_Filmfare_Magazine_Launch.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Emraan_Hashmi"
+  },
+  {
+    "name": "Suniel Shetty",
+    "buzzwords": [
+      "Action",
+      "Bollywood",
+      "Fitness"
+    ],
+    "clues": [
+      "Known for Hindi action films of the 1990s",
+      "Also works as an entrepreneur",
+      "Father of actors Athiya and Ahan Shetty"
+    ],
+    "icon_info": {
+      "starTag": "Anna",
+      "placeOfBirth": "Mulki, Karnataka",
+      "highestAward": "Filmfare Award",
+      "alsoKnownFor": "Entrepreneurship"
+    },
+    "bonus_question": "Suniel Shetty is a father-in-law for which cricketer?",
+    "bonus_answer": "KL Rahul",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Suniel_Shetty_at_the_Fit_India_Campaign%2C_in_New_Delhi_on_May_26%2C_2018_%28cropped%29.jpg/960px-Suniel_Shetty_at_the_Fit_India_Campaign%2C_in_New_Delhi_on_May_26%2C_2018_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Suniel_Shetty"
+  },
+  {
+    "name": "Prakash Raj",
+    "buzzwords": [
+      "Villain",
+      "Versatile",
+      "Multilingual"
+    ],
+    "clues": [
+      "Known villain across industries",
+      "Also directed films",
+      "Famous for his role in Ghilli & Anniyan"
+    ],
+    "icon_info": {
+      "starTag": "Prakash Raj",
+      "placeOfBirth": "Bangalore, Karnataka",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Direction"
+    },
+    "bonus_question": "Which Hindi film featured Prakash Raj as the villain?",
+    "bonus_answer": "Wanted, Dabangg 2 etc",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Prakash_Raj_at_KLF_18_kozhikode.jpg/960px-Prakash_Raj_at_KLF_18_kozhikode.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Prakash_Raj"
+  },
+  {
+    "name": "Amrish Puri",
+    "buzzwords": [
+      "Mogambo",
+      "Villain",
+      "Legend"
+    ],
+    "clues": [
+      "Played Mogambo",
+      "Iconic villain",
+      "Acted in Indiana Jones franchise"
+    ],
+    "icon_info": {
+      "starTag": "Mogambo",
+      "placeOfBirth": "Nawanshahr, Punjab",
+      "highestAward": "Filmfare Award",
+      "alsoKnownFor": "Indiana Jones and the Temple of Doom"
+    },
+    "bonus_question": "Name one Telugu film featuring Amrish Puri.",
+    "bonus_answer": "Jagadeka Veerudu Athiloka Sundari or Aditya 369",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Amrish_Puri.jpg/960px-Amrish_Puri.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Amrish_Puri"
+  },
+  {
+    "name": "Om Puri",
+    "buzzwords": [
+      "Serious",
+      "Parallel Cinema",
+      "Bollywood"
+    ],
+    "clues": [
+      "Known for serious roles in cinema",
+      "Acted in several Hollywood films",
+      "Part of Indian parallel cinema"
+    ],
+    "icon_info": {
+      "starTag": "Om Puri",
+      "placeOfBirth": "Ambala, Haryana",
+      "highestAward": "Padma Shri",
+      "alsoKnownFor": "Theatre"
+    },
+    "bonus_question": "Who directed the film Raat, which featured Om Puri?",
+    "bonus_answer": "Ram Gopal Varma",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/OmPuriSept10TIFF.jpg/960px-OmPuriSept10TIFF.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Om_Puri"
+  },
+  {
+    "name": "Brahmanandam",
+    "buzzwords": [
+      "Comedy",
+      "Records",
+      "Telugu"
+    ],
+    "clues": [
+      "Guinness record for most screen credits for a living actor",
+      "Comedy legend in Telugu",
+      "Professor turned actor"
+    ],
+    "icon_info": {
+      "starTag": "Brahmi",
+      "placeOfBirth": "Sattenapalli, Andhra Pradesh",
+      "highestAward": "Padma Shri",
+      "alsoKnownFor": "Comedy"
+    },
+    "bonus_question": "Which visual art is Brahmanandam known to practise?",
+    "bonus_answer": "Drawing and sketching",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Brahmanandam_at_ANR_Awards.png/960px-Brahmanandam_at_ANR_Awards.png",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Brahmanandam"
+  },
+  {
+    "name": "Ali",
+    "buzzwords": [
+      "Comedian",
+      "Sidekick",
+      "Telugu"
+    ],
+    "clues": [
+      "Known for comedy roles in Telugu cinema",
+      "Began acting as a child artist",
+      "Has also worked as a television host"
+    ],
+    "icon_info": {
+      "starTag": "Ali",
+      "placeOfBirth": "Rajahmundry, Andhra Pradesh",
+      "highestAward": "Nandi Award",
+      "alsoKnownFor": "Hosting"
+    },
+    "bonus_question": "In which film industry has Ali worked most extensively?",
+    "bonus_answer": "Telugu cinema",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ali_Telugu_actor.jpg/960px-Ali_Telugu_actor.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ali_(actor)"
+  },
+  {
+    "name": "Shobana",
+    "buzzwords": [
+      "Dance",
+      "Malayalam",
+      "Actress"
+    ],
+    "clues": [
+      "Acclaimed actor and Bharatanatyam dancer",
+      "Won two National Film Awards for Best Actress",
+      "Known for the Malayalam classic Manichitrathazhu"
+    ],
+    "icon_info": {
+      "starTag": "Shobana",
+      "placeOfBirth": "Thiruvananthapuram, Kerala",
+      "highestAward": "Padma Bhushan",
+      "alsoKnownFor": "Bharatanatyam"
+    },
+    "bonus_question": "Which Malayalam classic starred Shobana?",
+    "bonus_answer": "Manichitrathazhu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Shobhana_%28cropped%29.jpg/960px-Shobhana_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Shobana"
+  },
+  {
+    "name": "Savitri",
+    "buzzwords": [
+      "Veteran",
+      "Legend",
+      "Telugu"
+    ],
+    "clues": [
+      "Frequently co-starred with N. T. Rama Rao and Akkineni Nageswara Rao",
+      "Married actor Gemini Ganesan",
+      "Worked primarily in Telugu and Tamil cinema"
+    ],
+    "icon_info": {
+      "starTag": "Mahanati",
+      "placeOfBirth": "Chirravuru, Andhra Pradesh",
+      "highestAward": "Rashtrapati Award",
+      "alsoKnownFor": "Telugu and Tamil classics"
+    },
+    "bonus_question": "What is the title of Savitri's biopic?",
+    "bonus_answer": "Mahanati",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Savitri_2011_stamp_of_India_%28cropped%29.jpg/960px-Savitri_2011_stamp_of_India_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Savitri_(actress)"
+  },
+  {
+    "name": "Soundarya",
+    "buzzwords": [
+      "Actress",
+      "Telugu",
+      "Popular"
+    ],
+    "clues": [
+      "A leading actor in Telugu and Kannada cinema",
+      "Starred in the Kannada film Dweepa",
+      "Died in a plane crash in 2004"
+    ],
+    "icon_info": {
+      "starTag": "Soundarya",
+      "placeOfBirth": "Mulbagal, Karnataka",
+      "highestAward": "National Film Award as producer",
+      "alsoKnownFor": "Dweepa and Ammoru"
+    },
+    "bonus_question": "Which film produced by Soundarya won the National Film Award for Best Feature Film?",
+    "bonus_answer": "Dweepa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/Actress_Soundarya.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/File:Actress_Soundarya.jpeg"
+  },
+  {
+    "name": "Shriya Saran",
+    "buzzwords": [
+      "Actress",
+      "Telugu",
+      "Bollywood"
+    ],
+    "clues": [
+      "Acted in Sivaji opposite Rajinikanth",
+      "Worked in Bollywood & Telugu",
+      "Also a dancer"
+    ],
+    "icon_info": {
+      "starTag": "Shriya",
+      "placeOfBirth": "Dehradun, Uttarakhand",
+      "highestAward": "Filmfare nomination",
+      "alsoKnownFor": "Dance"
+    },
+    "bonus_question": "Which Prabhas film featured Shriya Saran as the lead actor?",
+    "bonus_answer": "Chatrapathi",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Shriya_Saran_graces_the_screening_of_Sonata.jpg/960px-Shriya_Saran_graces_the_screening_of_Sonata.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Shriya_Saran"
+  },
+  {
+    "name": "Sridevi",
+    "buzzwords": [
+      "Legend",
+      "Iconic",
+      "Bollywood"
+    ],
+    "clues": [
+      "Mother of a young actress",
+      "Worked in South & Bollywood",
+      "Known for Mr. India"
+    ],
+    "icon_info": {
+      "starTag": "Sridevi",
+      "placeOfBirth": "Sivakasi, Tamil Nadu",
+      "highestAward": "Padma Shri",
+      "alsoKnownFor": "Dance"
+    },
+    "bonus_question": "Which comeback film starred Sridevi in 2012?",
+    "bonus_answer": "English Vinglish",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sridevi.jpg/960px-Sridevi.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Sridevi"
+  },
+  {
+    "name": "Alia Bhatt",
+    "buzzwords": [
+      "Youth",
+      "Bollywood",
+      "Actress"
+    ],
+    "clues": [
+      "Known for films including Highway and Gully Boy",
+      "Won a National Film Award for Gangubai Kathiawadi",
+      "Also sang in films including Highway"
+    ],
+    "icon_info": {
+      "starTag": "Alia",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "National Film Award",
+      "alsoKnownFor": "Singing"
+    },
+    "bonus_question": "Which film won Alia Bhatt the National Film Award for Best Actress?",
+    "bonus_answer": "Gangubai Kathiawadi",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alia_Bhatt_attends_at_the_2026_Cannes_Film_Festival_%28cropped%29_%28cropped%29.jpg/960px-Alia_Bhatt_attends_at_the_2026_Cannes_Film_Festival_%28cropped%29_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Alia_Bhatt"
+  },
+  {
+    "name": "Kajal Aggarwal",
+    "buzzwords": [
+      "Chirpy",
+      "South",
+      "Bollywood"
+    ],
+    "clues": [
+      "Known for Telugu and Tamil films",
+      "Starred opposite Ram Charan in Magadheera",
+      "Has also appeared in Hindi films"
+    ],
+    "icon_info": {
+      "starTag": "Kajal",
+      "placeOfBirth": "Mumbai, Maharashtra",
+      "highestAward": "South Indian International Movie Award (SIIMA)",
+      "alsoKnownFor": "Brand endorsements"
+    },
+    "bonus_question": "Which film opposite Ram Charan made Kajal Aggarwal a star?",
+    "bonus_answer": "Magadheera",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kajal_Aggarwal_at_Bhagavanth_Kesari_Trailer_Launch_%281%29.jpg/960px-Kajal_Aggarwal_at_Bhagavanth_Kesari_Trailer_Launch_%281%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Kajal_Aggarwal"
+  },
+  {
+    "name": "Samantha Ruth Prabhu",
+    "buzzwords": [
+      "Versatile",
+      "Popular",
+      "South"
+    ],
+    "clues": [
+      "Known for Ye Maaya Chesave",
+      "Founded the Pratyusha Support charitable organisation",
+      "Starred in the series The Family Man"
+    ],
+    "icon_info": {
+      "starTag": "Sam",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "OTT performances"
+    },
+    "bonus_question": "Which brand does Samantha own?",
+    "bonus_answer": "Saaki",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samantha_at_Kushi_Musical_concert_%282%29_%28cropped%29.jpg/960px-Samantha_at_Kushi_Musical_concert_%282%29_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Samantha_Ruth_Prabhu"
+  },
+  {
+    "name": "Nayanthara",
+    "buzzwords": [
+      "Star",
+      "Tamil",
+      "Versatile"
+    ],
+    "clues": [
+      "Called Lady Superstar",
+      "Worked in Tamil, Telugu, Malayalam",
+      "Married director Vignesh Shivan"
+    ],
+    "icon_info": {
+      "starTag": "Lady Superstar",
+      "placeOfBirth": "Bengaluru, Karnataka",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Women-centric roles"
+    },
+    "bonus_question": "Which title is popularly given to Nayanthara by her fans?",
+    "bonus_answer": "Lady Superstar",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nayanthara_during_toxic_album_launch_event.jpg/960px-Nayanthara_during_toxic_album_launch_event.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Nayanthara"
+  },
+  {
+    "name": "Trisha Krishnan",
+    "buzzwords": [
+      "Elegant",
+      "Tamil",
+      "Evergreen"
+    ],
+    "clues": [
+      "Won the Miss Chennai title in 1999",
+      "Appeared in Mani Ratnam’s Aayutha Ezhuthu",
+      "Has leading roles across Tamil and Telugu cinema"
+    ],
+    "icon_info": {
+      "starTag": "Trisha",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Filmfare Award South",
+      "alsoKnownFor": "Modeling"
+    },
+    "bonus_question": "Which Telugu film opposite Prabhas gave Trisha fame?",
+    "bonus_answer": "Varsham",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trisha_Krishnan_at_PS1_pre_release_event_%283%29_%28cropped%29.jpg/960px-Trisha_Krishnan_at_PS1_pre_release_event_%283%29_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Trisha_Krishnan"
+  },
+  {
+    "name": "Ramya Krishnan",
+    "buzzwords": [
+      "Versatile",
+      "Powerful",
+      "Evergreen"
+    ],
+    "clues": [
+      "Known for Sivagami role in Baahubali",
+      "Acted across Telugu, Tamil, Hindi, and Malayalam",
+      "Won multiple awards"
+    ],
+    "icon_info": {
+      "starTag": "Ramya Krishnan",
+      "placeOfBirth": "Chennai, Tamil Nadu",
+      "highestAward": "Nandi Award",
+      "alsoKnownFor": "Dance performances"
+    },
+    "bonus_question": "Which director did Ramya Krishnan marry?",
+    "bonus_answer": "Krishna Vamsi",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ramya_Krishnan.jpg/960px-Ramya_Krishnan.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Ramya_Krishnan"
+  },
+  {
+    "name": "Anushka Shetty",
+    "buzzwords": [
+      "Tall",
+      "Powerful",
+      "Beautiful"
+    ],
+    "clues": [
+      "Known by the nickname Sweety",
+      "Played the title role in Rudhramadevi",
+      "Received major acclaim for Arundhati and the Baahubali films"
+    ],
+    "icon_info": {
+      "starTag": "Sweety",
+      "placeOfBirth": "Mangalore, Karnataka",
+      "highestAward": "Nandi Award",
+      "alsoKnownFor": "Yoga Instructor"
+    },
+    "bonus_question": "Which fantasy-horror film brought Anushka Shetty massive acclaim?",
+    "bonus_answer": "Arundhati",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anushka_Shetty_first_look_Baahubali_2.jpg/960px-Anushka_Shetty_first_look_Baahubali_2.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Anushka_Shetty"
+  }
+]

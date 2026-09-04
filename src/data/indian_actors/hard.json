@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Sivaji Ganesan",
+    "buzzwords": [
+      "Legend",
+      "Method Pioneer",
+      "Tamil Icon"
+    ],
+    "clues": [
+      "Titan of Tamil cinema",
+      "Renowned stage background",
+      "Master of dialogue delivery"
+    ],
+    "icon_info": {
+      "starTag": "Nadigar Thilagam",
+      "placeOfBirth": "Villupuram, Tamil Nadu",
+      "highestAward": "Dadasaheb Phalke Award",
+      "alsoKnownFor": "Veerapandiya Kattabomman"
+    },
+    "bonus_question": "Which historical role earned Sivaji Ganesan international Best Actor recognition?",
+    "bonus_answer": "Veerapandiya Kattabomman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sivaji_ganesan_%28cropped%29.jpg/960px-Sivaji_ganesan_%28cropped%29.jpg",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Sivaji_Ganesan"
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Sachin Tendulkar",
+    "buzzwords": [
+      "Batsman",
+      "Legend",
+      "Centuries"
+    ],
+    "clues": [
+      "He made his Test debut for India at age 16 in 1989.",
+      "He finished as international cricket's leading run-scorer and became the first player to reach 100 international hundreds.",
+      "He was part of India's 2011 Cricket World Cup-winning team."
+    ],
+    "icon_info": {
+      "starTag": "Master Blaster",
+      "placeOfBirth": "Bombay, Maharashtra, India",
+      "highestAward": "Bharat Ratna (2014)",
+      "alsoKnownFor": "First cricketer to score 100 international centuries"
+    },
+    "bonus_question": "In 10 seconds, how many international centuries did he score?",
+    "bonus_answer": "100",
+    "imageUrl": "/images/cricket/01-sachin-tendulkar.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SachinTendulkar.jpg"
+  },
+  {
+    "name": "MS Dhoni",
+    "buzzwords": [
+      "Captain",
+      "Wicketkeeper",
+      "Helicopter"
+    ],
+    "clues": [
+      "He rose from Ranchi to become India's wicketkeeper-captain.",
+      "Under his leadership, India won the inaugural men's T20 world title in 2007 and the ODI world title in 2011.",
+      "He finished the 2011 World Cup final with an unbeaten 91 and the winning six."
+    ],
+    "icon_info": {
+      "starTag": "Captain Cool",
+      "placeOfBirth": "Ranchi, Bihar, India, now Jharkhand",
+      "highestAward": "Captain of India's 2007 T20 World Cup, 2011 Cricket World Cup and 2013 Champions Trophy-winning teams",
+      "alsoKnownFor": "Famous for the helicopter shot and calm finishing"
+    },
+    "bonus_question": "In 10 seconds, name the stadium city where he hit the winning six in the 2011 World Cup final.",
+    "bonus_answer": "Mumbai",
+    "imageUrl": "/images/cricket/02-ms-dhoni.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:MS_Dhoni.jpg"
+  },
+  {
+    "name": "Virat Kohli",
+    "buzzwords": [
+      "Chaser",
+      "Cover Drive",
+      "Centuries"
+    ],
+    "clues": [
+      "This Delhi-born batter was part of India's 2011 World Cup-winning side.",
+      "He became the first batter to score 50 ODI centuries, reaching the mark during the 2023 World Cup.",
+      "He was Player of the Match in the 2024 men's T20 World Cup final before retiring from T20 internationals."
+    ],
+    "icon_info": {
+      "starTag": "Modern batting great",
+      "placeOfBirth": "Delhi, India",
+      "highestAward": "Sir Garfield Sobers Award for ICC Male Cricketer of the Decade (2011-2020)",
+      "alsoKnownFor": "First batter to score 50 ODI centuries"
+    },
+    "bonus_question": "In 10 seconds, what jersey number is strongly associated with him?",
+    "bonus_answer": "18",
+    "imageUrl": "/images/cricket/03-virat-kohli.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Virat_Kohli_portrait.jpg"
+  },
+  {
+    "name": "Don Bradman",
+    "buzzwords": [
+      "Test",
+      "Legend",
+      "Highest Average"
+    ],
+    "clues": [
+      "This Australian batter's career Test average remains an extraordinary 99.94.",
+      "England designed the controversial Bodyline strategy largely to limit his scoring in the 1932-33 Ashes.",
+      "He captained the unbeaten 1948 Australian touring side remembered as the Invincibles."
+    ],
+    "icon_info": {
+      "starTag": "The Don",
+      "placeOfBirth": "Cootamundra, New South Wales, Australia",
+      "highestAward": "Knight Bachelor for services to cricket (1949)",
+      "alsoKnownFor": "Career Test batting average of 99.94"
+    },
+    "bonus_question": "In 10 seconds, state his famous Test batting average.",
+    "bonus_answer": "99.94",
+    "imageUrl": "/images/cricket/04-don-bradman.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Don_Bradman_autographed_portrait.jpg"
+  },
+  {
+    "name": "Brian Lara",
+    "buzzwords": [
+      "Batsman",
+      "left-hander",
+      "Highest Score"
+    ],
+    "clues": [
+      "This Trinidadian left-hander twice broke the record for the highest individual Test score.",
+      "His unbeaten 400 against England in Antigua in 2004 remains the highest individual Test innings.",
+      "He also made 501 not out for Warwickshire, the highest score in first-class cricket."
+    ],
+    "icon_info": {
+      "starTag": "Prince of Port of Spain",
+      "placeOfBirth": "Santa Cruz, Trinidad and Tobago",
+      "highestAward": "World-record Test score of 400 not out",
+      "alsoKnownFor": "World-record first-class score of 501 not out"
+    },
+    "bonus_question": "In 10 seconds, what is his record Test score?",
+    "bonus_answer": "400 not out",
+    "imageUrl": "/images/cricket/05-brian-lara.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Brian_Lara_Portrait.jpg"
+  },
+  {
+    "name": "Shane Warne",
+    "buzzwords": [
+      "Leg spin",
+      "Ball of the Century",
+      "Wickets"
+    ],
+    "clues": [
+      "This Australian leg-spinner announced himself in Ashes cricket by bowling Mike Gatting with a delivery later dubbed the Ball of the Century.",
+      "He took 708 Test wickets, becoming the first bowler to reach 700.",
+      "He was a key member of Australia's 1999 World Cup-winning side and was Player of the Match in the final."
+    ],
+    "icon_info": {
+      "starTag": "King of Spin",
+      "placeOfBirth": "Upper Ferntree Gully, Victoria, Australia",
+      "highestAward": "Named one of Wisden's Five Cricketers of the Century (2000)",
+      "alsoKnownFor": "Took 708 Test wickets"
+    },
+    "bonus_question": "In 10 seconds, what style of spin bowling made him famous?",
+    "bonus_answer": "Leg spin",
+    "imageUrl": "/images/cricket/06-shane-warne.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Shane_Warne_%286259524020%29.jpg"
+  },
+  {
+    "name": "Wasim Akram",
+    "buzzwords": [
+      "Swing",
+      "Left-arm pace",
+      "Reverse swing"
+    ],
+    "clues": [
+      "This Lahore-born fast bowler became one of cricket's greatest exponents of swing and reverse swing.",
+      "He took three wickets in the 1992 World Cup final as Pakistan won its first men's ODI world title.",
+      "He became the first bowler to reach 500 ODI wickets."
+    ],
+    "icon_info": {
+      "starTag": "Sultan of Swing",
+      "placeOfBirth": "Lahore, Punjab, Pakistan",
+      "highestAward": "First bowler to take 500 ODI wickets",
+      "alsoKnownFor": "1992 Cricket World Cup winner and former Pakistan captain"
+    },
+    "bonus_question": "In 10 seconds, which hand did he bowl fast with?",
+    "bonus_answer": "Left arm",
+    "imageUrl": "/images/cricket/07-wasim-akram.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Wasim_Akram.jpg"
+  },
+  {
+    "name": "Ricky Ponting",
+    "buzzwords": [
+      "Punter",
+      "Pull shot",
+      "World Cup captain"
+    ],
+    "clues": [
+      "This Tasmanian top-order batter was part of Australia's 1999 World Cup-winning squad.",
+      "He struck an unbeaten 140 in the 2003 World Cup final against India.",
+      "As captain, he led Australia to consecutive ODI World Cup titles in 2003 and 2007."
+    ],
+    "icon_info": {
+      "starTag": "Punter",
+      "placeOfBirth": "Launceston, Tasmania, Australia",
+      "highestAward": "Two-time Cricket World Cup-winning captain (2003 and 2007)",
+      "alsoKnownFor": "Scored 13,378 Test runs"
+    },
+    "bonus_question": "In 10 seconds, what was his score in the 2003 World Cup final?",
+    "bonus_answer": "140 not out",
+    "imageUrl": "/images/cricket/08-ricky-ponting.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cricketer_Ricky_Ponting_%2824079181379%29.jpg"
+  },
+  {
+    "name": "Jacques Kallis",
+    "buzzwords": [
+      "All-rounder",
+      "Proteas",
+      "Fast-medium"
+    ],
+    "clues": [
+      "This South African combined elite top-order batting with right-arm fast-medium bowling.",
+      "He scored 13,289 Test runs and took 292 Test wickets.",
+      "He is the only cricketer to exceed 10,000 runs and 250 wickets in both Tests and ODIs."
+    ],
+    "icon_info": {
+      "starTag": "Complete all-rounder",
+      "placeOfBirth": "Cape Town, Western Cape, South Africa",
+      "highestAward": "Only player with 10,000-plus runs and 250-plus wickets in both Tests and ODIs",
+      "alsoKnownFor": "Won a record 23 Player of the Match awards in Test cricket"
+    },
+    "bonus_question": "In 10 seconds, name the two main disciplines he combined at elite level.",
+    "bonus_answer": "Batting and bowling",
+    "imageUrl": "/images/cricket/09-jacques-kallis.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques_Kallis.jpg"
+  },
+  {
+    "name": "Muttiah Muralitharan",
+    "buzzwords": [
+      "Off spin",
+      "Test wickets",
+      "Sri Lanka"
+    ],
+    "clues": [
+      "This Kandy-born spinner became international cricket's most prolific Test wicket-taker.",
+      "He finished his Test career with exactly 800 wickets.",
+      "His 800th Test wicket came in his final Test match, against India at Galle in 2010."
+    ],
+    "icon_info": {
+      "starTag": "Record-breaking off-spinner",
+      "placeOfBirth": "Kandy, Sri Lanka",
+      "highestAward": "World record of 800 Test wickets",
+      "alsoKnownFor": "Took 534 ODI wickets"
+    },
+    "bonus_question": "In 10 seconds, how many Test wickets did he finish with?",
+    "bonus_answer": "800",
+    "imageUrl": "/images/cricket/10-muttiah-muralitharan.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Murali.jpg"
+  },
+  {
+    "name": "Viv Richards",
+    "buzzwords": [
+      "Swagger",
+      "West Indies",
+      "Legend"
+    ],
+    "clues": [
+      "This Antiguan batter was a central figure in the dominant West Indies teams of the 1970s and 1980s.",
+      "He scored an unbeaten 138 against England in the 1979 World Cup final.",
+      "He was famous for attacking fast bowling without wearing a helmet during much of his career."
+    ],
+    "icon_info": {
+      "starTag": "King Viv",
+      "placeOfBirth": "St. John's, Antigua",
+      "highestAward": "Two-time Cricket World Cup winner (1975 and 1979)",
+      "alsoKnownFor": "Scored 138 not out in the 1979 World Cup final"
+    },
+    "bonus_question": "In 10 seconds, what was his score in the 1979 World Cup final?",
+    "bonus_answer": "138 not out",
+    "imageUrl": "/images/cricket/11-viv-richards.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Viv_Richards.jpg"
+  },
+  {
+    "name": "Kapil Dev",
+    "buzzwords": [
+      "Captain",
+      "World Cup",
+      "1983"
+    ],
+    "clues": [
+      "This fast-bowling all-rounder captained India to its first men's ODI world title.",
+      "During the 1983 tournament, he made an unbeaten 175 against Zimbabwe after India had slipped to 17 for 5.",
+      "He retired with 434 Test wickets, then a world record."
+    ],
+    "icon_info": {
+      "starTag": "Haryana Hurricane",
+      "placeOfBirth": "Chandigarh, India",
+      "highestAward": "Padma Bhushan (1991)",
+      "alsoKnownFor": "Captain of India's 1983 Cricket World Cup-winning team"
+    },
+    "bonus_question": "In 10 seconds, which year did he captain India to its first men's ODI World Cup title?",
+    "bonus_answer": "1983",
+    "imageUrl": "/images/cricket/12-kapil-dev.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kapil_Dev_for_a_cricket_show_for_Aajtak.jpg"
+  },
+  {
+    "name": "Imran Khan",
+    "buzzwords": [
+      "Fast",
+      "All-Rounder",
+      "Pakistan"
+    ],
+    "clues": [
+      "This Lahore-born fast-bowling all-rounder was one of the outstanding cricketers of the 1980s.",
+      "He finished his Test career with 3,807 runs and 362 wickets.",
+      "At age 39, he captained Pakistan to the 1992 Cricket World Cup title."
+    ],
+    "icon_info": {
+      "starTag": "1992 World Cup-winning captain",
+      "placeOfBirth": "Lahore, Punjab, Pakistan",
+      "highestAward": "Captain of Pakistan's 1992 Cricket World Cup-winning team",
+      "alsoKnownFor": "One of the leading fast-bowling all-rounders of his era"
+    },
+    "bonus_question": "In 10 seconds, which World Cup did he captain Pakistan to win?",
+    "bonus_answer": "1992 Cricket World Cup",
+    "imageUrl": "/images/cricket/13-imran-khan.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Imran_Khan,_portrait.jpg"
+  },
+  {
+    "name": "AB de Villiers",
+    "buzzwords": [
+      "Legend",
+      "Innovative batting",
+      "Mr. 360"
+    ],
+    "clues": [
+      "This South African batter became famous for scoring all around the wicket with unconventional shots.",
+      "In Johannesburg in 2015, he reached an ODI hundred from only 31 balls against West Indies.",
+      "He also held the ODI records for the fastest fifty and fastest 150."
+    ],
+    "icon_info": {
+      "starTag": "Mr. 360",
+      "placeOfBirth": "Warmbad, Transvaal Province, South Africa, now Bela-Bela",
+      "highestAward": "World record for fastest ODI century, reached in 31 balls",
+      "alsoKnownFor": "Former South Africa captain and wicketkeeper-batter"
+    },
+    "bonus_question": "In 10 seconds, how many balls did his record ODI century take?",
+    "bonus_answer": "31 balls",
+    "imageUrl": "/images/cricket/14-ab-de-villiers.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:AB_de_villiers.jpg"
+  },
+  {
+    "name": "Chris Gayle",
+    "buzzwords": [
+      "Sixes",
+      "Jamaica",
+      "Universe Boss"
+    ],
+    "clues": [
+      "This Jamaican left-hander became one of the most feared power-hitters in T20 cricket.",
+      "He scored the first century in men's T20 international cricket, making 117 at the 2007 World Twenty20.",
+      "His unbeaten 175 for Royal Challengers Bangalore remains a landmark T20 innings."
+    ],
+    "icon_info": {
+      "starTag": "Universe Boss",
+      "placeOfBirth": "Kingston, Jamaica",
+      "highestAward": "Record T20 individual score of 175 not out",
+      "alsoKnownFor": "One of only a small group to score two Test triple-centuries"
+    },
+    "bonus_question": "In 10 seconds, what is his famous highest T20 score?",
+    "bonus_answer": "175 not out",
+    "imageUrl": "/images/cricket/15-chris-gayle.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CHRIS_GAYLE_(6630257535).jpg"
+  },
+  {
+    "name": "Sunil Gavaskar",
+    "buzzwords": [
+      "Little Master",
+      "Mumbai",
+      "10,000 Tests"
+    ],
+    "clues": [
+      "This Mumbai-born opener scored 774 runs in his debut Test series in the Caribbean in 1971.",
+      "He became the first batter in history to reach 10,000 Test runs.",
+      "His 34 Test centuries stood as a world record until 2005."
+    ],
+    "icon_info": {
+      "starTag": "Little Master",
+      "placeOfBirth": "Bombay, Bombay Province, Dominion of India",
+      "highestAward": "Padma Bhushan (1980)",
+      "alsoKnownFor": "First batter to reach 10,000 Test runs"
+    },
+    "bonus_question": "In 10 seconds, what major Test-run milestone was he the first to reach?",
+    "bonus_answer": "10,000 Test runs",
+    "imageUrl": "/images/cricket/16-sunil-gavaskar.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sunil-Gavaskar.jpg"
+  },
+  {
+    "name": "Kumar Sangakkara",
+    "buzzwords": [
+      "Left-hander",
+      "Wicketkeeper",
+      "Captain"
+    ],
+    "clues": [
+      "This Sri Lankan left-hander combined elegant batting with wicketkeeping for much of his international career.",
+      "At the 2015 World Cup, he became the first batter to score four consecutive ODI centuries.",
+      "He made an unbeaten 52 in the 2014 men's T20 World Cup final as Sri Lanka won the title."
+    ],
+    "icon_info": {
+      "starTag": "Elegant wicketkeeper-batter",
+      "placeOfBirth": "Matale, Central Province, Sri Lanka",
+      "highestAward": "ICC Cricketer of the Year (2012)",
+      "alsoKnownFor": "Scored 12,400 Test runs"
+    },
+    "bonus_question": "In 10 seconds, how many consecutive ODI centuries did he score at the 2015 World Cup?",
+    "bonus_answer": "Four",
+    "imageUrl": "/images/cricket/17-kumar-sangakkara.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sangakkara_%28portrait%29.jpg"
+  },
+  {
+    "name": "Rahul Dravid",
+    "buzzwords": [
+      "Batsman",
+      "Safe hands",
+      "The Wall"
+    ],
+    "clues": [
+      "This Indore-born Indian batter became renowned for technique, patience and long Test innings.",
+      "He scored 13,288 Test runs and finished with 36 Test centuries.",
+      "His 210 Test catches remain the record for a non-wicketkeeper."
+    ],
+    "icon_info": {
+      "starTag": "The Wall",
+      "placeOfBirth": "Indore, Madhya Pradesh, India",
+      "highestAward": "ICC Cricketer of the Year (2004)",
+      "alsoKnownFor": "Record 210 Test catches by a non-wicketkeeper"
+    },
+    "bonus_question": "In 10 seconds, what famous nickname reflected his defensive reliability?",
+    "bonus_answer": "The Wall",
+    "imageUrl": "/images/cricket/18-rahul-dravid.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rahul_Dravid_in_2024.jpg"
+  },
+  {
+    "name": "Glenn McGrath",
+    "buzzwords": [
+      "Fast",
+      "Aussie",
+      "World Cup wickets"
+    ],
+    "clues": [
+      "This Australian fast bowler built his reputation on relentless accuracy rather than extreme pace.",
+      "He finished with 563 Test wickets and won three men's ODI World Cups.",
+      "His 71 World Cup wickets are a tournament record, and he was Player of the Tournament in 2007."
+    ],
+    "icon_info": {
+      "starTag": "Metronomic fast bowler",
+      "placeOfBirth": "Dubbo, New South Wales, Australia",
+      "highestAward": "Player of the Tournament at the 2007 Cricket World Cup",
+      "alsoKnownFor": "Record 71 Cricket World Cup wickets"
+    },
+    "bonus_question": "In 10 seconds, how many World Cup wickets did he take?",
+    "bonus_answer": "71",
+    "imageUrl": "/images/cricket/19-glenn-mcgrath.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Glenn_McGrath_Portrait,_2011,_jjron.jpg"
+  },
+  {
+    "name": "Adam Gilchrist",
+    "buzzwords": [
+      "Wicketkeeper-opener",
+      "Left-handed",
+      "Three World Cups"
+    ],
+    "clues": [
+      "This Australian left-hander transformed the wicketkeeper role with aggressive opening batting in ODIs.",
+      "He won the 1999, 2003 and 2007 men's ODI World Cups.",
+      "He scored at least fifty in all three finals, including 149 against Sri Lanka in 2007."
+    ],
+    "icon_info": {
+      "starTag": "Gilly",
+      "placeOfBirth": "Bellingen, New South Wales, Australia",
+      "highestAward": "Three-time Cricket World Cup winner (1999, 2003 and 2007)",
+      "alsoKnownFor": "Scored 149 in the 2007 World Cup final"
+    },
+    "bonus_question": "In 10 seconds, how many ODI World Cups did he win?",
+    "bonus_answer": "Three",
+    "imageUrl": "/images/cricket/20-adam-gilchrist.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Adam_Gilchrist.jpg"
+  },
+  {
+    "name": "Sourav Ganguly",
+    "buzzwords": [
+      "Left-handed opener",
+      "Captain",
+      "Prince of Calcutta"
+    ],
+    "clues": [
+      "This left-handed Indian batter scored a century on Test debut at Lord's in 1996.",
+      "He made 183 against Sri Lanka at the 1999 World Cup, then India's highest ODI score.",
+      "As captain, he led India to the 2003 World Cup final."
+    ],
+    "icon_info": {
+      "starTag": "Prince of Calcutta",
+      "placeOfBirth": "Behala, Calcutta, West Bengal, India",
+      "highestAward": "Padma Shri (2004)",
+      "alsoKnownFor": "Former India captain and later BCCI president"
+    },
+    "bonus_question": "In 10 seconds, at which famous ground did he score a century on Test debut?",
+    "bonus_answer": "Lord's",
+    "imageUrl": "/images/cricket/21-sourav-ganguly.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sourav_Ganguly_closeup.jpg"
+  },
+  {
+    "name": "Waqar Younis",
+    "buzzwords": [
+      "Toe Crusher",
+      "Yorkers",
+      "reverse swing"
+    ],
+    "clues": [
+      "This Pakistani fast bowler became famous for late swing and devastating full-length deliveries aimed at the stumps and toes.",
+      "He took 373 wickets in 87 Tests and 416 wickets in ODIs.",
+      "His 13 five-wicket hauls in ODIs are a record."
+    ],
+    "icon_info": {
+      "starTag": "Toe Crusher",
+      "placeOfBirth": "Vehari, Punjab, Pakistan",
+      "highestAward": "Record 13 five-wicket hauls in ODI cricket",
+      "alsoKnownFor": "Formed a celebrated fast-bowling partnership with Wasim Akram"
+    },
+    "bonus_question": "In 10 seconds, name the delivery length most associated with his toe-crushing reputation.",
+    "bonus_answer": "Yorker",
+    "imageUrl": "/images/cricket/22-waqar-younis.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Waqar_younis.jpg"
+  },
+  {
+    "name": "Mahela Jayawardene",
+    "buzzwords": [
+      "Legend",
+      "Colombo",
+      "Sri Lanka"
+    ],
+    "clues": [
+      "This Sri Lankan right-hander scored 374 against South Africa in Colombo in 2006.",
+      "In that innings, he shared a 624-run stand with another batting great, the highest partnership for any wicket in Test cricket.",
+      "He was part of Sri Lanka's 2014 men's T20 World Cup-winning team."
+    ],
+    "icon_info": {
+      "starTag": "Sri Lankan batting great",
+      "placeOfBirth": "Colombo, Sri Lanka",
+      "highestAward": "2014 ICC World Twenty20 winner",
+      "alsoKnownFor": "Shared the world-record 624-run Test partnership with Kumar Sangakkara"
+    },
+    "bonus_question": "In 10 seconds, what was his highest Test score?",
+    "bonus_answer": "374",
+    "imageUrl": "/images/cricket/23-mahela-jayawardene.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mahela_Jayawardene.jpg"
+  },
+  {
+    "name": "Mithali Raj",
+    "buzzwords": [
+      "Indian pioneer",
+      "record ODI runs",
+      "Captain"
+    ],
+    "clues": [
+      "This Indian batter made an unbeaten 114 on her ODI debut as a teenager in 1999.",
+      "She captained India to the Women's Cricket World Cup finals in 2005 and 2017.",
+      "She retired with 7,805 Women's ODI runs, the most by any player at the time."
+    ],
+    "icon_info": {
+      "starTag": "Indian batting pioneer",
+      "placeOfBirth": "Jodhpur, Rajasthan, India",
+      "highestAward": "Major Dhyan Chand Khel Ratna (2021)",
+      "alsoKnownFor": "Former India captain and record-setting Women's ODI run-scorer"
+    },
+    "bonus_question": "In 10 seconds, name the two years in which she captained India in Women's World Cup finals.",
+    "bonus_answer": "2005 and 2017",
+    "imageUrl": "/images/cricket/24-mithali-raj.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mithali_Raj_with_Padma_Shri_Award_(cropped).jpg"
+  },
+  {
+    "name": "Jhulan Goswami",
+    "buzzwords": [
+      "Fast bowling",
+      "ODI wickets",
+      "Chakdaha Express"
+    ],
+    "clues": [
+      "This Indian fast bowler travelled from Chakdaha to Kolkata for training because her hometown lacked cricket facilities.",
+      "She was named ICC Women's Cricketer of the Year in 2007.",
+      "She retired with 255 Women's ODI wickets and remains one of the format's greatest wicket-takers."
+    ],
+    "icon_info": {
+      "starTag": "Chakdaha Express",
+      "placeOfBirth": "Chakdaha, Nadia district, West Bengal, India",
+      "highestAward": "ICC Women's Cricketer of the Year (2007)",
+      "alsoKnownFor": "First woman to reach 200 and later 250 WODI wickets"
+    },
+    "bonus_question": "In 10 seconds, how many Women's ODI wickets did she finish with?",
+    "bonus_answer": "255",
+    "imageUrl": "/images/cricket/25-jhulan-goswami.img",
+    "imageSourceUrl": "https://www.espncricinfo.com/cricketers/jhulan-goswami-53932"
+  },
+  {
+    "name": "Curtly Ambrose",
+    "buzzwords": [
+      "Tall",
+      "Antigua",
+      "7 wicket haul"
+    ],
+    "clues": [
+      "This exceptionally tall West Indian fast bowler used steep bounce and accuracy to dominate batters in the 1990s.",
+      "At Perth in 1993, he took seven wickets for just one run during a devastating spell against Australia.",
+      "He finished his Test career with 405 wickets at an average below 21."
+    ],
+    "icon_info": {
+      "starTag": "West Indian pace giant",
+      "placeOfBirth": "Swetes, Antigua",
+      "highestAward": "ICC Cricket Hall of Fame inductee (2011)",
+      "alsoKnownFor": "Took 405 Test wickets"
+    },
+    "bonus_question": "In 10 seconds, what extraordinary figures did he take during his famous Perth spell?",
+    "bonus_answer": "7 wickets for 1 run",
+    "imageUrl": "/images/cricket/26-curtly-ambrose.img",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Curtly_Ambrose"
+  },
+  {
+    "name": "Courtney Walsh",
+    "buzzwords": [
+      "Pacer",
+      "Jamaican",
+      "500 wickets"
+    ],
+    "clues": [
+      "This Jamaican fast bowler represented West Indies internationally for more than 16 years.",
+      "He became the first bowler in Test history to take 500 wickets.",
+      "He retired in 2001 with 519 Test wickets, then the world record."
+    ],
+    "icon_info": {
+      "starTag": "First bowler to 500 Test wickets",
+      "placeOfBirth": "Kingston, Jamaica",
+      "highestAward": "First cricketer to reach 500 Test wickets",
+      "alsoKnownFor": "Longtime fast-bowling partner of Curtly Ambrose"
+    },
+    "bonus_question": "In 10 seconds, how many Test wickets did he finish with?",
+    "bonus_answer": "519",
+    "imageUrl": "/images/cricket/27-courtney-walsh.img",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Courtney_Walsh"
+  },
+  {
+    "name": "Richard Hadlee",
+    "buzzwords": [
+      "Pace",
+      "New Zealand",
+      "9 Wicket Haul"
+    ],
+    "clues": [
+      "This Christchurch-born all-rounder was the spearhead of New Zealand's bowling attack through the 1970s and 1980s.",
+      "He became the first bowler in Test history to reach 400 wickets.",
+      "He retired with 431 Test wickets, including career-best innings figures of 9 for 52."
+    ],
+    "icon_info": {
+      "starTag": "Sir Paddles",
+      "placeOfBirth": "Christchurch, New Zealand",
+      "highestAward": "Knight Bachelor (1990)",
+      "alsoKnownFor": "First bowler to reach 400 Test wickets"
+    },
+    "bonus_question": "In 10 seconds, what Test-wicket milestone was he the first to reach?",
+    "bonus_answer": "400 Test wickets",
+    "imageUrl": "/images/cricket/28-richard-hadlee.img",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_Hadlee_2015_(cropped).jpg"
+  },
+  {
+    "name": "Garfield Sobers",
+    "buzzwords": [
+      "All-rounder",
+      "Barbados",
+      "Six sixes"
+    ],
+    "clues": [
+      "This Barbados-born left-hander excelled as a batter, multiple styles of left-arm bowler and outstanding fielder.",
+      "His unbeaten 365 against Pakistan in 1958 stood as the Test record for 36 years.",
+      "In 1968, he became the first batter to hit six sixes in one over in first-class cricket."
+    ],
+    "icon_info": {
+      "starTag": "Sir Garry",
+      "placeOfBirth": "Bridgetown, Barbados",
+      "highestAward": "National Hero of Barbados",
+      "alsoKnownFor": "Scored 8,032 Test runs and took 235 Test wickets"
+    },
+    "bonus_question": "In 10 seconds, how many sixes did he hit in a single first-class over in 1968?",
+    "bonus_answer": "Six",
+    "imageUrl": "/images/cricket/29-garfield-sobers.img",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Garfield_Sobers"
+  },
+  {
+    "name": "Allan Border",
+    "buzzwords": [
+      "Captain",
+      "Left-hander",
+      "BGT"
+    ],
+    "clues": [
+      "This Australian left-hander inherited the captaincy during a difficult rebuilding period in the 1980s.",
+      "He led Australia to its first men's ODI World Cup title in 1987.",
+      "When he retired, he held the world records for most Test matches and most Test runs, finishing with 11,174."
+    ],
+    "icon_info": {
+      "starTag": "1987 World Cup-winning captain",
+      "placeOfBirth": "Cremorne, New South Wales, Australia",
+      "highestAward": "Captain of Australia's 1987 Cricket World Cup-winning team",
+      "alsoKnownFor": "Retired with a then-record 11,174 Test runs"
+    },
+    "bonus_question": "In 10 seconds, which year did he captain Australia to its first men's ODI World Cup title?",
+    "bonus_answer": "1987",
+    "imageUrl": "/images/cricket/30-allan-border.img",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Allan_Border"
+  }
+]

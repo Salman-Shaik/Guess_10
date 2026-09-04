@@ -1,0 +1,2302 @@
+[
+  {
+    "name": "Goku",
+    "buzzwords": [
+      "Grandpa Gohan",
+      "23rd tournament",
+      "Super Saiyan"
+    ],
+    "clues": [
+      "A Saiyan infant is sent from Planet Vegeta and raised on Earth by a kindly martial artist.",
+      "He wins the 23rd World Martial Arts Tournament after defeating Piccolo Jr.",
+      "His transformation during the battle with Frieza becomes one of anime's most famous power-ups."
+    ],
+    "icon_info": {
+      "starTag": "Earth-raised Saiyan hero",
+      "placeOfBirth": "Planet Vegeta",
+      "highestAward": "Winner of the 23rd World Martial Arts Tournament",
+      "alsoKnownFor": "Born with the Saiyan name Kakarot"
+    },
+    "bonus_question": "In 10 seconds, name his signature energy-wave technique.",
+    "bonus_answer": "Kamehameha",
+    "imageUrl": "/images/anime/001-goku.img",
+    "imageSourceUrl": "https://www.zerochan.net/4344296"
+  },
+  {
+    "name": "Pikachu",
+    "buzzwords": [
+      "Professor Oak's lab",
+      "Thunderbolt",
+      "electric mouse"
+    ],
+    "clues": [
+      "This Electric-type Pokémon initially refuses to stay inside its Poké Ball after meeting its young trainer.",
+      "It travels through many regions as its trainer's closest partner.",
+      "It defeats Leon's Charizard in the World Coronation Series final."
+    ],
+    "icon_info": {
+      "starTag": "Electric partner Pokémon",
+      "placeOfBirth": "Professor Oak's laboratory in Pallet Town, Kanto",
+      "highestAward": "Helped its trainer become World Coronation Series Monarch",
+      "alsoKnownFor": "Known for the move Thunderbolt"
+    },
+    "bonus_question": "In 10 seconds, name its Pokémon type.",
+    "bonus_answer": "Electric",
+    "imageUrl": "/images/anime/002-pikachu.img",
+    "imageSourceUrl": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/official-artwork/25.png"
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "buzzwords": [
+      "Mount Myoboku",
+      "orange clothing",
+      "Nine-Tails host"
+    ],
+    "clues": [
+      "An orphan from the Hidden Leaf grows up seeking recognition from the villagers around him.",
+      "He learns the Rasengan and later masters Sage Mode while training with toads.",
+      "After the Fourth Shinobi World War, he ultimately fulfills his childhood dream of leading his village."
+    ],
+    "icon_info": {
+      "starTag": "Seventh Hokage",
+      "placeOfBirth": "Konohagakure",
+      "highestAward": "Became the Seventh Hokage",
+      "alsoKnownFor": "Son of Minato Namikaze and Kushina Uzumaki"
+    },
+    "bonus_question": "In 10 seconds, name the tailed beast sealed inside him.",
+    "bonus_answer": "Kurama",
+    "imageUrl": "/images/anime/003-naruto-uzumaki.img",
+    "imageSourceUrl": "https://www.zerochan.net/2332054"
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "buzzwords": [
+      "Dawn Island",
+      "Gear Fifth",
+      "straw hat pirate"
+    ],
+    "clues": [
+      "A boy from the East Blue sets sail after being inspired by a red-haired pirate captain.",
+      "A Devil Fruit gives his body unusual rubber-like properties before its deeper nature is revealed.",
+      "After the events in Wano, he is recognized as one of the Four Emperors of the sea."
+    ],
+    "icon_info": {
+      "starTag": "Straw Hat captain",
+      "placeOfBirth": "Foosha Village, Dawn Island, East Blue",
+      "highestAward": "Recognized as one of the Four Emperors",
+      "alsoKnownFor": "Dreams of finding the One Piece and becoming Pirate King"
+    },
+    "bonus_question": "In 10 seconds, name the pirate who gave him his treasured hat.",
+    "bonus_answer": "Shanks",
+    "imageUrl": "/images/anime/004-monkey-d-luffy.img",
+    "imageSourceUrl": "https://www.zerochan.net/3424175"
+  },
+  {
+    "name": "Ash Ketchum",
+    "buzzwords": [
+      "Pallet Town",
+      "World Coronation Series",
+      "electric partner"
+    ],
+    "clues": [
+      "A ten-year-old trainer begins a long journey after oversleeping on the day he receives his first Pokémon.",
+      "He competes in regional leagues while traveling with many friends and companions.",
+      "He eventually defeats Leon to become the World Coronation Series Monarch."
+    ],
+    "icon_info": {
+      "starTag": "World Champion Pokémon Trainer",
+      "placeOfBirth": "Pallet Town, Kanto",
+      "highestAward": "World Coronation Series Monarch",
+      "alsoKnownFor": "Longtime partner of Pikachu"
+    },
+    "bonus_question": "In 10 seconds, name the professor who gives him his first partner.",
+    "bonus_answer": "Professor Oak",
+    "imageUrl": "/images/anime/005-ash-ketchum.img",
+    "imageSourceUrl": "https://bulbapedia.bulbagarden.net/wiki/Ash_Ketchum"
+  },
+  {
+    "name": "Doraemon",
+    "buzzwords": [
+      "Anywhere Door",
+      "four-dimensional pocket",
+      "robot cat"
+    ],
+    "clues": [
+      "A blue robotic companion is sent from the 22nd century to improve the life and future of a struggling schoolboy.",
+      "He stores fantastic gadgets in a pocket that can hold objects far larger than itself.",
+      "Despite resembling a cat, he has an intense fear of mice."
+    ],
+    "icon_info": {
+      "starTag": "22nd-century gadget robot",
+      "placeOfBirth": "Created in the 22nd century in Japan",
+      "highestAward": "Sent through time to improve Nobita's future and repeatedly saves his friends with future technology",
+      "alsoKnownFor": "Carries gadgets in a four-dimensional pocket"
+    },
+    "bonus_question": "In 10 seconds, name the door gadget that can instantly reach distant places.",
+    "bonus_answer": "Anywhere Door",
+    "imageUrl": "/images/anime/006-doraemon.img",
+    "imageSourceUrl": "https://www.zerochan.net/4657186"
+  },
+  {
+    "name": "Nobita Nobi",
+    "buzzwords": [
+      "zero test scores",
+      "excellent shooting",
+      "future helper"
+    ],
+    "clues": [
+      "A kind but lazy schoolboy frequently struggles with homework, sports and bullying.",
+      "A robotic companion from the future arrives because his descendants want to improve his difficult life.",
+      "Although clumsy in many areas, he has exceptional marksmanship and can fall asleep almost instantly."
+    ],
+    "icon_info": {
+      "starTag": "Future-assisted schoolboy",
+      "placeOfBirth": "Tokyo, Japan",
+      "highestAward": "Changes his future enough to form a happy family and marry Shizuka",
+      "alsoKnownFor": "Best friend and primary companion of Doraemon"
+    },
+    "bonus_question": "In 10 seconds, name the childhood friend he is destined to marry.",
+    "bonus_answer": "Shizuka Minamoto",
+    "imageUrl": "/images/anime/007-nobita-nobi.img",
+    "imageSourceUrl": "https://www.zerochan.net/4661307"
+  },
+  {
+    "name": "Vegeta",
+    "buzzwords": [
+      "Capsule Corporation",
+      "Galick Gun",
+      "Saiyan prince"
+    ],
+    "clues": [
+      "A proud alien warrior first arrives on Earth as an enemy searching for Dragon Balls.",
+      "He later settles on Earth and repeatedly trains to surpass his greatest rival.",
+      "His royal heritage comes from the destroyed homeworld of the Saiyans."
+    ],
+    "icon_info": {
+      "starTag": "Prince of all Saiyans",
+      "placeOfBirth": "Planet Vegeta",
+      "highestAward": "Became one of Earth's strongest defenders after beginning as an invader",
+      "alsoKnownFor": "Husband of Bulma and father of Trunks"
+    },
+    "bonus_question": "In 10 seconds, name his signature early beam attack.",
+    "bonus_answer": "Galick Gun",
+    "imageUrl": "/images/anime/008-vegeta.img",
+    "imageSourceUrl": "https://www.zerochan.net/4292901"
+  },
+  {
+    "name": "Usagi Tsukino",
+    "buzzwords": [
+      "Silver Crystal",
+      "Princess Serenity",
+      "moon guardian"
+    ],
+    "clues": [
+      "A cheerful Tokyo schoolgirl meets a talking cat who awakens her as a magical guardian.",
+      "She discovers that she is the reincarnation of a princess from the ancient Moon Kingdom.",
+      "Together with fellow guardians, she repeatedly protects Earth from supernatural threats."
+    ],
+    "icon_info": {
+      "starTag": "Pretty Guardian of Love and Justice",
+      "placeOfBirth": "Tokyo, Japan",
+      "highestAward": "Awakened as the reincarnated Princess Serenity and protected Earth repeatedly",
+      "alsoKnownFor": "Wields the Silver Crystal"
+    },
+    "bonus_question": "In 10 seconds, name the talking cat who first guides her.",
+    "bonus_answer": "Luna",
+    "imageUrl": "/images/anime/009-usagi-tsukino.img",
+    "imageSourceUrl": "https://www.zerochan.net/3202657"
+  },
+  {
+    "name": "Saitama",
+    "buzzwords": [
+      "Hero Association",
+      "Caped Baldy",
+      "one punch"
+    ],
+    "clues": [
+      "An ordinary man follows a brutally simple daily training routine until he becomes overwhelmingly powerful.",
+      "He joins a professional hero organization but initially receives little recognition for his victories.",
+      "Nearly every enemy he faces is defeated with a single serious or casual strike."
+    ],
+    "icon_info": {
+      "starTag": "Caped Baldy",
+      "placeOfBirth": "Not specified; lives in City Z",
+      "highestAward": "Rose through the Hero Association despite starting in the lowest class",
+      "alsoKnownFor": "Trained with 100 push-ups, 100 sit-ups, 100 squats and a 10 km run daily"
+    },
+    "bonus_question": "In 10 seconds, name the city where he lives.",
+    "bonus_answer": "City Z",
+    "imageUrl": "/images/anime/010-saitama.img",
+    "imageSourceUrl": "https://www.zerochan.net/2609812"
+  },
+  {
+    "name": "Satoru Gojo",
+    "buzzwords": [
+      "Unlimited Void",
+      "Limitless",
+      "Six Eyes"
+    ],
+    "clues": [
+      "A teacher at Tokyo Jujutsu High belongs to a famous sorcerer family and possesses two exceptionally rare inherited abilities.",
+      "His spatial technique makes ordinary attacks unable to reach him when his defenses are active.",
+      "He is widely regarded as the strongest modern jujutsu sorcerer."
+    ],
+    "icon_info": {
+      "starTag": "Strongest modern jujutsu sorcerer",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Possesses both the Six Eyes and Limitless",
+      "alsoKnownFor": "Teacher of Yuji, Megumi and Nobara"
+    },
+    "bonus_question": "In 10 seconds, name his Domain Expansion.",
+    "bonus_answer": "Unlimited Void",
+    "imageUrl": "/images/anime/011-satoru-gojo.img",
+    "imageSourceUrl": "https://www.zerochan.net/3210100"
+  },
+  {
+    "name": "Tanjiro Kamado",
+    "buzzwords": [
+      "hanafuda earrings",
+      "Hinokami Kagura",
+      "Demon Slayer"
+    ],
+    "clues": [
+      "A kind charcoal seller returns home to find most of his family killed by a demon.",
+      "He joins a sword-wielding corps while searching for a way to restore his surviving sister's humanity.",
+      "His fighting style combines Water Breathing with a family dance connected to Sun Breathing."
+    ],
+    "icon_info": {
+      "starTag": "Kindhearted demon hunter",
+      "placeOfBirth": "Mount Kumotori, Japan",
+      "highestAward": "Played a central role in the final defeat of Muzan Kibutsuji",
+      "alsoKnownFor": "Older brother of Nezuko"
+    },
+    "bonus_question": "In 10 seconds, name the special earrings he inherited from his father.",
+    "bonus_answer": "Hanafuda earrings",
+    "imageUrl": "/images/anime/012-tanjiro-kamado.img",
+    "imageSourceUrl": "https://www.zerochan.net/2421003"
+  },
+  {
+    "name": "Nezuko Kamado",
+    "buzzwords": [
+      "bamboo muzzle",
+      "Blood Demon Art",
+      "sunlight"
+    ],
+    "clues": [
+      "A young girl survives a massacre but is transformed into a demon.",
+      "Rather than eating humans, she protects people and regains strength by sleeping.",
+      "She later becomes the first known demon in generations to survive direct sunlight."
+    ],
+    "icon_info": {
+      "starTag": "Demon who conquered the sun",
+      "placeOfBirth": "Mount Kumotori, Japan",
+      "highestAward": "Conquered sunlight while still a demon",
+      "alsoKnownFor": "Younger sister of Tanjiro"
+    },
+    "bonus_question": "In 10 seconds, what does she use instead of eating humans to recover energy?",
+    "bonus_answer": "Sleep",
+    "imageUrl": "/images/anime/013-nezuko-kamado.img",
+    "imageSourceUrl": "https://www.zerochan.net/3098484"
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "buzzwords": [
+      "Hawk summons",
+      "Chidori",
+      "Sharingan"
+    ],
+    "clues": [
+      "A gifted Hidden Leaf ninja survives the destruction of his clan and grows obsessed with revenge.",
+      "He leaves his village to seek greater power before eventually learning the truth about his older brother.",
+      "He later fights beside his former teammates to help end the Fourth Shinobi World War."
+    ],
+    "icon_info": {
+      "starTag": "Avenger turned shadow protector",
+      "placeOfBirth": "Konohagakure",
+      "highestAward": "Helped defeat Kaguya and end the Fourth Shinobi World War",
+      "alsoKnownFor": "Younger brother of Itachi Uchiha"
+    },
+    "bonus_question": "In 10 seconds, name his signature lightning technique.",
+    "bonus_answer": "Chidori",
+    "imageUrl": "/images/anime/014-sasuke-uchiha.img",
+    "imageSourceUrl": "https://www.zerochan.net/4147018"
+  },
+  {
+    "name": "Light Yagami",
+    "buzzwords": [
+      "model student",
+      "Shinigami notebook",
+      "Kira"
+    ],
+    "clues": [
+      "A brilliant Japanese student discovers a supernatural notebook dropped into the human world.",
+      "He begins secretly killing criminals while presenting himself as an ideal student and helpful investigator.",
+      "His campaign creates a global mystery pursued by an eccentric detective known by a single letter."
+    ],
+    "icon_info": {
+      "starTag": "Kira",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Operated for years as the elusive Kira while evading an international investigation",
+      "alsoKnownFor": "Son of police officer Soichiro Yagami"
+    },
+    "bonus_question": "In 10 seconds, name the Shinigami who drops the notebook he finds.",
+    "bonus_answer": "Ryuk",
+    "imageUrl": "/images/anime/015-light-yagami.img",
+    "imageSourceUrl": "https://www.zerochan.net/1751830"
+  },
+  {
+    "name": "Eren Yeager",
+    "buzzwords": [
+      "Coordinate",
+      "Shiganshina",
+      "Attack Titan"
+    ],
+    "clues": [
+      "A boy watches his hometown fall when gigantic humanoid creatures breach the outer wall.",
+      "After joining the military, he discovers that he can transform into one of those creatures.",
+      "He later gains access to the Founding Titan and initiates the catastrophic Rumbling."
+    ],
+    "icon_info": {
+      "starTag": "Holder of the Founding and Attack Titans",
+      "placeOfBirth": "Shiganshina District, Wall Maria",
+      "highestAward": "Activated the Rumbling through the Founding Titan",
+      "alsoKnownFor": "Childhood friend of Mikasa Ackerman and Armin Arlert"
+    },
+    "bonus_question": "In 10 seconds, name the district where his story begins.",
+    "bonus_answer": "Shiganshina District",
+    "imageUrl": "/images/anime/016-eren-yeager.img",
+    "imageSourceUrl": "https://www.zerochan.net/2730006"
+  },
+  {
+    "name": "Levi Ackerman",
+    "buzzwords": [
+      "Underground",
+      "vertical maneuver gear",
+      "Humanity's Strongest Soldier"
+    ],
+    "clues": [
+      "A former resident of the underground city becomes an elite member of the Survey Corps.",
+      "His exceptional combat ability comes from a bloodline with unusual physical potential.",
+      "He repeatedly overwhelms the Beast Titan in direct combat."
+    ],
+    "icon_info": {
+      "starTag": "Humanity's Strongest Soldier",
+      "placeOfBirth": "Underground beneath the royal capital",
+      "highestAward": "Captain of the Survey Corps Special Operations Squad",
+      "alsoKnownFor": "Member of the Ackerman clan"
+    },
+    "bonus_question": "In 10 seconds, name the military branch he serves.",
+    "bonus_answer": "Survey Corps",
+    "imageUrl": "/images/anime/017-levi-ackerman.img",
+    "imageSourceUrl": "https://www.zerochan.net/1611373"
+  },
+  {
+    "name": "Ichigo Kurosaki",
+    "buzzwords": [
+      "Zangetsu",
+      "Karakura Town",
+      "Substitute Soul Reaper"
+    ],
+    "clues": [
+      "A teenager who can see spirits gains supernatural combat powers after meeting Rukia Kuchiki.",
+      "He repeatedly enters the spirit world to rescue friends and confront enemies threatening both realms.",
+      "His heritage combines human, Soul Reaper, Quincy and Hollow elements."
+    ],
+    "icon_info": {
+      "starTag": "Substitute Soul Reaper",
+      "placeOfBirth": "Karakura Town, Japan",
+      "highestAward": "Helped defeat Yhwach and protect the living and spirit worlds",
+      "alsoKnownFor": "Wields the Zanpakuto Zangetsu"
+    },
+    "bonus_question": "In 10 seconds, name his Bankai.",
+    "bonus_answer": "Tensa Zangetsu",
+    "imageUrl": "/images/anime/018-ichigo-kurosaki.img",
+    "imageSourceUrl": "https://www.zerochan.net/3520442"
+  },
+  {
+    "name": "Roronoa Zoro",
+    "buzzwords": [
+      "Shimotsuki Village",
+      "Santoryu",
+      "three swords"
+    ],
+    "clues": [
+      "A former bounty hunter joins a rookie pirate captain as the first member of his crew.",
+      "He fights using a self-developed style that includes holding a blade in his mouth.",
+      "His lifelong ambition is to surpass Dracule Mihawk and become the world's greatest swordsman."
+    ],
+    "icon_info": {
+      "starTag": "Pirate hunter and master swordsman",
+      "placeOfBirth": "East Blue; trained in Shimotsuki Village",
+      "highestAward": "Defeated King during the raid on Onigashima and earned a bounty above one billion berries",
+      "alsoKnownFor": "First crewmate to join the Straw Hat captain"
+    },
+    "bonus_question": "In 10 seconds, how many swords are used in his signature fighting style?",
+    "bonus_answer": "Three",
+    "imageUrl": "/images/anime/019-roronoa-zoro.img",
+    "imageSourceUrl": "https://www.zerochan.net/1764423"
+  },
+  {
+    "name": "Kakashi Hatake",
+    "buzzwords": [
+      "bell test",
+      "Raikiri",
+      "Copy Ninja"
+    ],
+    "clues": [
+      "A masked jonin leads a rookie team and tests whether its members value teamwork over individual success.",
+      "A teammate gives him a special eye during a tragic mission in his youth.",
+      "He later becomes the Sixth Hokage of the Hidden Leaf."
+    ],
+    "icon_info": {
+      "starTag": "Copy Ninja",
+      "placeOfBirth": "Konohagakure",
+      "highestAward": "Became the Sixth Hokage",
+      "alsoKnownFor": "Former teacher of Team 7"
+    },
+    "bonus_question": "In 10 seconds, name the teammate who gave him the Sharingan.",
+    "bonus_answer": "Obito Uchiha",
+    "imageUrl": "/images/anime/020-kakashi-hatake.img",
+    "imageSourceUrl": "https://www.zerochan.net/186369"
+  },
+  {
+    "name": "Anya Forger",
+    "buzzwords": [
+      "Subject 007",
+      "peanuts",
+      "telepath"
+    ],
+    "clues": [
+      "A small orphan secretly gained the ability to read minds through experiments whose details remain mysterious.",
+      "She is adopted as part of a spy's fake family and enrolls at Eden Academy.",
+      "Her knowledge of both parents' hidden professions creates much of the comedy in her household."
+    ],
+    "icon_info": {
+      "starTag": "Telepathic Eden Academy student",
+      "placeOfBirth": "Unknown; escaped from a laboratory",
+      "highestAward": "Earned a Stella Star at Eden Academy while helping Operation Strix progress",
+      "alsoKnownFor": "Adopted daughter of Loid and Yor"
+    },
+    "bonus_question": "In 10 seconds, name her favorite snack.",
+    "bonus_answer": "Peanuts",
+    "imageUrl": "/images/anime/021-anya-forger.img",
+    "imageSourceUrl": "https://www.zerochan.net/3790031"
+  },
+  {
+    "name": "Loid Forger",
+    "buzzwords": [
+      "Westalis",
+      "Operation Strix",
+      "Twilight"
+    ],
+    "clues": [
+      "An elite intelligence agent is ordered to create a temporary family so he can approach a reclusive political figure.",
+      "He poses as a psychiatrist in Berlint while hiding his real profession from almost everyone around him.",
+      "His mission depends on getting his adopted daughter close to Donovan Desmond's family at Eden Academy."
+    ],
+    "icon_info": {
+      "starTag": "WISE master spy Twilight",
+      "placeOfBirth": "Westalis",
+      "highestAward": "Assigned WISE's crucial Operation Strix",
+      "alsoKnownFor": "Uses the cover identity of a Berlint psychiatrist"
+    },
+    "bonus_question": "In 10 seconds, name the intelligence agency he serves.",
+    "bonus_answer": "WISE",
+    "imageUrl": "/images/anime/022-loid-forger.img",
+    "imageSourceUrl": "https://www.zerochan.net/3746565"
+  },
+  {
+    "name": "Yor Forger",
+    "buzzwords": [
+      "Garden",
+      "city hall",
+      "Thorn Princess"
+    ],
+    "clues": [
+      "A quiet Berlint civil servant secretly works for an elite assassination organization.",
+      "To avoid suspicion about being unmarried, she agrees to a convenient marriage with a man who also hides a secret life.",
+      "Her extraordinary physical strength contrasts with her awkwardness in ordinary domestic situations."
+    ],
+    "icon_info": {
+      "starTag": "Thorn Princess",
+      "placeOfBirth": "Raised in Eastern Nielsberg, Ostania",
+      "highestAward": "Elite assassin employed by Garden",
+      "alsoKnownFor": "Works publicly as a Berlint City Hall clerk"
+    },
+    "bonus_question": "In 10 seconds, name her younger brother.",
+    "bonus_answer": "Yuri Briar",
+    "imageUrl": "/images/anime/023-yor-forger.img",
+    "imageSourceUrl": "https://www.zerochan.net/3620207"
+  },
+  {
+    "name": "Izuku Midoriya",
+    "buzzwords": [
+      "Quirkless childhood",
+      "One For All",
+      "Deku"
+    ],
+    "clues": [
+      "A boy born without a superpower still dreams of entering the country's leading hero school.",
+      "The world's Symbol of Peace chooses him to inherit a power passed down through generations.",
+      "He gradually learns to use abilities left by previous holders while studying in Class 1-A."
+    ],
+    "icon_info": {
+      "starTag": "Ninth holder of One For All",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Chosen as the ninth wielder of One For All",
+      "alsoKnownFor": "Student of U.A. High School's Class 1-A"
+    },
+    "bonus_question": "In 10 seconds, name the hero who passes his power to him.",
+    "bonus_answer": "All Might",
+    "imageUrl": "/images/anime/024-izuku-midoriya.img",
+    "imageSourceUrl": "https://www.zerochan.net/2696012"
+  },
+  {
+    "name": "All Might",
+    "buzzwords": [
+      "Toshinori Yagi",
+      "United States of Smash",
+      "Symbol of Peace"
+    ],
+    "clues": [
+      "A once-skinny Japanese man inherits a stockpiling power and becomes the country's most celebrated professional hero.",
+      "A severe injury limits the amount of time he can maintain his muscular public form.",
+      "He chooses a Quirkless teenager as the next holder of his inherited power."
+    ],
+    "icon_info": {
+      "starTag": "Symbol of Peace",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Former No. 1 Pro Hero and eighth holder of One For All",
+      "alsoKnownFor": "Civilian name Toshinori Yagi"
+    },
+    "bonus_question": "In 10 seconds, name the power he passes to his successor.",
+    "bonus_answer": "One For All",
+    "imageUrl": "/images/anime/025-all-might.img",
+    "imageSourceUrl": "https://www.zerochan.net/2610440"
+  },
+  {
+    "name": "Katsuki Bakugo",
+    "buzzwords": [
+      "nitroglycerin-like sweat",
+      "Dynamight",
+      "Explosion"
+    ],
+    "clues": [
+      "A fiercely competitive U.A. student produces explosive sweat from his palms.",
+      "He begins as an arrogant childhood rival but grows into a more self-aware hero and teammate.",
+      "His official hero name is an intentionally over-the-top title ending in Dynamight."
+    ],
+    "icon_info": {
+      "starTag": "Great Explosion Murder God Dynamight",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Won the U.A. Sports Festival",
+      "alsoKnownFor": "Childhood rival and classmate of Izuku Midoriya"
+    },
+    "bonus_question": "In 10 seconds, name his Quirk.",
+    "bonus_answer": "Explosion",
+    "imageUrl": "/images/anime/026-katsuki-bakugo.img",
+    "imageSourceUrl": "https://www.zerochan.net/2210611"
+  },
+  {
+    "name": "Shoto Todoroki",
+    "buzzwords": [
+      "Endeavor's son",
+      "split-colored hair",
+      "Half-Cold Half-Hot"
+    ],
+    "clues": [
+      "A U.A. student can generate ice from one side of his body and fire from the other.",
+      "He initially rejects half of his inherited power because of resentment toward his father.",
+      "A tournament battle helps him begin accepting that the ability is his own rather than merely his parent's."
+    ],
+    "icon_info": {
+      "starTag": "Half-Cold Half-Hot prodigy",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Runner-up in the U.A. Sports Festival",
+      "alsoKnownFor": "Youngest son of Endeavor and Rei Todoroki"
+    },
+    "bonus_question": "In 10 seconds, name his father's hero identity.",
+    "bonus_answer": "Endeavor",
+    "imageUrl": "/images/anime/027-shoto-todoroki.img",
+    "imageSourceUrl": "https://www.zerochan.net/2312316"
+  },
+  {
+    "name": "Gohan",
+    "buzzwords": [
+      "Great Saiyaman",
+      "Cell Games",
+      "Beast form"
+    ],
+    "clues": [
+      "A half-Saiyan child shows bursts of extraordinary strength whenever friends or family are threatened.",
+      "While still young, he becomes the first character in the main story to achieve Super Saiyan 2 and defeats Cell.",
+      "As an adult, he balances scholarship and family life with occasional returns to battle."
+    ],
+    "icon_info": {
+      "starTag": "Scholar and Saiyan warrior",
+      "placeOfBirth": "Earth; raised near Mount Paozu",
+      "highestAward": "Defeated Cell after becoming Super Saiyan 2",
+      "alsoKnownFor": "Eldest son of Goku and Chi-Chi"
+    },
+    "bonus_question": "In 10 seconds, name his costumed superhero identity.",
+    "bonus_answer": "Great Saiyaman",
+    "imageUrl": "/images/anime/028-gohan.img",
+    "imageSourceUrl": "https://www.zerochan.net/4331285"
+  },
+  {
+    "name": "Frieza",
+    "buzzwords": [
+      "Namek",
+      "Golden form",
+      "galactic emperor"
+    ],
+    "clues": [
+      "A ruthless alien tyrant rules a vast empire and employs Saiyans before destroying their home planet.",
+      "He travels to Namek seeking immortality through the Dragon Balls.",
+      "His killing of Krillin triggers Goku's first transformation into a Super Saiyan."
+    ],
+    "icon_info": {
+      "starTag": "Emperor of Universe 7's criminal force",
+      "placeOfBirth": "Not specified",
+      "highestAward": "Ruled a vast interplanetary empire and repeatedly returned with stronger transformations",
+      "alsoKnownFor": "Responsible for destroying Planet Vegeta"
+    },
+    "bonus_question": "In 10 seconds, name the planet where his famous battle with Goku takes place.",
+    "bonus_answer": "Namek",
+    "imageUrl": "/images/anime/029-frieza.img",
+    "imageSourceUrl": "https://www.zerochan.net/4331273"
+  },
+  {
+    "name": "Jotaro Kujo",
+    "buzzwords": [
+      "marine biology",
+      "time stop",
+      "Star Platinum"
+    ],
+    "clues": [
+      "A delinquent Japanese teenager believes an evil spirit is haunting him until his family explains the phenomenon called a Stand.",
+      "He travels from Japan to Egypt with allies to save his mother from a supernatural curse.",
+      "His close-range Stand eventually develops the ability to stop time."
+    ],
+    "icon_info": {
+      "starTag": "Stand user of Star Platinum",
+      "placeOfBirth": "Japan",
+      "highestAward": "Defeated DIO in Cairo",
+      "alsoKnownFor": "Later becomes a marine biologist"
+    },
+    "bonus_question": "In 10 seconds, name his Stand.",
+    "bonus_answer": "Star Platinum",
+    "imageUrl": "/images/anime/030-jotaro-kujo.img",
+    "imageSourceUrl": "https://www.zerochan.net/3834475"
+  },
+  {
+    "name": "Dio Brando",
+    "buzzwords": [
+      "stone mask",
+      "The World",
+      "vampire"
+    ],
+    "clues": [
+      "An ambitious English orphan is adopted into a wealthy family and immediately begins plotting against its heir.",
+      "A mysterious ancient mask transforms him into a vampire.",
+      "After stealing Jonathan Joestar's body, he later returns with a Stand that can stop time."
+    ],
+    "icon_info": {
+      "starTag": "Immortal enemy of the Joestar bloodline",
+      "placeOfBirth": "England",
+      "highestAward": "Mastered the time-stopping Stand The World",
+      "alsoKnownFor": "Uses Jonathan Joestar's body after surviving the events of Phantom Blood"
+    },
+    "bonus_question": "In 10 seconds, name his time-stopping Stand.",
+    "bonus_answer": "The World",
+    "imageUrl": "/images/anime/031-dio-brando.img",
+    "imageSourceUrl": "https://www.zerochan.net/2490641"
+  },
+  {
+    "name": "Edward Elric",
+    "buzzwords": [
+      "automail",
+      "human transmutation",
+      "Fullmetal"
+    ],
+    "clues": [
+      "A young alchemist loses an arm and leg after a forbidden attempt to bring his mother back to life.",
+      "He becomes a State Alchemist at an unusually young age while searching for the Philosopher's Stone.",
+      "His main goal is to restore the body of his younger brother, whose soul is bound to armor."
+    ],
+    "icon_info": {
+      "starTag": "Fullmetal Alchemist",
+      "placeOfBirth": "Resembool, Amestris",
+      "highestAward": "Became the youngest State Alchemist in Amestrian history at age 12",
+      "alsoKnownFor": "Older brother of Alphonse"
+    },
+    "bonus_question": "In 10 seconds, name the material used for his mechanical limbs.",
+    "bonus_answer": "Automail",
+    "imageUrl": "/images/anime/032-edward-elric.img",
+    "imageSourceUrl": "https://www.zerochan.net/2935185"
+  },
+  {
+    "name": "Itachi Uchiha",
+    "buzzwords": [
+      "crows",
+      "Tsukuyomi",
+      "Akatsuki cloak"
+    ],
+    "clues": [
+      "A prodigy from the Hidden Leaf enters ANBU at a remarkably young age.",
+      "For years, his younger brother believes he slaughtered their clan solely to test his power.",
+      "The truth reveals that he accepted a secret mission and lived as a criminal while still trying to protect his village and sibling."
+    ],
+    "icon_info": {
+      "starTag": "Uchiha prodigy and covert protector",
+      "placeOfBirth": "Konohagakure",
+      "highestAward": "Became an ANBU captain at a very young age",
+      "alsoKnownFor": "Older brother of Sasuke Uchiha"
+    },
+    "bonus_question": "In 10 seconds, name the black-flame technique he uses.",
+    "bonus_answer": "Amaterasu",
+    "imageUrl": "/images/anime/033-itachi-uchiha.img",
+    "imageSourceUrl": "https://www.zerochan.net/4156518"
+  },
+  {
+    "name": "Gaara",
+    "buzzwords": [
+      "gourd",
+      "Shukaku",
+      "sand defense"
+    ],
+    "clues": [
+      "A lonely child from the Hidden Sand grows up feared because a tailed beast is sealed inside him.",
+      "During the Chunin Exams he initially treats killing as proof of his existence, but a fight changes his outlook.",
+      "He later becomes the Fifth Kazekage and risks his life protecting his village."
+    ],
+    "icon_info": {
+      "starTag": "Fifth Kazekage",
+      "placeOfBirth": "Sunagakure",
+      "highestAward": "Became the Fifth Kazekage",
+      "alsoKnownFor": "Former jinchuriki of the One-Tail"
+    },
+    "bonus_question": "In 10 seconds, name the tailed beast once sealed inside him.",
+    "bonus_answer": "Shukaku",
+    "imageUrl": "/images/anime/034-gaara.img",
+    "imageSourceUrl": "https://www.zerochan.net/4155167"
+  },
+  {
+    "name": "Hinata Hyuga",
+    "buzzwords": [
+      "Twin Lion Fists",
+      "Gentle Fist",
+      "Byakugan"
+    ],
+    "clues": [
+      "A shy kunoichi is born into the main family of a clan famous for an all-seeing eye technique.",
+      "She struggles with confidence but repeatedly shows courage when friends are threatened.",
+      "During Pain's attack on the Hidden Leaf, she steps forward despite knowing she is badly outmatched."
+    ],
+    "icon_info": {
+      "starTag": "Byakugan-wielding Hyuga kunoichi",
+      "placeOfBirth": "Konohagakure",
+      "highestAward": "Fought with the Allied Shinobi Forces in the Fourth Shinobi World War",
+      "alsoKnownFor": "Later marries Naruto and becomes mother of Boruto and Himawari"
+    },
+    "bonus_question": "In 10 seconds, name her clan's eye technique.",
+    "bonus_answer": "Byakugan",
+    "imageUrl": "/images/anime/035-hinata-hyuga.img",
+    "imageSourceUrl": "https://www.zerochan.net/2332056"
+  },
+  {
+    "name": "Madara Uchiha",
+    "buzzwords": [
+      "Valley of the End",
+      "Rinnegan",
+      "Konoha co-founder"
+    ],
+    "clues": [
+      "A legendary warrior from the Warring States era leads one clan while Hashirama Senju leads its longtime rival.",
+      "The two men help establish a hidden village together before their ideals split them apart.",
+      "He returns during the Fourth Shinobi World War and eventually becomes the Ten-Tails' jinchuriki."
+    ],
+    "icon_info": {
+      "starTag": "Legendary Uchiha clan leader",
+      "placeOfBirth": "Warring States-era Land of Fire",
+      "highestAward": "Co-founded Konohagakure with Hashirama Senju",
+      "alsoKnownFor": "Later awakened the Rinnegan"
+    },
+    "bonus_question": "In 10 seconds, name his lifelong rival and fellow village founder.",
+    "bonus_answer": "Hashirama Senju",
+    "imageUrl": "/images/anime/036-madara-uchiha.img",
+    "imageSourceUrl": "https://www.zerochan.net/4156540"
+  },
+  {
+    "name": "Astro Boy",
+    "buzzwords": [
+      "100,000 horsepower",
+      "jet feet",
+      "robot child"
+    ],
+    "clues": [
+      "A brilliant scientist builds a powerful robot in the image of his deceased son.",
+      "After rejection by his creator, the young machine eventually finds guidance and care from another scientist.",
+      "His abilities include flight, immense strength and advanced artificial intelligence."
+    ],
+    "icon_info": {
+      "starTag": "Iconic robot hero",
+      "placeOfBirth": "Created by Dr. Tenma in a futuristic Japanese setting",
+      "highestAward": "Inducted into the Robot Hall of Fame (2004)",
+      "alsoKnownFor": "Created in the likeness of Tobio Tenma"
+    },
+    "bonus_question": "In 10 seconds, name the scientist who created him.",
+    "bonus_answer": "Dr. Tenma",
+    "imageUrl": "/images/anime/037-astro-boy.img",
+    "imageSourceUrl": "https://www.zerochan.net/4681456"
+  },
+  {
+    "name": "Conan Edogawa",
+    "buzzwords": [
+      "APTX 4869",
+      "Mouri Detective Agency",
+      "child detective"
+    ],
+    "clues": [
+      "A brilliant teenage detective is poisoned by a secret criminal organization and unexpectedly survives in a much younger body.",
+      "To hide his identity, he lives with his childhood friend and her private-detective father while solving cases from the shadows.",
+      "His original identity is the high-school detective Shinichi Kudo."
+    ],
+    "icon_info": {
+      "starTag": "Great detective in a child's body",
+      "placeOfBirth": "Tokyo, Japan",
+      "highestAward": "Solved countless major cases while secretly pursuing the Black Organization",
+      "alsoKnownFor": "Original identity Shinichi Kudo"
+    },
+    "bonus_question": "In 10 seconds, name the drug that shrinks his body.",
+    "bonus_answer": "APTX 4869",
+    "imageUrl": "/images/anime/038-conan-edogawa.img",
+    "imageSourceUrl": "https://www.zerochan.net/2220142"
+  },
+  {
+    "name": "Yugi Muto",
+    "buzzwords": [
+      "Millennium Puzzle",
+      "Dark Magician",
+      "King of Games"
+    ],
+    "clues": [
+      "A kind high-school student completes an ancient Egyptian puzzle that houses another personality.",
+      "He becomes an exceptional Duel Monsters player and repeatedly faces supernatural games tied to ancient history.",
+      "His spirit partner is ultimately revealed as a forgotten pharaoh named Atem."
+    ],
+    "icon_info": {
+      "starTag": "King of Games",
+      "placeOfBirth": "Domino City, Japan",
+      "highestAward": "Won major Duel Monsters tournaments and helped restore Atem's lost memories",
+      "alsoKnownFor": "Bearer of the Millennium Puzzle"
+    },
+    "bonus_question": "In 10 seconds, name his signature spellcaster monster.",
+    "bonus_answer": "Dark Magician",
+    "imageUrl": "/images/anime/039-yugi-muto.img",
+    "imageSourceUrl": "https://www.zerochan.net/4351268"
+  },
+  {
+    "name": "Seto Kaiba",
+    "buzzwords": [
+      "Duel Disk",
+      "KaibaCorp",
+      "Blue-Eyes"
+    ],
+    "clues": [
+      "An orphaned prodigy is adopted by a ruthless businessman and eventually takes control of the family corporation.",
+      "He transforms the company from weapons development toward entertainment and holographic dueling technology.",
+      "His competitive deck is built around three copies of a famous white dragon."
+    ],
+    "icon_info": {
+      "starTag": "KaibaCorp dueling magnate",
+      "placeOfBirth": "Domino City, Japan",
+      "highestAward": "Created the Duel Disk system and became one of the world's elite duelists",
+      "alsoKnownFor": "Obsessed with defeating Yugi in a fair duel"
+    },
+    "bonus_question": "In 10 seconds, name his signature dragon monster.",
+    "bonus_answer": "Blue-Eyes White Dragon",
+    "imageUrl": "/images/anime/040-seto-kaiba.img",
+    "imageSourceUrl": "https://www.zerochan.net/4349659"
+  },
+  {
+    "name": "Portgas D. Ace",
+    "buzzwords": [
+      "Baterilla",
+      "Spade Pirates",
+      "Fire Fist"
+    ],
+    "clues": [
+      "A pirate born in the South Blue takes his mother's surname to distance himself from his infamous biological father.",
+      "He becomes captain of his own crew before joining Whitebeard's forces as a division commander.",
+      "His capture leads directly to the Summit War at Marineford."
+    ],
+    "icon_info": {
+      "starTag": "Fire Fist",
+      "placeOfBirth": "Baterilla, South Blue",
+      "highestAward": "Became commander of the Whitebeard Pirates' 2nd Division",
+      "alsoKnownFor": "Biological son of Gol D. Roger and sworn brother of Luffy and Sabo"
+    },
+    "bonus_question": "In 10 seconds, name his Logia Devil Fruit.",
+    "bonus_answer": "Flame-Flame Fruit",
+    "imageUrl": "/images/anime/041-portgas-d-ace.img",
+    "imageSourceUrl": "https://one-piece-game-trilogy.fandom.com/wiki/Portgas_D._Ace"
+  },
+  {
+    "name": "Sanji",
+    "buzzwords": [
+      "Germa 66",
+      "All Blue",
+      "Black Leg"
+    ],
+    "clues": [
+      "A talented cook grows up at the floating restaurant Baratie after escaping a royal family that treated him cruelly.",
+      "He refuses to use his hands for ordinary combat because he considers them essential to cooking.",
+      "His dream is to find a legendary sea where fish from all four oceans can be found together."
+    ],
+    "icon_info": {
+      "starTag": "Black Leg",
+      "placeOfBirth": "Germa Kingdom, North Blue",
+      "highestAward": "Became one of the Straw Hat crew's three strongest frontline fighters and earned a bounty above one billion berries",
+      "alsoKnownFor": "Prince of the Vinsmoke family who rejects its ideology"
+    },
+    "bonus_question": "In 10 seconds, name the legendary sea he dreams of finding.",
+    "bonus_answer": "All Blue",
+    "imageUrl": "/images/anime/042-sanji.img",
+    "imageSourceUrl": "https://www.zerochan.net/2299665"
+  },
+  {
+    "name": "Nami",
+    "buzzwords": [
+      "Cocoyasi Village",
+      "Clima-Tact",
+      "Cat Burglar"
+    ],
+    "clues": [
+      "A young orphan is found after a battle and raised by former Marine Bell-mère.",
+      "To save her village, she spends years stealing money while secretly working for the fish-man pirate who controls it.",
+      "She becomes the navigator of the Straw Hat crew and uses weather-based weapons in combat."
+    ],
+    "icon_info": {
+      "starTag": "Cat Burglar",
+      "placeOfBirth": "Found in Oykot Kingdom; raised in Cocoyasi Village, East Blue",
+      "highestAward": "Became navigator of a crew that reached every major sea of the Grand Line journey",
+      "alsoKnownFor": "Expert cartographer and weather navigator"
+    },
+    "bonus_question": "In 10 seconds, name the fish-man pirate who controlled her village.",
+    "bonus_answer": "Arlong",
+    "imageUrl": "/images/anime/043-nami.img",
+    "imageSourceUrl": "https://www.zerochan.net/3631435"
+  },
+  {
+    "name": "Shanks",
+    "buzzwords": [
+      "God Valley chest",
+      "Gryphon",
+      "Red-Haired Emperor"
+    ],
+    "clues": [
+      "A famous pirate once sailed as an apprentice aboard the Pirate King's ship.",
+      "Years later, he sacrifices an arm to save a child in the East Blue and leaves that child his treasured straw hat.",
+      "He eventually becomes one of the Four Emperors and leads a crew known for exceptional Haki."
+    ],
+    "icon_info": {
+      "starTag": "Red-Haired Emperor",
+      "placeOfBirth": "West Blue; found as an infant at God Valley",
+      "highestAward": "Became one of the Four Emperors",
+      "alsoKnownFor": "Former apprentice of the Roger Pirates"
+    },
+    "bonus_question": "In 10 seconds, what treasured item does he entrust to the young East Blue boy?",
+    "bonus_answer": "A straw hat",
+    "imageUrl": "/images/anime/044-shanks.img",
+    "imageSourceUrl": "https://www.zerochan.net/3997019"
+  },
+  {
+    "name": "Nico Robin",
+    "buzzwords": [
+      "Ohara",
+      "Poneglyphs",
+      "Devil Child"
+    ],
+    "clues": [
+      "A child archaeologist survives the destruction of an island whose scholars studied forbidden history.",
+      "Because she can read an ancient script feared by the World Government, she spends years hunted under changing alliances.",
+      "She eventually joins a pirate crew whose journey may lead to the true history of the Void Century."
+    ],
+    "icon_info": {
+      "starTag": "Devil Child",
+      "placeOfBirth": "Ohara, West Blue",
+      "highestAward": "Only known Straw Hat archaeologist capable of reading Poneglyphs",
+      "alsoKnownFor": "Survivor of the Ohara Buster Call"
+    },
+    "bonus_question": "In 10 seconds, name the ancient stone texts she can read.",
+    "bonus_answer": "Poneglyphs",
+    "imageUrl": "/images/anime/045-nico-robin.img",
+    "imageSourceUrl": "https://www.zerochan.net/2313012"
+  },
+  {
+    "name": "Trafalgar D. Water Law",
+    "buzzwords": [
+      "Flevance",
+      "ROOM",
+      "Surgeon of Death"
+    ],
+    "clues": [
+      "A pirate doctor survives the destruction of the White Lead town of Flevance and later escapes Donquixote Doflamingo's influence.",
+      "His Devil Fruit creates a spherical operating space in which he can rearrange people and objects.",
+      "He captains the Heart Pirates and becomes one of the Worst Generation."
+    ],
+    "icon_info": {
+      "starTag": "Surgeon of Death",
+      "placeOfBirth": "Flevance, North Blue",
+      "highestAward": "Became a member of the Worst Generation and former Warlord of the Sea",
+      "alsoKnownFor": "Captain and doctor of the Heart Pirates"
+    },
+    "bonus_question": "In 10 seconds, name his Devil Fruit.",
+    "bonus_answer": "Op-Op Fruit",
+    "imageUrl": "/images/anime/046-trafalgar-d-water-law.img",
+    "imageSourceUrl": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law"
+  },
+  {
+    "name": "Gol D. Roger",
+    "buzzwords": [
+      "Loguetown",
+      "Laugh Tale",
+      "Pirate King"
+    ],
+    "clues": [
+      "A legendary captain completes a voyage to the final island of the Grand Line and learns the world's hidden history.",
+      "His crew is the only known group of its era to reach Laugh Tale and discover the treasure left there.",
+      "At his public execution, his final words ignite the Great Pirate Era."
+    ],
+    "icon_info": {
+      "starTag": "Pirate King",
+      "placeOfBirth": "Loguetown, East Blue",
+      "highestAward": "Only known captain to complete the Grand Line and earn the title Pirate King",
+      "alsoKnownFor": "Father of Portgas D. Ace"
+    },
+    "bonus_question": "In 10 seconds, name the final island his crew reached.",
+    "bonus_answer": "Laugh Tale",
+    "imageUrl": "/images/anime/047-gol-d-roger.img",
+    "imageSourceUrl": "https://ciatr.jp/topics/333238"
+  },
+  {
+    "name": "Broly",
+    "buzzwords": [
+      "Planet Vampa",
+      "Paragus",
+      "immense Saiyan power"
+    ],
+    "clues": [
+      "A Saiyan infant with extraordinary potential is exiled from his homeworld because King Vegeta fears his power.",
+      "He grows up on a harsh remote planet with his father before being recruited by Frieza's forces.",
+      "His rage pushes his strength high enough to battle both Goku and Vegeta during their modern Super-era encounter."
+    ],
+    "icon_info": {
+      "starTag": "Prodigious Saiyan survivor",
+      "placeOfBirth": "Planet Vegeta; exiled to Planet Vampa",
+      "highestAward": "Fought Super Saiyan Blue Gogeta and survived the encounter",
+      "alsoKnownFor": "Son of Paragus"
+    },
+    "bonus_question": "In 10 seconds, name the desolate planet where he grows up.",
+    "bonus_answer": "Planet Vampa",
+    "imageUrl": "/images/anime/048-broly.img",
+    "imageSourceUrl": "https://www.zerochan.net/4148226"
+  },
+  {
+    "name": "Trunks",
+    "buzzwords": [
+      "Capsule Corporation",
+      "time machine",
+      "sword-wielding Saiyan"
+    ],
+    "clues": [
+      "A young warrior arrives from a devastated future and defeats Frieza with shocking ease.",
+      "He warns the heroes that artificial humans will soon threaten Earth and brings medicine for Goku's heart illness.",
+      "He is the son of a Saiyan prince and a brilliant inventor."
+    ],
+    "icon_info": {
+      "starTag": "Future time traveler",
+      "placeOfBirth": "West City, Earth",
+      "highestAward": "Warned the past about the Android threat and later freed his own timeline from Androids 17, 18 and Cell",
+      "alsoKnownFor": "Son of Vegeta and Bulma"
+    },
+    "bonus_question": "In 10 seconds, name his mother.",
+    "bonus_answer": "Bulma",
+    "imageUrl": "/images/anime/049-trunks.img",
+    "imageSourceUrl": "https://www.zerochan.net/4331281"
+  },
+  {
+    "name": "Gon Freecss",
+    "buzzwords": [
+      "Whale Island",
+      "Jajanken",
+      "Hunter Exam"
+    ],
+    "clues": [
+      "A cheerful boy leaves his island home to discover why his absent father chose the life of a Hunter.",
+      "He passes a notoriously dangerous professional licensing examination and becomes close friends with an assassin's son.",
+      "His Nen fighting technique is modeled on rock-paper-scissors."
+    ],
+    "icon_info": {
+      "starTag": "Free-spirited rookie Hunter",
+      "placeOfBirth": "Whale Island",
+      "highestAward": "Passed the 287th Hunter Exam",
+      "alsoKnownFor": "Son of legendary Hunter Ging Freecss"
+    },
+    "bonus_question": "In 10 seconds, name his rock-paper-scissors Nen technique.",
+    "bonus_answer": "Jajanken",
+    "imageUrl": "/images/anime/050-gon-freecss.img",
+    "imageSourceUrl": "https://www.zerochan.net/70680"
+  },
+  {
+    "name": "Killua Zoldyck",
+    "buzzwords": [
+      "Kukuroo Mountain",
+      "Godspeed",
+      "assassin family"
+    ],
+    "clues": [
+      "A silver-haired child runs away from a family that trained him as an assassin from birth.",
+      "He meets his closest friend during the Hunter Exam and initially fails because of manipulation by his older brother.",
+      "Later, he passes the next examination as its only successful applicant."
+    ],
+    "icon_info": {
+      "starTag": "Heir who rejected an assassin's life",
+      "placeOfBirth": "Zoldyck Estate, Kukuroo Mountain",
+      "highestAward": "Sole successful applicant of the 288th Hunter Exam",
+      "alsoKnownFor": "Best friend of Gon Freecss"
+    },
+    "bonus_question": "In 10 seconds, name his lightning-based advanced ability.",
+    "bonus_answer": "Godspeed",
+    "imageUrl": "/images/anime/051-killua-zoldyck.img",
+    "imageSourceUrl": "https://www.zerochan.net/423501"
+  },
+  {
+    "name": "Hisoka Morow",
+    "buzzwords": [
+      "playing cards",
+      "Bungee Gum",
+      "magician aesthetic"
+    ],
+    "clues": [
+      "A mysterious fighter joins the Hunter Exam largely because he enjoys testing promising opponents.",
+      "His Nen ability combines properties he famously compares to rubber and gum.",
+      "He briefly holds the number-four position in the Phantom Troupe as part of his own agenda."
+    ],
+    "icon_info": {
+      "starTag": "Battle-obsessed magician",
+      "placeOfBirth": "Not specified",
+      "highestAward": "Reached elite Hunter-level combat status while repeatedly infiltrating dangerous groups",
+      "alsoKnownFor": "Uses the Nen abilities Bungee Gum and Texture Surprise"
+    },
+    "bonus_question": "In 10 seconds, name his elastic Nen ability.",
+    "bonus_answer": "Bungee Gum",
+    "imageUrl": "/images/anime/052-hisoka-morow.img",
+    "imageSourceUrl": "https://www.zerochan.net/40452"
+  },
+  {
+    "name": "Inuyasha",
+    "buzzwords": [
+      "Sacred Jewel",
+      "Tessaiga",
+      "half-demon"
+    ],
+    "clues": [
+      "A warrior in Japan's feudal era is the son of a powerful dog demon and a human noblewoman.",
+      "He is awakened after decades pinned to a sacred tree by an arrow.",
+      "He travels with a modern-era schoolgirl while collecting fragments of a shattered jewel."
+    ],
+    "icon_info": {
+      "starTag": "Half-demon wielder of Tessaiga",
+      "placeOfBirth": "Feudal Japan",
+      "highestAward": "Helped destroy Naraku and complete the Shikon Jewel conflict",
+      "alsoKnownFor": "Son of the Great Dog Demon and Izayoi"
+    },
+    "bonus_question": "In 10 seconds, name his transforming sword.",
+    "bonus_answer": "Tessaiga",
+    "imageUrl": "/images/anime/053-inuyasha.img",
+    "imageSourceUrl": "https://www.zerochan.net/4224043"
+  },
+  {
+    "name": "Kagome Higurashi",
+    "buzzwords": [
+      "Bone-Eater's Well",
+      "Shikon shards",
+      "modern schoolgirl"
+    ],
+    "clues": [
+      "A teenager living at a Tokyo shrine falls down an ancient well and emerges centuries in the past.",
+      "She discovers a powerful jewel inside her body and later accidentally shatters it into many fragments.",
+      "Her spiritual abilities and connection to a deceased priestess make her central to the search for those shards."
+    ],
+    "icon_info": {
+      "starTag": "Time-traveling shrine maiden",
+      "placeOfBirth": "Tokyo, Japan",
+      "highestAward": "Helped restore and ultimately eliminate the Shikon Jewel",
+      "alsoKnownFor": "Reincarnation of Kikyo"
+    },
+    "bonus_question": "In 10 seconds, name the well that connects her era to the past.",
+    "bonus_answer": "Bone-Eater's Well",
+    "imageUrl": "/images/anime/054-kagome-higurashi.img",
+    "imageSourceUrl": "https://www.zerochan.net/3934734"
+  },
+  {
+    "name": "Lelouch Lamperouge",
+    "buzzwords": [
+      "Ashford Academy",
+      "Geass",
+      "Zero"
+    ],
+    "clues": [
+      "An exiled imperial prince hides his identity while attending school in Area 11.",
+      "A mysterious girl grants him the power to issue an absolute command through eye contact.",
+      "Behind a masked persona, he leads a rebellion and ultimately engineers the Zero Requiem."
+    ],
+    "icon_info": {
+      "starTag": "Masked revolutionary Zero",
+      "placeOfBirth": "Pendragon, Holy Britannian Empire",
+      "highestAward": "Became the 99th Emperor of Britannia and completed the Zero Requiem",
+      "alsoKnownFor": "Born Lelouch vi Britannia"
+    },
+    "bonus_question": "In 10 seconds, name the power that lets him issue absolute commands.",
+    "bonus_answer": "Geass",
+    "imageUrl": "/images/anime/055-lelouch-lamperouge.img",
+    "imageSourceUrl": "https://www.zerochan.net/2616011"
+  },
+  {
+    "name": "L Lawliet",
+    "buzzwords": [
+      "Wammy's House",
+      "sweets",
+      "single-letter detective"
+    ],
+    "clues": [
+      "An eccentric private detective sits unusually, eats large quantities of sweets and rarely reveals his identity.",
+      "He is considered the world's greatest detective and takes charge of the investigation into a supernatural serial killer.",
+      "His intellectual duel with a brilliant student drives much of Death Note's first major arc."
+    ],
+    "icon_info": {
+      "starTag": "World's greatest detective",
+      "placeOfBirth": "Raised at Wammy's House in Winchester, England",
+      "highestAward": "Led the international investigation into Kira",
+      "alsoKnownFor": "Also used the detective aliases Eraldo Coil and Deneuve"
+    },
+    "bonus_question": "In 10 seconds, name the orphanage that raised him.",
+    "bonus_answer": "Wammy's House",
+    "imageUrl": "/images/anime/056-l-lawliet.img",
+    "imageSourceUrl": "https://www.zerochan.net/15539"
+  },
+  {
+    "name": "Ryuk",
+    "buzzwords": [
+      "apples",
+      "Shinigami Realm",
+      "dropped notebook"
+    ],
+    "clues": [
+      "A supernatural death god becomes bored with his own realm and deliberately leaves a deadly notebook in the human world.",
+      "He follows the student who finds it but insists that he is mostly an observer rather than a loyal ally.",
+      "His favorite human-world food is a common red or green fruit."
+    ],
+    "icon_info": {
+      "starTag": "Bored Shinigami observer",
+      "placeOfBirth": "Shinigami Realm",
+      "highestAward": "Set the central Death Note conflict in motion by dropping a notebook into the human world",
+      "alsoKnownFor": "Develops a strong craving for apples"
+    },
+    "bonus_question": "In 10 seconds, what fruit does he obsess over?",
+    "bonus_answer": "Apples",
+    "imageUrl": "/images/anime/057-ryuk.img",
+    "imageSourceUrl": "https://www.zerochan.net/2728160"
+  },
+  {
+    "name": "Denji",
+    "buzzwords": [
+      "Pochita",
+      "Public Safety",
+      "chainsaw hybrid"
+    ],
+    "clues": [
+      "An impoverished teenager hunts devils to repay crushing inherited debt.",
+      "After being betrayed and killed, he merges with his small devil companion and returns with a new body.",
+      "Pulling a cord in his chest transforms his head and arms into roaring blades."
+    ],
+    "icon_info": {
+      "starTag": "Chainsaw Devil hybrid",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Became a Public Safety Devil Hunter after merging with Pochita",
+      "alsoKnownFor": "Dreams of an ordinary, comfortable life"
+    },
+    "bonus_question": "In 10 seconds, name the devil companion fused with his heart.",
+    "bonus_answer": "Pochita",
+    "imageUrl": "/images/anime/058-denji.img",
+    "imageSourceUrl": "https://www.zerochan.net/4029896"
+  },
+  {
+    "name": "Power",
+    "buzzwords": [
+      "Meowy",
+      "Blood Fiend",
+      "horned hunter"
+    ],
+    "clues": [
+      "A loud, boastful fiend joins Tokyo's Public Safety Devil Hunters.",
+      "She can shape her own blood into weapons and has small horns protruding from her head.",
+      "Her fierce affection for a rescued cat helps reveal a softer side beneath her selfish behavior."
+    ],
+    "icon_info": {
+      "starTag": "Blood Fiend",
+      "placeOfBirth": "Not applicable; a devil inhabiting a human corpse",
+      "highestAward": "Served as a Public Safety Devil Hunter and repeatedly fought alongside Denji and Aki",
+      "alsoKnownFor": "Deeply attached to her cat Meowy"
+    },
+    "bonus_question": "In 10 seconds, name her pet cat.",
+    "bonus_answer": "Meowy",
+    "imageUrl": "/images/anime/059-power.img",
+    "imageSourceUrl": "https://www.zerochan.net/4539046"
+  },
+  {
+    "name": "Makima",
+    "buzzwords": [
+      "Public Safety Division 4",
+      "contracts",
+      "Control Devil"
+    ],
+    "clues": [
+      "A calm high-ranking government hunter recruits a teenage hybrid after discovering him at a massacre site.",
+      "Her ability allows her to dominate beings she considers beneath her and use powers through controlled intermediaries.",
+      "Her apparent affection hides a long-term obsession with the Chainsaw Devil rather than the boy himself."
+    ],
+    "icon_info": {
+      "starTag": "Control Devil",
+      "placeOfBirth": "Not specified",
+      "highestAward": "Rose to a commanding position in Japan's Public Safety Devil Hunter organization",
+      "alsoKnownFor": "Manipulates Denji as part of a plan centered on Chainsaw Man"
+    },
+    "bonus_question": "In 10 seconds, which Devil is her true obsession?",
+    "bonus_answer": "Chainsaw Devil",
+    "imageUrl": "/images/anime/060-makima.img",
+    "imageSourceUrl": "https://www.zerochan.net/4539037"
+  },
+  {
+    "name": "Yuji Itadori",
+    "buzzwords": [
+      "Sendai",
+      "Black Flash",
+      "Sukuna vessel"
+    ],
+    "clues": [
+      "An exceptionally athletic high-school student swallows a cursed object to save his friends.",
+      "The act makes him the host of an ancient sorcerer whose soul is divided among twenty fingers.",
+      "He enrolls at Tokyo Jujutsu High and fights curses while searching for the remaining fingers."
+    ],
+    "icon_info": {
+      "starTag": "Vessel of the King of Curses",
+      "placeOfBirth": "Sendai, Miyagi, Japan",
+      "highestAward": "Survived becoming the vessel for Sukuna and became a capable jujutsu sorcerer",
+      "alsoKnownFor": "Student of Tokyo Jujutsu High"
+    },
+    "bonus_question": "In 10 seconds, what body part does he swallow to begin the story?",
+    "bonus_answer": "A cursed finger",
+    "imageUrl": "/images/anime/061-yuji-itadori.img",
+    "imageSourceUrl": "https://www.zerochan.net/4014105"
+  },
+  {
+    "name": "Megumi Fushiguro",
+    "buzzwords": [
+      "Divine Dogs",
+      "Ten Shadows",
+      "shikigami"
+    ],
+    "clues": [
+      "A quiet first-year at Tokyo Jujutsu High comes from a prestigious sorcerer bloodline he wants little to do with.",
+      "His inherited technique lets him summon different creatures through shadows.",
+      "He is the son of Toji Fushiguro and draws unusual interest from the King of Curses."
+    ],
+    "icon_info": {
+      "starTag": "Ten Shadows sorcerer",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Entered Tokyo Jujutsu High already ranked as a Grade 2 sorcerer",
+      "alsoKnownFor": "Son of Toji Fushiguro"
+    },
+    "bonus_question": "In 10 seconds, name his inherited technique.",
+    "bonus_answer": "Ten Shadows Technique",
+    "imageUrl": "/images/anime/062-megumi-fushiguro.img",
+    "imageSourceUrl": "https://www.zerochan.net/3216937"
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "buzzwords": [
+      "Resonance",
+      "hammer and nails",
+      "Straw Doll Technique"
+    ],
+    "clues": [
+      "A confident girl leaves a small rural community to attend Tokyo Jujutsu High.",
+      "She fights curses with a hammer, nails and a straw-doll-based cursed technique.",
+      "She forms the first-year trio with Yuji Itadori and Megumi Fushiguro."
+    ],
+    "icon_info": {
+      "starTag": "Straw Doll sorcerer",
+      "placeOfBirth": "Rural Japan; exact village not stated",
+      "highestAward": "Became a Tokyo Jujutsu High sorcerer and landed a Black Flash during the Death Painting battle",
+      "alsoKnownFor": "First-year classmate of Yuji and Megumi"
+    },
+    "bonus_question": "In 10 seconds, name one of the everyday tools she uses as a weapon.",
+    "bonus_answer": "A hammer",
+    "imageUrl": "/images/anime/063-nobara-kugisaki.img",
+    "imageSourceUrl": "https://www.zerochan.net/3377738"
+  },
+  {
+    "name": "Ryomen Sukuna",
+    "buzzwords": [
+      "twenty fingers",
+      "Malevolent Shrine",
+      "King of Curses"
+    ],
+    "clues": [
+      "A sorcerer from the Heian era survives beyond death after his soul is preserved in indestructible cursed objects.",
+      "A modern teenager becomes his vessel after swallowing one of those objects.",
+      "His open-barrier Domain Expansion unleashes relentless slashing attacks over a wide area."
+    ],
+    "icon_info": {
+      "starTag": "King of Curses",
+      "placeOfBirth": "Heian-era Japan",
+      "highestAward": "Feared as the strongest sorcerer of the Heian era and preserved through twenty cursed fingers",
+      "alsoKnownFor": "Known for Cleave, Dismantle and Malevolent Shrine"
+    },
+    "bonus_question": "In 10 seconds, how many cursed fingers preserve his divided power?",
+    "bonus_answer": "Twenty",
+    "imageUrl": "/images/anime/064-ryomen-sukuna.img",
+    "imageSourceUrl": "https://www.animecharactersdatabase.com/characters.php?id=104853"
+  },
+  {
+    "name": "Kyojuro Rengoku",
+    "buzzwords": [
+      "bento boxes",
+      "Mugen Train",
+      "Flame Hashira"
+    ],
+    "clues": [
+      "An enthusiastic elite swordsman investigates a train on which passengers have been disappearing.",
+      "He protects hundreds of civilians during a demon attack and mentors younger slayers through his example.",
+      "His final battle is against Upper Rank Three, Akaza."
+    ],
+    "icon_info": {
+      "starTag": "Flame Hashira",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Protected the Mugen Train's passengers during the Upper Rank attack",
+      "alsoKnownFor": "Eldest son of former Flame Hashira Shinjuro"
+    },
+    "bonus_question": "In 10 seconds, name the Upper Rank demon he fights after the train battle.",
+    "bonus_answer": "Akaza",
+    "imageUrl": "/images/anime/065-kyojuro-rengoku.img",
+    "imageSourceUrl": "https://www.zerochan.net/2884892"
+  },
+  {
+    "name": "Zenitsu Agatsuma",
+    "buzzwords": [
+      "exceptional hearing",
+      "First Form",
+      "Thunder Breathing"
+    ],
+    "clues": [
+      "A frightened young swordsman often panics before dangerous missions despite possessing extraordinary hearing.",
+      "Early in the story, his greatest combat ability appears when fear causes him to fall unconscious.",
+      "He specializes almost entirely in the first form of a lightning-themed breathing style and pushes it to exceptional speed."
+    ],
+    "icon_info": {
+      "starTag": "Thunder Breathing specialist",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Mastered and advanced Thunder Breathing's First Form to extraordinary speed",
+      "alsoKnownFor": "Trained by former Thunder Hashira Jigoro Kuwajima"
+    },
+    "bonus_question": "In 10 seconds, name his breathing style.",
+    "bonus_answer": "Thunder Breathing",
+    "imageUrl": "/images/anime/066-zenitsu-agatsuma.img",
+    "imageSourceUrl": "https://www.zerochan.net/2731231"
+  },
+  {
+    "name": "Inosuke Hashibira",
+    "buzzwords": [
+      "serrated swords",
+      "mountain upbringing",
+      "boar mask"
+    ],
+    "clues": [
+      "A wild young swordsman grows up in the mountains with little human social experience.",
+      "He wears an animal head over his face and challenges almost everyone he considers strong.",
+      "He invents his own breathing style and fights with two deliberately chipped Nichirin blades."
+    ],
+    "icon_info": {
+      "starTag": "Beast Breathing creator",
+      "placeOfBirth": "Born in Japan; raised by boars in the mountains",
+      "highestAward": "Created the self-taught Beast Breathing style",
+      "alsoKnownFor": "Travels with Tanjiro and Zenitsu"
+    },
+    "bonus_question": "In 10 seconds, what animal does his mask resemble?",
+    "bonus_answer": "A boar",
+    "imageUrl": "/images/anime/067-inosuke-hashibira.img",
+    "imageSourceUrl": "https://www.zerochan.net/3106492"
+  },
+  {
+    "name": "Giyu Tomioka",
+    "buzzwords": [
+      "Dead Calm",
+      "Water Breathing",
+      "Water Hashira"
+    ],
+    "clues": [
+      "A reserved elite swordsman is the first Demon Slayer to encounter Tanjiro and his transformed sister after their family tragedy.",
+      "Instead of killing the demon girl immediately, he directs her brother toward a trainer who may help them.",
+      "He created an eleventh form of his breathing style called Dead Calm."
+    ],
+    "icon_info": {
+      "starTag": "Water Hashira",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Served as the Water Hashira and created Water Breathing's Eleventh Form",
+      "alsoKnownFor": "Student of Sakonji Urokodaki"
+    },
+    "bonus_question": "In 10 seconds, name his unique eleventh form.",
+    "bonus_answer": "Dead Calm",
+    "imageUrl": "/images/anime/068-giyu-tomioka.img",
+    "imageSourceUrl": "https://www.zerochan.net/2883179"
+  },
+  {
+    "name": "Muzan Kibutsuji",
+    "buzzwords": [
+      "Blue Spider Lily",
+      "twelve elite demons",
+      "Demon King"
+    ],
+    "clues": [
+      "A man from Japan's Heian period becomes the progenitor of nearly every demon in the series after an experimental medical treatment.",
+      "He spends centuries seeking a way to overcome his species' fatal weakness to sunlight.",
+      "He commands the Twelve Kizuki and is responsible for the massacre that begins Tanjiro's journey."
+    ],
+    "icon_info": {
+      "starTag": "Progenitor of demons",
+      "placeOfBirth": "Heian-period Japan",
+      "highestAward": "Created and ruled the vast majority of demons for centuries",
+      "alsoKnownFor": "Obsessed with conquering sunlight"
+    },
+    "bonus_question": "In 10 seconds, name the rare flower he searches for.",
+    "bonus_answer": "Blue Spider Lily",
+    "imageUrl": "/images/anime/069-muzan-kibutsuji.img",
+    "imageSourceUrl": "https://www.zerochan.net/3104722"
+  },
+  {
+    "name": "Yuta Okkotsu",
+    "buzzwords": [
+      "Rika",
+      "Copy",
+      "special grade"
+    ],
+    "clues": [
+      "A deeply anxious teenager is haunted by the spirit of his deceased childhood friend.",
+      "He enrolls at Tokyo Jujutsu High and learns that his own immense cursed energy is central to the haunting.",
+      "He is one of the very small number of sorcerers officially classified as special grade."
+    ],
+    "icon_info": {
+      "starTag": "Special-grade sorcerer",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Recognized as one of Japan's special-grade jujutsu sorcerers",
+      "alsoKnownFor": "Descendant of Sugawara no Michizane"
+    },
+    "bonus_question": "In 10 seconds, name the powerful spirit tied to his childhood promise.",
+    "bonus_answer": "Rika",
+    "imageUrl": "/images/anime/070-yuta-okkotsu.img",
+    "imageSourceUrl": "https://www.zerochan.net/4004826"
+  },
+  {
+    "name": "Kirito",
+    "buzzwords": [
+      "NerveGear",
+      "Dual Blades",
+      "Black Swordsman"
+    ],
+    "clues": [
+      "A skilled gamer becomes trapped with thousands of players inside a virtual-reality MMORPG where in-game death is real.",
+      "He gains a unique ability allowing him to fight with two swords at once.",
+      "His real-world name is Kazuto Kirigaya."
+    ],
+    "icon_info": {
+      "starTag": "The Black Swordsman of Aincrad",
+      "placeOfBirth": "Japan; lives in Kawagoe, Saitama",
+      "highestAward": "Helped clear Sword Art Online and free its surviving trapped players",
+      "alsoKnownFor": "Real name Kazuto Kirigaya"
+    },
+    "bonus_question": "In 10 seconds, name the virtual world where he first becomes trapped.",
+    "bonus_answer": "Sword Art Online",
+    "imageUrl": "/images/anime/071-kirito.img",
+    "imageSourceUrl": "https://www.zerochan.net/2113948"
+  },
+  {
+    "name": "Asuna Yuuki",
+    "buzzwords": [
+      "Knights of the Blood",
+      "rapier",
+      "Lightning Flash"
+    ],
+    "clues": [
+      "A high-achieving teenager becomes trapped inside the same deadly virtual-reality game as thousands of other players.",
+      "She rises to become vice commander of one of Aincrad's strongest guilds.",
+      "Her speed with a rapier earns her a famous lightning-related nickname."
+    ],
+    "icon_info": {
+      "starTag": "Lightning Flash",
+      "placeOfBirth": "Tokyo, Japan",
+      "highestAward": "Vice commander of the Knights of the Blood and survivor of Aincrad",
+      "alsoKnownFor": "Skilled rapier user and partner of Kirito"
+    },
+    "bonus_question": "In 10 seconds, name the guild in which she becomes vice commander.",
+    "bonus_answer": "Knights of the Blood",
+    "imageUrl": "/images/anime/072-asuna-yuuki.img",
+    "imageSourceUrl": "https://www.zerochan.net/3769803"
+  },
+  {
+    "name": "Frieren",
+    "buzzwords": [
+      "Himmel's party",
+      "grimoire collector",
+      "long-lived elf"
+    ],
+    "clues": [
+      "An elven mage completes a ten-year quest with a hero party that defeats the Demon King.",
+      "Because her lifespan is vastly longer than those of her human friends, she initially fails to understand how precious their time together was.",
+      "Decades later, she begins another journey partly to understand humanity and the companions she lost."
+    ],
+    "icon_info": {
+      "starTag": "Mage of the Hero Party",
+      "placeOfBirth": "Unnamed elven village destroyed by demons",
+      "highestAward": "Member of the party that defeated the Demon King",
+      "alsoKnownFor": "Has lived for more than a thousand years"
+    },
+    "bonus_question": "In 10 seconds, name the human hero whose death inspires her new journey.",
+    "bonus_answer": "Himmel",
+    "imageUrl": "/images/anime/073-frieren.img",
+    "imageSourceUrl": "https://frieren-anime.jp/character/chara_group1/1-1/"
+  },
+  {
+    "name": "Maomao",
+    "buzzwords": [
+      "verdigris house",
+      "poison tasting",
+      "apothecary"
+    ],
+    "clues": [
+      "A clever young woman raised in a pleasure district is kidnapped and sold into service at the imperial palace.",
+      "She tries to remain unnoticed, but her medical knowledge reveals the cause of mysterious illnesses among royal infants.",
+      "Her fascination with poisons and medicines repeatedly draws her into court mysteries."
+    ],
+    "icon_info": {
+      "starTag": "Palace apothecary and mystery solver",
+      "placeOfBirth": "Imperial capital's pleasure district",
+      "highestAward": "Solved multiple dangerous medical and political mysteries inside the rear palace",
+      "alsoKnownFor": "Raised by the physician and apothecary Luomen"
+    },
+    "bonus_question": "In 10 seconds, what field of knowledge makes her invaluable at court?",
+    "bonus_answer": "Medicine and poisons",
+    "imageUrl": "/images/anime/074-maomao.img",
+    "imageSourceUrl": "https://kusuriyanohitorigoto.jp/season2/character/"
+  },
+  {
+    "name": "Rimuru Tempest",
+    "buzzwords": [
+      "Great Sage",
+      "Jura Forest",
+      "slime"
+    ],
+    "clues": [
+      "A Japanese office worker dies and reincarnates in a fantasy world as a small monster with unusual absorption abilities.",
+      "After befriending the Storm Dragon Veldora, the creature receives a new name and begins building a community of monsters.",
+      "That community grows into the Jura Tempest Federation, while its leader eventually awakens as a True Demon Lord."
+    ],
+    "icon_info": {
+      "starTag": "Founder of the Jura Tempest Federation",
+      "placeOfBirth": "Reincarnated in a cave in the Great Jura Forest",
+      "highestAward": "Awakened as a True Demon Lord and founded a monster nation",
+      "alsoKnownFor": "Formerly a Japanese human named Satoru Mikami"
+    },
+    "bonus_question": "In 10 seconds, name the dragon he befriends shortly after reincarnation.",
+    "bonus_answer": "Veldora",
+    "imageUrl": "/images/anime/075-rimuru-tempest.img",
+    "imageSourceUrl": "https://www.zerochan.net/2766509"
+  },
+  {
+    "name": "Ainz Ooal Gown",
+    "buzzwords": [
+      "Nazarick",
+      "Momonga",
+      "skeletal Overlord"
+    ],
+    "clues": [
+      "A salaryman remains logged into a virtual game until its servers shut down, only to find himself transported with the guild's headquarters.",
+      "His avatar is an immensely powerful undead magic caster surrounded by NPCs who now seem alive.",
+      "He takes the name of his former guild and eventually rules the Sorcerer Kingdom."
+    ],
+    "icon_info": {
+      "starTag": "Sorcerer King of Nazarick",
+      "placeOfBirth": "Originally Earth in the year 2138; transported with Nazarick",
+      "highestAward": "Founded and ruled the Sorcerer Kingdom",
+      "alsoKnownFor": "Former player name Momonga; human identity Suzuki Satoru"
+    },
+    "bonus_question": "In 10 seconds, name the underground tomb he rules.",
+    "bonus_answer": "Great Tomb of Nazarick",
+    "imageUrl": "/images/anime/076-ainz-ooal-gown.img",
+    "imageSourceUrl": "https://www.zerochan.net/2407239"
+  },
+  {
+    "name": "Subaru Natsuki",
+    "buzzwords": [
+      "Lugunica",
+      "death loop",
+      "Return by Death"
+    ],
+    "clues": [
+      "A Japanese teenager is suddenly transported to a fantasy kingdom without explanation.",
+      "Whenever he dies, he awakens at an earlier checkpoint while retaining memories of what happened.",
+      "He cannot freely explain the source of this ability without suffering a terrifying supernatural penalty."
+    ],
+    "icon_info": {
+      "starTag": "Time-looping outsider",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Repeatedly used Return by Death to save allies from otherwise fatal outcomes",
+      "alsoKnownFor": "Member of Emilia's camp"
+    },
+    "bonus_question": "In 10 seconds, name his reset ability.",
+    "bonus_answer": "Return by Death",
+    "imageUrl": "/images/anime/077-subaru-natsuki.img",
+    "imageSourceUrl": "https://www.zerochan.net/2130600"
+  },
+  {
+    "name": "Emilia",
+    "buzzwords": [
+      "Elior Forest",
+      "Puck",
+      "silver-haired half-elf"
+    ],
+    "clues": [
+      "A kind young woman enters the royal selection to become ruler of the Kingdom of Lugunica.",
+      "Her appearance causes prejudice because she resembles the legendary Witch of Envy.",
+      "She uses spirit arts and ice magic and forms a close contract with a powerful spirit resembling a cat."
+    ],
+    "icon_info": {
+      "starTag": "Royal-selection candidate",
+      "placeOfBirth": "Elior Forest",
+      "highestAward": "Chosen as one of Lugunica's royal-selection candidates",
+      "alsoKnownFor": "Half-elf contracted with the spirit Puck"
+    },
+    "bonus_question": "In 10 seconds, name her catlike spirit companion.",
+    "bonus_answer": "Puck",
+    "imageUrl": "/images/anime/078-emilia.img",
+    "imageSourceUrl": "https://www.zerochan.net/4323193"
+  },
+  {
+    "name": "Rem",
+    "buzzwords": [
+      "morning star",
+      "oni horn",
+      "blue-haired maid"
+    ],
+    "clues": [
+      "A young maid serves at Roswaal's mansion alongside her twin sister.",
+      "She initially distrusts the story's transported protagonist but later becomes one of his most devoted allies.",
+      "When her single horn appears, her strength increases dramatically because of her oni heritage."
+    ],
+    "icon_info": {
+      "starTag": "Oni maid of Roswaal Manor",
+      "placeOfBirth": "Unnamed oni village",
+      "highestAward": "Played a crucial role in defeating the White Whale",
+      "alsoKnownFor": "Twin sister of Ram"
+    },
+    "bonus_question": "In 10 seconds, name her twin sister.",
+    "bonus_answer": "Ram",
+    "imageUrl": "/images/anime/079-rem.img",
+    "imageSourceUrl": "https://www.zerochan.net/4423960"
+  },
+  {
+    "name": "Spike Spiegel",
+    "buzzwords": [
+      "Jericho 941",
+      "Red Dragon",
+      "Bebop"
+    ],
+    "clues": [
+      "A laid-back bounty hunter travels the Solar System aboard a ship with an eccentric crew.",
+      "Before that life, he belonged to a powerful crime syndicate and had a dangerous relationship with a woman named Julia.",
+      "He is a skilled marksman and practitioner of Jeet Kune Do."
+    ],
+    "icon_info": {
+      "starTag": "Space-faring bounty hunter",
+      "placeOfBirth": "Mars",
+      "highestAward": "Survived leaving the Red Dragon Crime Syndicate and became a renowned bounty hunter",
+      "alsoKnownFor": "Travels aboard the Bebop"
+    },
+    "bonus_question": "In 10 seconds, name the martial art he practices.",
+    "bonus_answer": "Jeet Kune Do",
+    "imageUrl": "/images/anime/080-spike-spiegel.img",
+    "imageSourceUrl": "https://www.zerochan.net/4181315"
+  },
+  {
+    "name": "Kenshin Himura",
+    "buzzwords": [
+      "sakabato",
+      "Meiji era",
+      "Battosai"
+    ],
+    "clues": [
+      "A wandering swordsman carries a reverse-blade sword because he has sworn never to kill again.",
+      "Years earlier, he was a feared assassin who helped bring down the Tokugawa shogunate.",
+      "In the Meiji era, he settles near a Tokyo dojo while confronting enemies tied to his violent past."
+    ],
+    "icon_info": {
+      "starTag": "Former Hitokiri Battosai",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Helped the imperialist cause during the Bakumatsu before renouncing killing",
+      "alsoKnownFor": "Birth name Shinta"
+    },
+    "bonus_question": "In 10 seconds, what unusual kind of sword does he carry?",
+    "bonus_answer": "A reverse-blade sword",
+    "imageUrl": "/images/anime/081-kenshin-himura.img",
+    "imageSourceUrl": "https://www.zerochan.net/1048251"
+  },
+  {
+    "name": "Vash the Stampede",
+    "buzzwords": [
+      "SEEDS ships",
+      "pacifist gunman",
+      "Humanoid Typhoon"
+    ],
+    "clues": [
+      "A red-coated gunman wanders a desert planet while disasters seem to follow wherever he goes.",
+      "Despite his terrifying reputation and enormous bounty, he desperately tries to avoid killing anyone.",
+      "He is not an ordinary human but one of the advanced beings called Plants."
+    ],
+    "icon_info": {
+      "starTag": "Humanoid Typhoon",
+      "placeOfBirth": "Born aboard a SEEDS ship in space",
+      "highestAward": "Repeatedly saves lives while maintaining a near-absolute no-kill ideal",
+      "alsoKnownFor": "Twin brother of Millions Knives"
+    },
+    "bonus_question": "In 10 seconds, name the nonhuman species to which he belongs.",
+    "bonus_answer": "Plant",
+    "imageUrl": "/images/anime/082-vash-the-stampede.img",
+    "imageSourceUrl": "https://www.zerochan.net/15352"
+  },
+  {
+    "name": "Guts",
+    "buzzwords": [
+      "Brand of Sacrifice",
+      "Dragonslayer",
+      "Black Swordsman"
+    ],
+    "clues": [
+      "A child born beneath the body of his dead mother grows up amid mercenaries and constant warfare.",
+      "He becomes a legendary fighter in the Band of the Hawk before a catastrophic betrayal changes his life.",
+      "He later carries an enormous sword and hunts supernatural enemies while marked by a curse that attracts spirits."
+    ],
+    "icon_info": {
+      "starTag": "The Black Swordsman",
+      "placeOfBirth": "Born on a battlefield beneath his hanged mother",
+      "highestAward": "Survived the Eclipse and continued fighting the God Hand's influence",
+      "alsoKnownFor": "Former raid captain of the Band of the Hawk"
+    },
+    "bonus_question": "In 10 seconds, name his enormous sword.",
+    "bonus_answer": "Dragonslayer",
+    "imageUrl": "/images/anime/083-guts.img",
+    "imageSourceUrl": "https://www.zerochan.net/3120578"
+  },
+  {
+    "name": "Griffith",
+    "buzzwords": [
+      "Crimson Behelit",
+      "Band of the Hawk",
+      "White Hawk"
+    ],
+    "clues": [
+      "A charismatic commoner builds a mercenary army around his dream of obtaining a kingdom.",
+      "His tactical brilliance raises the group from obscurity into the favor of Midland's royal court.",
+      "After imprisonment and ruin, he sacrifices his comrades during the Eclipse and is reborn as a member of the God Hand."
+    ],
+    "icon_info": {
+      "starTag": "The White Hawk",
+      "placeOfBirth": "Midland; exact birthplace not stated",
+      "highestAward": "Rose from commoner to leader of a legendary mercenary band and later became Femto",
+      "alsoKnownFor": "Founder of the Band of the Hawk"
+    },
+    "bonus_question": "In 10 seconds, name the supernatural object tied to his fate.",
+    "bonus_answer": "Crimson Behelit",
+    "imageUrl": "/images/anime/084-griffith.img",
+    "imageSourceUrl": "https://www.zerochan.net/2405110"
+  },
+  {
+    "name": "Shinji Ikari",
+    "buzzwords": [
+      "Third Child",
+      "Tokyo-3",
+      "Eva Unit-01"
+    ],
+    "clues": [
+      "A withdrawn teenager is summoned by his estranged father to a fortified city under attack by mysterious beings.",
+      "He is pressured into piloting a biomechanical weapon whose unusual connection to him becomes increasingly important.",
+      "His difficult relationships with his father and fellow pilots sit at the center of Neon Genesis Evangelion."
+    ],
+    "icon_info": {
+      "starTag": "Pilot of Evangelion Unit-01",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Primary pilot of Eva Unit-01 during NERV's battles against the Angels",
+      "alsoKnownFor": "Son of Gendo and Yui Ikari"
+    },
+    "bonus_question": "In 10 seconds, name the organization that operates the Evangelions.",
+    "bonus_answer": "NERV",
+    "imageUrl": "/images/anime/085-shinji-ikari.img",
+    "imageSourceUrl": "https://www.zerochan.net/1450033"
+  },
+  {
+    "name": "Rei Ayanami",
+    "buzzwords": [
+      "clone bodies",
+      "First Child",
+      "Eva Unit-00"
+    ],
+    "clues": [
+      "A quiet teenage pilot has an unusually close connection to the commander of NERV.",
+      "Multiple identical bodies connected to her existence are hidden beneath the organization's headquarters.",
+      "Her origins involve genetic material from Yui Ikari and a connection to the being Lilith."
+    ],
+    "icon_info": {
+      "starTag": "First Child",
+      "placeOfBirth": "Created by NERV; associated with Tokyo-3",
+      "highestAward": "Pilot of Eva Unit-00",
+      "alsoKnownFor": "Exists through a series of replacement bodies"
+    },
+    "bonus_question": "In 10 seconds, which Evangelion unit does she pilot?",
+    "bonus_answer": "Eva Unit-00",
+    "imageUrl": "/images/anime/086-rei-ayanami.img",
+    "imageSourceUrl": "https://www.zerochan.net/443638"
+  },
+  {
+    "name": "Asuka Langley Soryu",
+    "buzzwords": [
+      "Second Child",
+      "red plugsuit",
+      "Eva Unit-02"
+    ],
+    "clues": [
+      "A brilliant teenage pilot arrives from Europe with strong confidence in her own abilities.",
+      "She is determined to prove herself through combat and frequently clashes with the quieter boy piloting Unit-01.",
+      "Her red biomechanical machine is specifically assigned to her in the original series."
+    ],
+    "icon_info": {
+      "starTag": "Second Child",
+      "placeOfBirth": "Germany",
+      "highestAward": "Elite pilot of Eva Unit-02",
+      "alsoKnownFor": "Has German, Japanese and American family background in the original series"
+    },
+    "bonus_question": "In 10 seconds, which Evangelion unit does she pilot?",
+    "bonus_answer": "Eva Unit-02",
+    "imageUrl": "/images/anime/087-asuka-langley-soryu.img",
+    "imageSourceUrl": "https://www.zerochan.net/2054"
+  },
+  {
+    "name": "Motoko Kusanagi",
+    "buzzwords": [
+      "cyberbrain",
+      "Section 9",
+      "the Major"
+    ],
+    "clues": [
+      "A full-body cyborg commands an elite Japanese public-security unit specializing in cybercrime and terrorism.",
+      "She can directly interface with networks, hack systems and operate several artificial bodies.",
+      "Questions about consciousness and identity repeatedly shape her investigations in Ghost in the Shell."
+    ],
+    "icon_info": {
+      "starTag": "The Major",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Field commander of Public Security Section 9",
+      "alsoKnownFor": "Full-body cyborg with advanced cyberbrain capabilities"
+    },
+    "bonus_question": "In 10 seconds, name the public-security unit she leads in the field.",
+    "bonus_answer": "Section 9",
+    "imageUrl": "/images/anime/088-motoko-kusanagi.img",
+    "imageSourceUrl": "https://www.zerochan.net/2965767"
+  },
+  {
+    "name": "Alucard",
+    "buzzwords": [
+      "Casull",
+      "Hellsing Organization",
+      "ancient vampire"
+    ],
+    "clues": [
+      "A nearly indestructible vampire serves a British organization dedicated to eliminating supernatural threats.",
+      "He fights with enormous handguns and can release progressively deeper levels of sealed power.",
+      "His identity is strongly tied to the historical figure Vlad III of Wallachia."
+    ],
+    "icon_info": {
+      "starTag": "Hellsing's ultimate vampire weapon",
+      "placeOfBirth": "Wallachia; identity tied to Vlad III",
+      "highestAward": "Serves as the Hellsing Organization's most powerful supernatural combatant",
+      "alsoKnownFor": "Loyal servant of Integra Hellsing"
+    },
+    "bonus_question": "In 10 seconds, name the organization he serves.",
+    "bonus_answer": "Hellsing Organization",
+    "imageUrl": "/images/anime/089-alucard.img",
+    "imageSourceUrl": "https://www.zerochan.net/53669"
+  },
+  {
+    "name": "Yusuke Urameshi",
+    "buzzwords": [
+      "Dark Tournament",
+      "Spirit Gun",
+      "Spirit Detective"
+    ],
+    "clues": [
+      "A teenage delinquent unexpectedly dies while saving a child from a traffic accident.",
+      "Because the spirit world did not expect his selfless act, he receives a chance to return to life.",
+      "He later investigates supernatural threats and fights using a concentrated blast fired from his finger."
+    ],
+    "icon_info": {
+      "starTag": "Spirit Detective",
+      "placeOfBirth": "Sarayashiki City, Japan",
+      "highestAward": "Led Team Urameshi to victory in the Dark Tournament",
+      "alsoKnownFor": "Descendant of the demon king Raizen"
+    },
+    "bonus_question": "In 10 seconds, name his signature finger-fired attack.",
+    "bonus_answer": "Spirit Gun",
+    "imageUrl": "/images/anime/090-yusuke-urameshi.img",
+    "imageSourceUrl": "https://www.zerochan.net/32875"
+  },
+  {
+    "name": "Koro-sensei",
+    "buzzwords": [
+      "Mach 20",
+      "Class 3-E",
+      "yellow tentacles"
+    ],
+    "clues": [
+      "A mysterious yellow creature claims responsibility for destroying most of the Moon and threatens Earth with the same fate within a year.",
+      "He becomes homeroom teacher to a class whose official assignment is to assassinate him.",
+      "Despite the threat, he proves to be an exceptionally attentive educator who helps his students grow."
+    ],
+    "icon_info": {
+      "starTag": "Unkillable teacher of Class 3-E",
+      "placeOfBirth": "Not specified; formerly a human assassin",
+      "highestAward": "Trained Class 3-E into capable students and assassins while teaching every academic subject",
+      "alsoKnownFor": "Formerly known as the Reaper"
+    },
+    "bonus_question": "In 10 seconds, what top speed is commonly associated with him?",
+    "bonus_answer": "Mach 20",
+    "imageUrl": "/images/anime/091-koro-sensei.img",
+    "imageSourceUrl": "https://www.zerochan.net/1950004"
+  },
+  {
+    "name": "Senku Ishigami",
+    "buzzwords": [
+      "revival fluid",
+      "Kingdom of Science",
+      "ten billion percent"
+    ],
+    "clues": [
+      "A teenage genius awakens thousands of years after a mysterious light petrifies nearly all humanity.",
+      "He begins rebuilding civilization from basic materials using chemistry, engineering and careful experimentation.",
+      "His ultimate ambition is to restore every petrified person through the power of science."
+    ],
+    "icon_info": {
+      "starTag": "Founder of the Kingdom of Science",
+      "placeOfBirth": "Japan",
+      "highestAward": "Rebuilt advanced technology from a Stone Age starting point and developed mass revival methods",
+      "alsoKnownFor": "Known for extreme confidence in scientific reasoning"
+    },
+    "bonus_question": "In 10 seconds, roughly how long is humanity petrified before he awakens?",
+    "bonus_answer": "About 3,700 years",
+    "imageUrl": "/images/anime/092-senku-ishigami.img",
+    "imageSourceUrl": "https://www.zerochan.net/2522921"
+  },
+  {
+    "name": "Shigeo Kageyama",
+    "buzzwords": [
+      "Body Improvement Club",
+      "emotion meter",
+      "Mob"
+    ],
+    "clues": [
+      "A quiet middle-school student possesses overwhelming psychic power but wants to improve himself without relying on it.",
+      "He works part-time for a self-proclaimed spirit consultant who lacks genuine psychic abilities.",
+      "When his suppressed emotions reach one hundred percent, his powers change dramatically."
+    ],
+    "icon_info": {
+      "starTag": "Powerful esper nicknamed Mob",
+      "placeOfBirth": "Seasoning City, Japan",
+      "highestAward": "Repeatedly saved Seasoning City while learning healthier control of his emotions",
+      "alsoKnownFor": "Member of the Body Improvement Club"
+    },
+    "bonus_question": "In 10 seconds, what nickname is he usually called?",
+    "bonus_answer": "Mob",
+    "imageUrl": "/images/anime/093-shigeo-kageyama.img",
+    "imageSourceUrl": "https://www.zerochan.net/2452564"
+  },
+  {
+    "name": "Reigen Arataka",
+    "buzzwords": [
+      "salt attacks",
+      "consultation office",
+      "fake psychic"
+    ],
+    "clues": [
+      "A charismatic adult runs a business offering exorcisms and spiritual advice despite having no supernatural powers.",
+      "He becomes mentor and employer to an extraordinarily powerful middle-school esper.",
+      "His real strengths are persuasion, improvisation and surprisingly sincere advice when his young employee needs it."
+    ],
+    "icon_info": {
+      "starTag": "Self-proclaimed greatest psychic",
+      "placeOfBirth": "Seasoning City, Japan",
+      "highestAward": "Built Spirits and Such Consultation Office and became a major mentor to Mob",
+      "alsoKnownFor": "Has no genuine psychic powers"
+    },
+    "bonus_question": "In 10 seconds, name his business.",
+    "bonus_answer": "Spirits and Such Consultation Office",
+    "imageUrl": "/images/anime/094-reigen-arataka.img",
+    "imageSourceUrl": "https://www.zerochan.net/2452565"
+  },
+  {
+    "name": "Violet Evergarden",
+    "buzzwords": [
+      "mechanical arms",
+      "Auto Memories Doll",
+      "I love you"
+    ],
+    "clues": [
+      "A former child soldier loses both arms near the end of a major war and receives metal prosthetics.",
+      "She begins working as a professional letter writer, putting other people's emotions into words.",
+      "Her personal journey is driven by a desire to understand the final words spoken to her by Major Gilbert."
+    ],
+    "icon_info": {
+      "starTag": "Auto Memories Doll",
+      "placeOfBirth": "Origin not specified; later works in Leidenschaftlich",
+      "highestAward": "Became a celebrated letter writer whose work changed many clients' lives",
+      "alsoKnownFor": "Former child soldier who served under Gilbert Bougainvillea"
+    },
+    "bonus_question": "In 10 seconds, what three-word phrase does she spend much of the story trying to understand?",
+    "bonus_answer": "I love you",
+    "imageUrl": "/images/anime/095-violet-evergarden.img",
+    "imageSourceUrl": "https://www.zerochan.net/2553905"
+  },
+  {
+    "name": "Tohru Honda",
+    "buzzwords": [
+      "rice ball metaphor",
+      "Sohma house",
+      "Zodiac curse"
+    ],
+    "clues": [
+      "An orphaned high-school girl begins living with members of a secretive family after her tent is destroyed.",
+      "She discovers that certain family members transform into animals of the Chinese Zodiac when embraced by someone of the opposite sex.",
+      "Her empathy gradually helps the family confront trauma and the supernatural bond controlling them."
+    ],
+    "icon_info": {
+      "starTag": "Kindhearted outsider to the Sohma family",
+      "placeOfBirth": "Japan; exact birthplace not stated",
+      "highestAward": "Played a central role in helping the Sohma family heal as the Zodiac curse came to an end",
+      "alsoKnownFor": "Daughter of Kyoko and Katsuya Honda"
+    },
+    "bonus_question": "In 10 seconds, name the family whose supernatural secret she discovers.",
+    "bonus_answer": "Sohma",
+    "imageUrl": "/images/anime/096-tohru-honda.img",
+    "imageSourceUrl": "https://www.zerochan.net/9704"
+  },
+  {
+    "name": "Rintaro Okabe",
+    "buzzwords": [
+      "Future Gadget Lab",
+      "Reading Steiner",
+      "Hououin Kyouma"
+    ],
+    "clues": [
+      "An eccentric university student in Akihabara calls himself a mad scientist and runs a tiny laboratory with friends.",
+      "A modified microwave unexpectedly allows messages to be sent into the past.",
+      "Unlike most people, he can retain memories when history shifts between world lines."
+    ],
+    "icon_info": {
+      "starTag": "Self-proclaimed mad scientist",
+      "placeOfBirth": "Tokyo, Japan",
+      "highestAward": "Reached the Steins Gate world line after navigating repeated timeline changes",
+      "alsoKnownFor": "Founder and Lab Member 001 of the Future Gadget Laboratory"
+    },
+    "bonus_question": "In 10 seconds, name his dramatic mad-scientist alias.",
+    "bonus_answer": "Hououin Kyouma",
+    "imageUrl": "/images/anime/097-rintaro-okabe.img",
+    "imageSourceUrl": "https://www.zerochan.net/1647029"
+  },
+  {
+    "name": "Kurisu Makise",
+    "buzzwords": [
+      "Viktor Chondria",
+      "Time Leap Machine",
+      "Christina"
+    ],
+    "clues": [
+      "A young Japanese neuroscientist works at an American university and publishes important research while still a teenager.",
+      "She becomes involved with the Future Gadget Laboratory after witnessing impossible events in Akihabara.",
+      "Her knowledge is crucial to developing technology that sends a person's memories into the past."
+    ],
+    "icon_info": {
+      "starTag": "Genius neuroscientist",
+      "placeOfBirth": "Japan",
+      "highestAward": "Helped develop the Time Leap Machine",
+      "alsoKnownFor": "Lab Member 004 of the Future Gadget Laboratory"
+    },
+    "bonus_question": "In 10 seconds, what teasing nickname does Okabe repeatedly use for her?",
+    "bonus_answer": "Christina",
+    "imageUrl": "/images/anime/098-kurisu-makise.img",
+    "imageSourceUrl": "https://www.zerochan.net/735464"
+  },
+  {
+    "name": "Madoka Kaname",
+    "buzzwords": [
+      "Kyubey",
+      "Law of Cycles",
+      "pink magical girl"
+    ],
+    "clues": [
+      "A kind middle-school student is offered a supernatural contract that can grant one wish in exchange for becoming a magical girl.",
+      "She learns that the system ultimately turns magical girls into the very witches they fight.",
+      "In the final timeline, she makes a wish so vast that it rewrites the laws governing magical girls across time."
+    ],
+    "icon_info": {
+      "starTag": "Law of Cycles",
+      "placeOfBirth": "Mitakihara City, Japan",
+      "highestAward": "Rewrote reality to prevent magical girls from becoming witches",
+      "alsoKnownFor": "Best friend of Sayaka Miki and central figure in Homura's repeated timelines"
+    },
+    "bonus_question": "In 10 seconds, name the creature who offers magical-girl contracts.",
+    "bonus_answer": "Kyubey",
+    "imageUrl": "/images/anime/099-madoka-kaname.img",
+    "imageSourceUrl": "https://www.zerochan.net/901394"
+  },
+  {
+    "name": "Johan Liebert",
+    "buzzwords": [
+      "511 Kinderheim",
+      "Nameless Monster",
+      "master manipulator"
+    ],
+    "clues": [
+      "A young boy receives life-saving brain surgery after being shot, while another patient is denied priority treatment.",
+      "Years later, the surgeon who saved him discovers that the child grew into an exceptionally dangerous manipulator.",
+      "His past is tied to secret experiments, an East German orphanage and a picture book about a nameless monster."
+    ],
+    "icon_info": {
+      "starTag": "The Nameless Monster",
+      "placeOfBirth": "Czechoslovakia; exact birthplace not stated",
+      "highestAward": "Built a terrifying network of manipulation while repeatedly erasing traces of his own identity",
+      "alsoKnownFor": "Twin brother of Anna Liebert, later known as Nina Fortner"
+    },
+    "bonus_question": "In 10 seconds, name the orphanage connected to his childhood conditioning.",
+    "bonus_answer": "511 Kinderheim",
+    "imageUrl": "/images/anime/100-johan-liebert.img",
+    "imageSourceUrl": "https://www.zerochan.net/131559"
+  }
+]
