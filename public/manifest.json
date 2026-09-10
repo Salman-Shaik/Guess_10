@@ -1,6 +1,6 @@
 {
-  "short_name": "Deca Guesser",
-  "name": "Deca-Question Guesser",
+  "short_name": "Guess in 10",
+  "name": "Guess in 10",
   "icons": [
     {
       "src": "favicon.svg",

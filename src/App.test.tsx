@@ -3,9 +3,9 @@ import App from './App';
 
 beforeEach(() => localStorage.clear());
 
-test('renders Deca-Question Guesser header', () => {
+test('renders Guess in 10 header', () => {
   render(<App />);
-  const headerElement = screen.getByText(/Deca-Question Guesser/i);
+  const headerElement = screen.getByText(/Guess in 10/i);
   expect(headerElement).toBeInTheDocument();
 });
 
