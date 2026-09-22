@@ -59,7 +59,30 @@ test('plays a card through incorrect guess, correct guess, and bonus', async ({ 
   await page.getByRole('button', { name: 'Correct answer', exact: true }).click();
   await expect(page.getByText(/Bonus challenge/)).toBeVisible();
   await page.getByRole('button', { name: 'Bonus correct' }).click();
+  await expect(page.getByRole('heading', { name: /Pass the device to Team 2/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Team 2 is ready' }).click();
   await expect(page.getByText(/Team 2 holds the card/)).toBeVisible();
+});
+
+test('reshuffles after every card is skipped and protects the next card with handoff', async ({ page }) => {
+  await page.evaluate(cardData => localStorage.setItem('guess-in-10-active-game', JSON.stringify({
+    category: 'custom', deck: [cardData], order: [0], cursor: 0,
+    state: { holderTeam: 'teamA', questionsThisCard: 0, guessesThisCard: { teamA: 0, teamB: 0 }, cluesRemaining: { teamA: 3, teamB: 3 }, clueUsedOnThisCard: { teamA: false, teamB: false }, cardsWon: { teamA: 0, teamB: 0 }, buzzPrivilege: { teamA: false, teamB: false } },
+    match: { winMode: 'target', winningScore: 7, teams: { teamA: { name: 'Team A', members: [] }, teamB: { name: 'Team B', members: [] } }, participantOrder: ['teamA', 'teamB'] },
+  })), card);
+  await page.reload();
+  await page.getByRole('button', { name: 'Skip Card' }).click();
+  await expect(page.getByRole('heading', { name: /Pass the device to Team B/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Team B is ready' }).click();
+  await expect(page.getByText('Test Hero', { exact: true })).toBeVisible();
+});
+
+test('does not overflow common phone, tablet, and desktop widths', async ({ page }, testInfo) => {
+  test.skip(testInfo.project.name === 'mobile-chromium', 'Viewport matrix runs once in desktop Chromium.');
+  for (const viewport of [{ width: 320, height: 700 }, { width: 768, height: 900 }, { width: 1440, height: 900 }]) {
+    await page.setViewportSize(viewport);
+    await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+  }
 });
 
 test('uses clues, confirms question correction, persists refresh, and quits safely', async ({ page }) => {

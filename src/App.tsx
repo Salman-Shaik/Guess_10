@@ -38,6 +38,7 @@ type SavedGame = {
   state: GameState;
   match: MatchConfig;
   manualWinner?: TeamKey;
+  awaitingHandoff?: boolean;
 };
 
 const DEFAULT_MATCH: MatchConfig = {
@@ -83,6 +84,7 @@ export default function App() {
   const [showQuitDialog, setShowQuitDialog] = useState(false);
   const [showQuestionDecreaseDialog, setShowQuestionDecreaseDialog] = useState(false);
   const [manualWinner, setManualWinner] = useState<TeamKey | undefined>(restoredGame?.manualWinner);
+  const [awaitingHandoff, setAwaitingHandoff] = useState(restoredGame?.awaitingHandoff ?? false);
   const [match, setMatch] = useState<MatchConfig>(restoredGame?.match ?? DEFAULT_MATCH);
   const [state, setState] = useState<GameState>(restoredGame?.state ?? {
     holderTeam: 'teamA',
@@ -96,9 +98,9 @@ export default function App() {
 
   useEffect(() => {
     if (page === 'game' && deck.length) {
-      localStorage.setItem(SAVED_GAME_KEY, JSON.stringify({ category, deck, order, cursor, state, match, manualWinner } satisfies SavedGame));
+      localStorage.setItem(SAVED_GAME_KEY, JSON.stringify({ category, deck, order, cursor, state, match, manualWinner, awaitingHandoff } satisfies SavedGame));
     }
-  }, [category, cursor, deck, manualWinner, match, order, page, state]);
+  }, [awaitingHandoff, category, cursor, deck, manualWinner, match, order, page, state]);
 
 
   function startGame(cfg: SetupConfig, initial: Deck) {
@@ -110,6 +112,7 @@ export default function App() {
     setCursor(0);
     setMatch(cfg.match);
     setManualWinner(undefined);
+    setAwaitingHandoff(false);
     setState({
       holderTeam: cfg.startingHolder,
       questionsThisCard: 0,
@@ -134,12 +137,14 @@ export default function App() {
   const deckExhausted = order.length > 0 && cursor >= order.length;
   const deckWinner = deckExhausted ? currentLeader : undefined;
   const winner = manualWinner ?? targetWinner ?? deckWinner;
+  const wonBecauseDeckEnded = Boolean(deckWinner && !manualWinner && !targetWinner);
   const tied = !currentLeader;
 
   function quitGame() {
     localStorage.removeItem(SAVED_GAME_KEY);
     setShowQuitDialog(false);
     setManualWinner(undefined);
+    setAwaitingHandoff(false);
     setPage('setup');
   }
 
@@ -151,11 +156,25 @@ export default function App() {
     if (!deck.length) return;
     const [nextIndex] = shuffle(deck.map((_, index) => index), Date.now());
     setOrder(current => [...current, nextIndex]);
+    setAwaitingHandoff(true);
   }
 
 
   function nextCard(result?: { cardWinner?: TeamKey; bonusWinner?: TeamKey }) {
-    setCursor(c => c + 1);
+    const projectedCardsWon = result?.cardWinner
+      ? { ...state.cardsWon, [result.cardWinner]: (state.cardsWon[result.cardWinner] ?? 0) + 1 }
+      : state.cardsWon;
+    const reachedDeckEnd = order.length > 0 && cursor + 1 >= order.length;
+    const everyCardWasSkipped = reachedDeckEnd && Object.values(projectedCardsWon).every(score => score === 0);
+
+    if (everyCardWasSkipped) {
+      const freshOrder = shuffle(deck.map((_, cardIndex) => cardIndex), Date.now());
+      if (freshOrder.length > 1 && freshOrder[0] === index) freshOrder.push(freshOrder.shift()!);
+      setOrder(freshOrder);
+      setCursor(0);
+    } else {
+      setCursor(c => c + 1);
+    }
     setState(s => ({
       ...s,
       questionsThisCard: 0,
@@ -167,6 +186,7 @@ export default function App() {
         : s.cardsWon,
       buzzPrivilege: advanceBuzzPrivileges(s.buzzPrivilege, guessingTeam, result?.bonusWinner),
     }));
+    setAwaitingHandoff(!reachedDeckEnd || everyCardWasSkipped);
   }
 
 
@@ -253,9 +273,18 @@ export default function App() {
       {winner ? (
         <div className="gi10-winner">
           <div>🏆 {match.teams[winner].name} wins!</div>
-          <small>{state.cardsWon[winner] ?? 0} cards collected</small>
+          <small>{wonBecauseDeckEnded ? `The deck is complete. Highest score: ${state.cardsWon[winner] ?? 0} cards.` : `${state.cardsWon[winner] ?? 0} cards collected`}</small>
           <button className="btn" onClick={quitGame}>Finish game</button>
         </div>
+      ) : awaitingHandoff ? (
+        <section className="handoff-screen" aria-labelledby="handoff-title">
+          <span className="handoff-screen__icon" aria-hidden="true">↪</span>
+          <span className="eyebrow">Private card handoff</span>
+          <h2 id="handoff-title">Pass the device to {match.teams[state.holderTeam].name}</h2>
+          <p><strong>{match.teams[state.holderTeam].name}</strong> will hold the next card. <strong>{match.teams[guessingTeam].name}</strong> will guess.</p>
+          <button className="btn handoff-screen__button" onClick={() => setAwaitingHandoff(false)}>{match.teams[state.holderTeam].name} is ready</button>
+          <small>Only tap when the new card holder has the device.</small>
+        </section>
       ) : card ? (
         <>
           <div className="gi10-note">

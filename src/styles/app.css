@@ -379,6 +379,14 @@ button { touch-action: manipulation; }
 .gi10-empty, .gi10-winner { padding: 48px 24px; border: 1px solid var(--line); border-radius: var(--radius-lg); background: var(--surface); box-shadow: var(--shadow); text-align: center; }
 .gi10-winner { color: #eafff7; border-color: rgba(52,211,153,.35); background: linear-gradient(145deg, rgba(52,211,153,.17), var(--surface)); font-family: 'Manrope'; font-size: clamp(1.8rem, 5vw, 3rem); font-weight: 800; }
 .gi10-winner small { display: block; margin: 9px 0 24px; color: var(--muted); font-family: 'DM Sans'; font-size: .9rem; font-weight: 500; }
+.handoff-screen { display: grid; width: min(620px, 100%); margin: clamp(28px, 7vh, 72px) auto 0; padding: clamp(28px, 6vw, 52px); justify-items: center; border: 1px solid rgba(34,211,238,.28); border-radius: var(--radius-lg); background: linear-gradient(145deg, rgba(34,211,238,.1), rgba(139,92,246,.13)), var(--surface); box-shadow: var(--shadow); text-align: center; }
+.handoff-screen__icon { display: grid; width: 62px; height: 62px; margin-bottom: 18px; place-items: center; border: 1px solid rgba(34,211,238,.3); border-radius: 20px; color: var(--cyan); background: rgba(34,211,238,.09); font-size: 2rem; }
+.handoff-screen .eyebrow { margin-bottom: 8px; }
+.handoff-screen h2 { margin: 0; font-family: 'Manrope'; font-size: clamp(1.65rem, 5vw, 2.7rem); letter-spacing: -.045em; }
+.handoff-screen p { max-width: 470px; margin: 13px 0 22px; color: var(--muted); line-height: 1.55; }
+.handoff-screen p strong { color: var(--text); }
+.handoff-screen__button { min-width: min(280px, 100%); }
+.handoff-screen small { margin-top: 12px; color: var(--muted); }
 
 .gi10-modal { position: fixed; z-index: 100; inset: 0; display: grid; padding: 20px; place-items: center; background: rgba(4,5,10,.78); backdrop-filter: blur(12px); }
 .gi10-modal__dialog { width: min(780px, 100%); padding: 20px; border: 1px solid var(--line-strong); border-radius: var(--radius-lg); background: #171a2a; box-shadow: var(--shadow); }
@@ -396,6 +404,14 @@ button { touch-action: manipulation; }
   .match-options { grid-template-columns: 1fr 1fr; }
   .participant-setup { grid-template-columns: 1fr; }
   .win-options { grid-column: 1 / -1; }
+}
+
+@media (max-width: 760px) {
+  .gi10-actor { grid-template-columns: 1fr; }
+  .gi10-actor__avatar { width: min(280px, 100%); height: min(340px, 64vh); }
+  .gi10-actor__heading { align-items: stretch; flex-direction: column; }
+  .gi10-actor__heading .btn { width: 100%; }
+  .gi10-actor__info .gi10-icongrid { grid-template-columns: 1fr 1fr; }
 }
 
 @media (max-width: 600px) {
@@ -430,6 +446,24 @@ button { touch-action: manipulation; }
   .gi10-guesspanel .row { flex-direction: column; }
   .gi10-actions { flex-direction: column-reverse; }
   .gi10-actions .btn { width: 100%; }
+  .handoff-screen { margin-top: 20px; }
+}
+
+@media (max-width: 420px) {
+  .gi10-app { padding-inline: 10px; }
+  .gi10-title { font-size: 2rem; }
+  .gi10-scorebar { gap: 6px; }
+  .gi10-scoreblock { min-height: 94px; padding: 11px; }
+  .gi10-scoreblock .value { font-size: 1.25rem; }
+  .gi10-controls { display: grid; grid-template-columns: 1fr 1fr; }
+  .gi10-controls > .btn { width: 100%; padding-inline: 10px; }
+  .gi10-qcounter { grid-column: 1 / -1; display: grid; grid-template-columns: 1fr auto auto; gap: 7px; }
+  .gi10-qcounter .label { align-self: center; }
+  .gi10-qcounter .btn { min-width: 48px; }
+  .gi10-actor__info .gi10-icongrid, .clues { grid-template-columns: 1fr; }
+  .chip { width: 100%; justify-content: space-between; }
+  .gi10-modal { padding: 10px; }
+  .gi10-modal__dialog { max-height: calc(100vh - 20px); overflow-y: auto; padding: 16px; }
 }
 
 /* Compact setup workspace */
