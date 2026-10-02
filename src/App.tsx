@@ -215,6 +215,15 @@ export default function App() {
     setAdjudication({ kind: 'guess', team, text });
   }
 
+  function acceptCorrectGuess(team: TeamKey) {
+    if (team !== guessingTeam) return;
+    if (card?.bonus_question) setAdjudication({ kind: 'bonus', team });
+    else {
+      setAdjudication(null);
+      nextCard({ cardWinner: team });
+    }
+  }
+
   function resolveGuess(correct: boolean) {
     if (!adjudication || adjudication.kind !== 'guess') return;
     const { team } = adjudication;
@@ -228,18 +237,14 @@ export default function App() {
       return;
     }
 
-    if (card?.bonus_question) setAdjudication({ kind: 'bonus', team });
-    else {
-      setAdjudication(null);
-      nextCard({ cardWinner: team });
-    }
+    acceptCorrectGuess(team);
   }
 
   function resolveBonus(correct: boolean) {
     if (!adjudication || adjudication.kind !== 'bonus') return;
     const { team } = adjudication;
     setAdjudication(null);
-    nextCard({ cardWinner: team, bonusWinner: correct ? team : undefined });
+    nextCard({ cardWinner: correct ? team : undefined, bonusWinner: correct ? team : undefined });
   }
 
 
@@ -296,9 +301,10 @@ export default function App() {
           <GameCard
             card={card}
             buzzToTell={buzzToTell}
-            clueUsed={state.clueUsedOnThisCard[state.holderTeam]}
-            canUseClue={canUseClue(state.holderTeam)}
-            onUseClue={() => spendClue(state.holderTeam)}
+            clueUsed={state.clueUsedOnThisCard[guessingTeam]}
+            canUseClue={canUseClue(guessingTeam)}
+            clueOwnerName={match.teams[guessingTeam]?.name ?? 'guessing team'}
+            onUseClue={() => spendClue(guessingTeam)}
           />
 
 
@@ -306,6 +312,7 @@ export default function App() {
             guessingTeam={guessingTeam}
             participantName={match.teams[guessingTeam]?.name ?? 'Next participant'}
             onSubmit={onTeamGuess}
+            onCorrect={acceptCorrectGuess}
             guessesUsed={state.guessesThisCard[guessingTeam] ?? 0}
           />
 
@@ -333,7 +340,7 @@ export default function App() {
                 <span className="eyebrow">Confirm the guess</span>
                 <h2 id="adjudication-title">Was {match.teams[adjudication.team].name} correct?</h2>
                 <div className="submitted-answer">“{adjudication.text}”</div>
-                <p>Incorrect uses one of this team's two guesses. Correct awards the card after the bonus.</p>
+                <p>Incorrect uses one of this team's two guesses. Correct opens the bonus; the card is awarded only when the bonus is also correct.</p>
                 <div className="adjudication-actions">
                   <button className="btn incorrect" onClick={() => resolveGuess(false)}>Incorrect answer</button>
                   <button className="btn correct" onClick={() => resolveGuess(true)}>Correct answer</button>
@@ -344,7 +351,7 @@ export default function App() {
                 <span className="eyebrow">Bonus challenge · {match.teams[adjudication.team].name}</span>
                 <h2 id="adjudication-title">{card?.bonus_question}</h2>
                 {card?.bonus_answer && <div className="bonus-reference"><span>Answer guide</span><strong>{card.bonus_answer}</strong></div>}
-                <p>A correct bonus unlocks the third buzzword the next time {match.teams[adjudication.team].name} is the guessing team.</p>
+                <p>A correct bonus awards the card and unlocks the third buzzword the next time {match.teams[adjudication.team].name} is guessing. An incorrect bonus awards no card.</p>
                 <div className="adjudication-actions">
                   <button className="btn incorrect" onClick={() => resolveBonus(false)}>Bonus incorrect</button>
                   <button className="btn correct" onClick={() => resolveBonus(true)}>Bonus correct</button>

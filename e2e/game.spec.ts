@@ -64,6 +64,16 @@ test('plays a card through incorrect guess, correct guess, and bonus', async ({ 
   await expect(page.getByText(/Team 2 holds the card/)).toBeVisible();
 });
 
+test('supports a one-tap correct result and awards no card when the bonus is wrong', async ({ page }) => {
+  await page.getByRole('button', { name: 'Start game' }).click();
+  await page.getByRole('button', { name: 'Team 2 guessed correctly' }).click();
+  await expect(page.getByText(/Bonus challenge/)).toBeVisible();
+  await page.getByRole('button', { name: 'Bonus incorrect' }).click();
+  await expect(page.getByRole('heading', { name: /Pass the device to Team 2/ })).toBeVisible();
+  const teamTwoScore = page.locator('.gi10-scoreblock.participant-2 .value');
+  await expect(teamTwoScore).toContainText('0');
+});
+
 test('reshuffles after every card is skipped and protects the next card with handoff', async ({ page }) => {
   await page.evaluate(cardData => localStorage.setItem('guess-in-10-active-game', JSON.stringify({
     category: 'custom', deck: [cardData], order: [0], cursor: 0,
@@ -87,8 +97,10 @@ test('does not overflow common phone, tablet, and desktop widths', async ({ page
 
 test('uses clues, confirms question correction, persists refresh, and quits safely', async ({ page }) => {
   await page.getByRole('button', { name: 'Start game' }).click();
-  await page.getByRole('button', { name: 'Use Team Clue' }).click();
-  await expect(page.getByRole('button', { name: 'Clue Used' })).toBeDisabled();
+  await page.getByRole('button', { name: 'Use Team 2 clue' }).click();
+  await expect(page.getByRole('button', { name: 'Team 2 clue used' })).toBeDisabled();
+  await expect(page.locator('.gi10-scoreblock.participant-2')).toContainText('2 clues');
+  await expect(page.locator('.gi10-scoreblock.participant-1')).toContainText('3 clues');
   await page.getByRole('button', { name: '+1' }).click();
   await page.getByLabel('Decrease question count').click();
   await expect(page.getByRole('heading', { name: 'Remove one question?' })).toBeVisible();

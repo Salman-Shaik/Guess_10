@@ -5,10 +5,11 @@ type GuessPanelProps = {
   guessingTeam: TeamKey;
   participantName: string;
   onSubmit: (team: TeamKey, guess: string) => void;
+  onCorrect: (team: TeamKey) => void;
   guessesUsed: number;
 };
 
-export function GuessPanel({ guessingTeam, participantName, onSubmit, guessesUsed }: GuessPanelProps) {
+export function GuessPanel({ guessingTeam, participantName, onSubmit, onCorrect, guessesUsed }: GuessPanelProps) {
   const [text, setText] = useState('');
   const left = Math.max(0, 2 - guessesUsed);
   const submitGuess = () => {
@@ -27,6 +28,10 @@ export function GuessPanel({ guessingTeam, participantName, onSubmit, guessesUse
             onKeyDown={event => { if (event.key === 'Enter') submitGuess(); }}
             placeholder="Type the answer…" aria-label={`${participantName} guess`} autoComplete="off" />
           <button className="btn" disabled={left === 0 || !text.trim()} onClick={submitGuess}>Lock in answer</button>
+        </div>
+        <div className="quick-correct">
+          <span>Playing verbally?</span>
+          <button className="btn correct-outline" disabled={left === 0} onClick={() => onCorrect(guessingTeam)}>{participantName} guessed correctly</button>
         </div>
         {left === 0 && <div className="hint">No guesses left for this card.</div>}
       </div>

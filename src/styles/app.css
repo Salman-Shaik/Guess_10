@@ -369,6 +369,9 @@ button { touch-action: manipulation; }
 .gi10-guesspanel { margin-top: 14px; }
 .gi10-guesspanel .side { padding: 17px; border-radius: var(--radius-md); }
 .gi10-guesspanel .row { display: flex; gap: 9px; }
+.quick-correct { display: flex; align-items: center; justify-content: flex-end; gap: 10px; margin-top: 11px; color: var(--muted); font-size: .78rem; }
+.correct-outline { min-height: 40px; color: #dffff2; border-color: rgba(52,211,153,.32); background: rgba(52,211,153,.1); box-shadow: none; }
+.correct-outline:hover:not(:disabled) { border-color: rgba(52,211,153,.55); background: rgba(52,211,153,.16); box-shadow: none; }
 .input, .gi10-textarea { border: 1px solid var(--line); color: var(--text); background: rgba(4,6,12,.62); transition: border-color .2s, box-shadow .2s; }
 .input { flex: 1; min-width: 0; min-height: 48px; padding: 0 15px; border-radius: 11px; }
 .input::placeholder, .gi10-textarea::placeholder { color: #71778c; }
@@ -444,6 +447,8 @@ button { touch-action: manipulation; }
   .gi10-actor__heading .btn { width: 100%; }
   .clues, .gi10-icongrid { grid-template-columns: 1fr; }
   .gi10-guesspanel .row { flex-direction: column; }
+  .quick-correct { align-items: stretch; flex-direction: column; text-align: center; }
+  .quick-correct .btn { width: 100%; }
   .gi10-actions { flex-direction: column-reverse; }
   .gi10-actions .btn { width: 100%; }
   .handoff-screen { margin-top: 20px; }

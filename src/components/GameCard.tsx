@@ -12,10 +12,11 @@ type GameCardProps = {
   buzzToTell: 2 | 3;
   clueUsed: boolean;
   canUseClue: boolean;
+  clueOwnerName: string;
   onUseClue: () => void;
 };
 
-export function GameCard({ card, buzzToTell, clueUsed, canUseClue, onUseClue }: GameCardProps) {
+export function GameCard({ card, buzzToTell, clueUsed, canUseClue, clueOwnerName, onUseClue }: GameCardProps) {
   const [imageFailed, setImageFailed] = useState(false);
   const hasImage = Boolean(card.imageUrl && card.imageUrl !== 'null') && !imageFailed;
 
@@ -43,7 +44,7 @@ export function GameCard({ card, buzzToTell, clueUsed, canUseClue, onUseClue }: 
               <div className="gi10-actor__name">{card.name}</div>
             </div>
             <button className="btn secondary" onClick={onUseClue} disabled={!canUseClue}>
-              {clueUsed ? 'Clue Used' : 'Use Team Clue'}
+              {clueUsed ? `${clueOwnerName} clue used` : `Use ${clueOwnerName} clue`}
             </button>
           </div>
 
